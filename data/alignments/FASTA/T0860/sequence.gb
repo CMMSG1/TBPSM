@@ -1,0 +1,2140 @@
+LOCUS       4D62_A                   187 aa            linear   VRL 27-JAN-2018
+DEFINITION  Chain A, 1 FIBER KNOB DOMAIN.
+ACCESSION   4D62_A
+VERSION     4D62_A
+DBSOURCE    pdb: molecule 4D62, chain 65, release Jan 17, 2018;
+            deposition: Nov 8, 2014;
+            class: VIRAL PROTEIN;
+            source: Mmdb_id: 133213, Pdb_id 1: 4D62;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Avirulent turkey hemorrhagic enteritis virus
+  ORGANISM  Avirulent turkey hemorrhagic enteritis virus
+            Viruses; dsDNA viruses, no RNA stage; Adenoviridae; Siadenovirus.
+REFERENCE   1  (residues 1 to 187)
+  AUTHORS   Singh,A.K., Berbis,M.A., Ballmann,M.Z., Kilcoyne,M., Menendez,M.,
+            Nguyen,T.H., Joshi,L., Canada,F.J., Jimenez-Barbero,J., Benko,M.,
+            Harrach,B. and van Raaij,M.J.
+  TITLE     Structure and Sialyllactose Binding of the Carboxy-Terminal Head
+            Domain of the Fibre from a Siadenovirus, Turkey Adenovirus 3
+  JOURNAL   PLoS ONE 10 (9), e0139339 (2015)
+   PUBMED   26418008
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 187)
+  AUTHORS   Singh,A.K. and van Raaij,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2014)
+COMMENT     Structure of the carboxy-terminal domain of the turkey type 3
+            siadenovirus fibre, avirulent form complexed with 3-sialyllactose.
+FEATURES             Location/Qualifiers
+     source          1..187
+                     /organism="Avirulent turkey hemorrhagic enteritis virus"
+                     /db_xref="taxon:318490"
+     SecStr          52..59
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          63..73
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          74..81
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          84..89
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          91..102
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          112..121
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          123..126
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          128..132
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          133..138
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          140..144
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          145..155
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          156..164
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          172..178
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          180..186
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsefgppt tmvtgtvspg ratngqfvtk
+       61 takvlrykfv rwdalliiqf idnigvmenp tfyrnksiel rsadflspml nntyivplng
+      121 gvrvesptip vqlevilenn ssfiqvgfvr ltvkngnphm iiqcnpvpgn ikmikiksvm
+      181 lftclig
+//
+
+LOCUS       4CW8_A                   190 aa            linear   VRL 27-JAN-2018
+DEFINITION  Chain A, 1 FIBER KNOB DOMAIN.
+ACCESSION   4CW8_A
+VERSION     4CW8_A
+DBSOURCE    pdb: molecule 4CW8, chain 65, release Jan 17, 2018;
+            deposition: Apr 1, 2014;
+            class: VIRAL PROTEIN;
+            source: Mmdb_id: 128350, Pdb_id 1: 4CW8;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Turkey adenovirus 3 (TAdV-3)
+  ORGANISM  Turkey adenovirus 3
+            Viruses; dsDNA viruses, no RNA stage; Adenoviridae; Siadenovirus.
+REFERENCE   1  (residues 1 to 190)
+  AUTHORS   Singh,A.K., Berbis,M.A., Ballmann,M.Z., Kilcoyne,M., Menendez,M.,
+            Nguyen,T.H., Joshi,L., Canada,F.J., Jimenez-Barbero,J., Benko,M.,
+            Harrach,B. and van Raaij,M.J.
+  TITLE     Structure and Sialyllactose Binding of the Carboxy-Terminal Head
+            Domain of the Fibre from a Siadenovirus, Turkey Adenovirus 3
+  JOURNAL   PLoS ONE 10 (9), e0139339 (2015)
+   PUBMED   26418008
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 190)
+  AUTHORS   Singh,A.K. and van Raaij,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-APR-2014)
+COMMENT     Structure of the carboxy-terminal domain of the turkey type 3
+            siadenovirus fibre, virulent form.
+FEATURES             Location/Qualifiers
+     source          1..190
+                     /organism="Turkey adenovirus 3"
+                     /db_xref="taxon:41678"
+     SecStr          55..63
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          65..75
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          77..84
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          87..91
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          95..99
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          101..105
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          115..124
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          126..130
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          131..135
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          136..141
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          143..147
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          148..158
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          159..167
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          175..181
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          183..189
+                     /sec_str_type="sheet"
+                     /note="strand 15"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsefasig ppttmvtgtv spgratngqf
+       61 vtktakvlry kfvrwdalli iqfidnigvi enptfyrnks ielrsadfls ptlnntyivp
+      121 lnggvrvesp tipvqlevil ennssfiqvg fvrltvkngn phmiiqcnpv pgnikmikik
+      181 svmlftclig
+//
+
+LOCUS       3ZPE_A                   190 aa            linear   VRL 27-JAN-2018
+DEFINITION  Chain A, 1 FIBER.
+ACCESSION   3ZPE_A
+VERSION     3ZPE_A
+DBSOURCE    pdb: molecule 3ZPE, chain 65, release Jan 17, 2018;
+            deposition: Feb 27, 2013;
+            class: VIRAL PROTEIN;
+            source: Mmdb_id: 118180, Pdb_id 1: 3ZPE;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Avirulent turkey hemorrhagic enteritis virus
+  ORGANISM  Avirulent turkey hemorrhagic enteritis virus
+            Viruses; dsDNA viruses, no RNA stage; Adenoviridae; Siadenovirus.
+REFERENCE   1  (residues 1 to 190)
+  AUTHORS   Singh,A.K., Berbis,M.A., Ballmann,M.Z., Kilcoyne,M., Menendez,M.,
+            Nguyen,T.H., Joshi,L., Canada,F.J., Jimenez-Barbero,J., Benko,M.,
+            Harrach,B. and van Raaij,M.J.
+  TITLE     Structure and Sialyllactose Binding of the Carboxy-Terminal Head
+            Domain of the Fibre from a Siadenovirus, Turkey Adenovirus 3
+  JOURNAL   PLoS ONE 10 (9), e0139339 (2015)
+   PUBMED   26418008
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 190)
+  AUTHORS   Singh,A.K. and van Raaij,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-2013)
+COMMENT     Structure of the carboxy-terminal domain of the turkey type 3
+            siadenovirus fibre.
+FEATURES             Location/Qualifiers
+     source          1..190
+                     /organism="Avirulent turkey hemorrhagic enteritis virus"
+                     /db_xref="taxon:318490"
+     SecStr          55..63
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          65..75
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          77..84
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          87..92
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          94..99
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          101..105
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          115..124
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          126..130
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          131..135
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          136..141
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          143..147
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          148..155
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          159..167
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          175..181
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          183..189
+                     /sec_str_type="sheet"
+                     /note="strand 15"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsefasig ppttmvtgtv spgratngqf
+       61 vtktakvlry kfvrwdalli iqfidnigvm enptfyrnks ielrsadfls pmlnntyivp
+      121 lnggvrvesp tipvqlevil ennssfiqvg fvrltvkngn phmiiqcnpv pgnikmikik
+      181 svmlftclig
+//
+
+LOCUS       3PID_A                   432 aa            linear   BCT 22-NOV-2017
+DEFINITION  Chain A, 1 UDP-glucose 6-dehydrogenase.
+ACCESSION   3PID_A
+VERSION     3PID_A
+DBSOURCE    pdb: molecule 3PID, chain 65, release Nov 8, 2017;
+            deposition: Nov 6, 2010;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 93877, Pdb_id 1: 3PID;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044
+  ORGANISM  Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella.
+REFERENCE   1  (residues 1 to 432)
+  AUTHORS   Chen,Y.Y., Ko,T.P., Lin,C.H., Chen,W.H. and Wang,A.H.
+  TITLE     Conformational change upon product binding to Klebsiella pneumoniae
+            UDP-glucose dehydrogenase: a possible inhibition mechanism for the
+            key enzyme in polymyxin resistance
+  JOURNAL   J. Struct. Biol. 175 (3), 300-310 (2011)
+   PUBMED   21536136
+REFERENCE   2  (residues 1 to 432)
+  AUTHORS   Chen,Y.-Y., Ko,T.-P., Lin,C.-H., Chen,W.-H. and Wang,A.H.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2010)
+COMMENT     The apo-form UDP-glucose 6-dehydrogenase with a C-terminal
+            six-histidine tag.
+FEATURES             Location/Qualifiers
+     source          1..432
+                     /organism="Klebsiella pneumoniae subsp. pneumoniae
+                     NTUH-K2044"
+                     /sub_species="pneumoniae"
+                     /db_xref="taxon:484021"
+     Region          1..228
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     Region          37..424
+                     /region_name="PRK15057"
+                     /note="UDP-glucose 6-dehydrogenase; Provisional"
+                     /db_xref="CDD:185017"
+     SecStr          37..43
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          38..204
+                     /region_name="NADB_Rossmann"
+                     /note="Rossmann-fold NAD(P)(+)-binding proteins; cl21454"
+                     /db_xref="CDD:304358"
+     SecStr          46..55
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          59..65
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          68..76
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          84..92
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          96..101
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          111..116
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          119..123
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          126..130
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          131..143
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          147..152
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          159..167
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          171..176
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          183..191
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          193..198
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          201..213
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          220..225
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     Region          227..318
+                     /region_name="UDPG_MGDP_dh"
+                     /note="UDP-glucose/GDP-mannose dehydrogenase family,
+                     central domain; pfam00984"
+                     /db_xref="CDD:279344"
+     Region          229..330
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          232..257
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          261..269
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          290..301
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          309..328
+                     /sec_str_type="helix"
+                     /note="helix 11"
+     Region          331..432
+                     /region_name="Domain 3"
+                     /note="NCBI Domains"
+     SecStr          333..339
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     Region          336..421
+                     /region_name="UDPG_MGDP_dh_C"
+                     /note="UDP binding domain; smart00984"
+                     /db_xref="CDD:214954"
+     SecStr          355..364
+                     /sec_str_type="helix"
+                     /note="helix 12"
+     SecStr          366..372
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          378..381
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          382..386
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          388..396
+                     /sec_str_type="helix"
+                     /note="helix 13"
+     SecStr          397..401
+                     /sec_str_type="sheet"
+                     /note="strand 15"
+     SecStr          414..417
+                     /sec_str_type="sheet"
+                     /note="strand 16"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsefmkit isgtgyvgls ngvliaqnhe
+       61 vvaldivqak vdmlnqkisp ivdkeiqeyl aekplnfrat tdkhdayrna dyviiatptd
+      121 ydpktnyfnt stveavirdv teinpnavmi ikstipvgft rdikerlgid nvifspeflr
+      181 egralydnlh psrivigers araerfadll kegaikqdip tlftdsteae aiklfantyl
+      241 alrvayfnel dsyaesqgln skqiiegvcl dprignhynn psfgyggycl pkdtkqllan
+      301 yesvpnniia aivdanrtrk dfiadsilar kpkvvgvyrl imksgsdnfr assiqgimkr
+      361 ikakgipvii yepvmqedef fnsrvvrdln afkqeadvii snrmaeelad vadkvytrdl
+      421 fgndlehhhh hh
+//
+
+LOCUS       3PHL_A                   424 aa            linear   BCT 22-NOV-2017
+DEFINITION  Chain A, 1 UDP-glucose 6-dehydrogenase.
+ACCESSION   3PHL_A
+VERSION     3PHL_A
+DBSOURCE    pdb: molecule 3PHL, chain 65, release Nov 8, 2017;
+            deposition: Nov 4, 2010;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 93876, Pdb_id 1: 3PHL;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044
+  ORGANISM  Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella.
+REFERENCE   1  (residues 1 to 424)
+  AUTHORS   Chen,Y.Y., Ko,T.P., Lin,C.H., Chen,W.H. and Wang,A.H.
+  TITLE     Conformational change upon product binding to Klebsiella pneumoniae
+            UDP-glucose dehydrogenase: a possible inhibition mechanism for the
+            key enzyme in polymyxin resistance
+  JOURNAL   J. Struct. Biol. 175 (3), 300-310 (2011)
+   PUBMED   21536136
+REFERENCE   2  (residues 1 to 424)
+  AUTHORS   Chen,Y.Y., Ko,T.P., Lin,C.H., Chen,W.H. and Wang,A.H.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2010)
+COMMENT     The apo-form UDP-glucose 6-dehydrogenase.
+FEATURES             Location/Qualifiers
+     source          1..424
+                     /organism="Klebsiella pneumoniae subsp. pneumoniae
+                     NTUH-K2044"
+                     /sub_species="pneumoniae"
+                     /db_xref="taxon:484021"
+     Region          1..228
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     Region          37..424
+                     /region_name="PRK15057"
+                     /note="UDP-glucose 6-dehydrogenase; Provisional"
+                     /db_xref="CDD:185017"
+     SecStr          37..43
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          38..204
+                     /region_name="NADB_Rossmann"
+                     /note="Rossmann-fold NAD(P)(+)-binding proteins; cl21454"
+                     /db_xref="CDD:304358"
+     SecStr          46..55
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          59..65
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          68..76
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          84..92
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          96..101
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          111..116
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          119..123
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          126..130
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          131..143
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          147..152
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          159..167
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          171..176
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          183..191
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          193..198
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          201..213
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          220..225
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     Region          227..318
+                     /region_name="UDPG_MGDP_dh"
+                     /note="UDP-glucose/GDP-mannose dehydrogenase family,
+                     central domain; pfam00984"
+                     /db_xref="CDD:279344"
+     Region          229..330
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          232..257
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          261..269
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          290..301
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          309..328
+                     /sec_str_type="helix"
+                     /note="helix 11"
+     Region          331..424
+                     /region_name="Domain 3"
+                     /note="NCBI Domains"
+     SecStr          333..339
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     Region          336..421
+                     /region_name="UDPG_MGDP_dh_C"
+                     /note="UDP binding domain; smart00984"
+                     /db_xref="CDD:214954"
+     SecStr          354..364
+                     /sec_str_type="helix"
+                     /note="helix 12"
+     SecStr          366..372
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          383..386
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          388..396
+                     /sec_str_type="helix"
+                     /note="helix 13"
+     SecStr          397..401
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          414..417
+                     /sec_str_type="sheet"
+                     /note="strand 15"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsefmkit isgtgyvgls ngvliaqnhe
+       61 vvaldivqak vdmlnqkisp ivdkeiqeyl aekplnfrat tdkhdayrna dyviiatptd
+      121 ydpktnyfnt stveavirdv teinpnavmi ikstipvgft rdikerlgid nvifspeflr
+      181 egralydnlh psrivigers araerfadll kegaikqdip tlftdsteae aiklfantyl
+      241 alrvayfnel dsyaesqgln skqiiegvcl dprignhynn psfgyggycl pkdtkqllan
+      301 yesvpnniia aivdanrtrk dfiadsilar kpkvvgvyrl imksgsdnfr assiqgimkr
+      361 ikakgipvii yepvmqedef fnsrvvrdln afkqeadvii snrmaeelad vadkvytrdl
+      421 fgnd
+//
+
+LOCUS       4UMI_A                   208 aa            linear   VRL 27-JAN-2018
+DEFINITION  Chain A, 1 FIBER PROTEIN.
+ACCESSION   4UMI_A
+VERSION     4UMI_A
+DBSOURCE    pdb: molecule 4UMI, chain 65, release Jan 17, 2018;
+            deposition: May 17, 2014;
+            class: VIRAL PROTEIN;
+            source: Mmdb_id: 125680, Pdb_id 1: 4UMI;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Snake adenovirus 1 (SnAdV-1)
+  ORGANISM  Snake adenovirus 1
+            Viruses; dsDNA viruses, no RNA stage; Adenoviridae; Atadenovirus.
+REFERENCE   1  (residues 1 to 208)
+  AUTHORS   Juhasz,A. and Ahne,W.
+  TITLE     Physicochemical properties and cytopathogenicity of an
+            adenovirus-like agent isolated from corn snake (Elaphe guttata)
+  JOURNAL   Arch. Virol. 130 (3-4), 429-439 (1993)
+   PUBMED   8517794
+REFERENCE   2  (residues 1 to 208)
+  AUTHORS   Farkas,S.L., Harrach,B. and Benko,M.
+  TITLE     Completion of the genome analysis of snake adenovirus type 1, a
+            representative of the reptilian lineage within the novel genus
+            Atadenovirus
+  JOURNAL   Virus Res. 132 (1-2), 132-139 (2008)
+   PUBMED   18166240
+REFERENCE   3  (residues 1 to 208)
+  AUTHORS   Singh,A.K., Menendez-Conejero,R., San Martin,C. and van Raaij,M.J.
+  TITLE     Crystallization of the C-terminal domain of the fibre protein from
+            snake adenovirus 1, an atadenovirus
+  JOURNAL   Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun. 69 (Pt 12),
+            1374-1379 (2013)
+   PUBMED   24316834
+REFERENCE   4  (residues 1 to 208)
+  AUTHORS   Singh,A.K., Menendez-Conejero,R., San Martin,C. and van Raaij,M.J.
+  TITLE     Crystal structure of the fibre head domain of the Atadenovirus
+            Snake Adenovirus 1
+  JOURNAL   PLoS ONE 9 (12), e114373 (2014)
+   PUBMED   25486282
+  REMARK    Erratum:[PLoS One. 2015;10(3):e0120613. PMID: 25806535]
+            Publication Status: Online-Only
+REFERENCE   5  (residues 1 to 208)
+  AUTHORS   Singh,A.K. and van Raaij,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2014)
+COMMENT     Crystal structure of the fiber head domain of the Atadenovirus
+            snake adenovirus 1, native, F23 crystal form.
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /organism="Snake adenovirus 1"
+                     /db_xref="taxon:189830"
+     SecStr          100..114
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          116..129
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          130..140
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          141..144
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          147..152
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          154..161
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          167..173
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          174..183
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          184..192
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          195..207
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+ORIGIN      
+        1 gsshhhhhhs sglvprgshm asmtggqqmg rgslesyplp plvwdyssks ltldigpglt
+       61 vvngklqvig atfsnqmsrm apapradlqs nsieplpspp sktsldiaee lqndkgvsfa
+      121 fqareeelga ftkrtlfays gdgltgpfka pasaelssfl tahpkgrwli afplgtgivs
+      181 vdegiltlei srslpevgsg ssfyltek
+//
+
+LOCUS       4E2A_A                   207 aa            linear   BCT 13-MAR-2013
+DEFINITION  Chain A, 1 Putative Acetyltransferase.
+ACCESSION   4E2A_A
+VERSION     4E2A_A
+DBSOURCE    pdb: molecule 4E2A, chain 65, release Mar 13, 2013;
+            deposition: Mar 8, 2012;
+            class: Transferase;
+            source: Mmdb_id: 108268, Pdb_id 1: 4E2A;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Streptococcus mutans
+  ORGANISM  Streptococcus mutans
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (residues 1 to 207)
+  AUTHORS   Forouhar,F., Lee,I.S., Vujcic,J., Vujcic,S., Shen,J.,
+            Vorobiev,S.M., Xiao,R., Acton,T.B., Montelione,G.T., Porter,C.W.
+            and Tong,L.
+  TITLE     Structural and functional evidence for Bacillus subtilis PaiA as a
+            novel N1-spermidine/spermine acetyltransferase
+  JOURNAL   J. Biol. Chem. 280 (48), 40328-40336 (2005)
+   PUBMED   16210326
+REFERENCE   2  (residues 1 to 207)
+  AUTHORS   Brostromer,E., Nan,J., Li,L.F. and Su,X.D.
+  TITLE     Solid-liquid interface method (SLIM): a new crystallization method
+            for proteins
+  JOURNAL   Biochem. Biophys. Res. Commun. 386 (4), 634-638 (2009)
+   PUBMED   19545537
+REFERENCE   3  (residues 1 to 207)
+  AUTHORS   Li,G.L., Nie,J.K., Li,L.F. and Su,X.D.
+  TITLE     Crystal Structure Of The Putative Acetyltransferase Streptococcus
+            Mutans
+  JOURNAL   Unpublished
+REFERENCE   4  (residues 1 to 207)
+  AUTHORS   Li,G.L., Nie,J.K., Li,L.F. and Su,X.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2012)
+COMMENT     Crystal Structure Of The Putative Acetyltransferase From
+            Streptococcus Mutans.
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /organism="Streptococcus mutans"
+                     /db_xref="taxon:1309"
+     Region          34..204
+                     /region_name="RimI"
+                     /note="Ribosomal protein S18 acetylase RimI and related
+                     acetyltransferases [Translation, ribosomal structure and
+                     biogenesis]; COG0456"
+                     /db_xref="CDD:223532"
+     SecStr          39..43
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          48..62
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          70..78
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          82..90
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          93..102
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     Region          103..183
+                     /region_name="Acetyltransf_1"
+                     /note="Acetyltransferase (GNAT) family; pfam00583"
+                     /db_xref="CDD:278980"
+     SecStr          104..113
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          124..134
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Site            order(131..133,143..144)
+                     /site_type="other"
+                     /note="Coenzyme A binding pocket [chemical binding]"
+                     /db_xref="CDD:173926"
+     SecStr          142..156
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          160..168
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          171..180
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          182..193
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          194..205
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmsqvei rkvnqdelsl lqkiaiqtfr
+       61 etfafdntae qlqnffdeay tlsvlkleld dkesetyfil msgkaagflk vnwgssqteq
+      121 vledafeiqr lyilkayqgl glgkqlfefa leraqisgls wvwlgvwekn vkaqllyaky
+      181 gfeqfskhsf fvgnkvdtdw llkksls
+//
+
+LOCUS       5XTO_A                   293 aa            linear   VRL 15-JAN-2018
+DEFINITION  Chain A, 1 FAD-linked sulfhydryl oxidase.
+ACCESSION   5XTO_A
+VERSION     5XTO_A
+DBSOURCE    pdb: molecule 5XTO, chain 65, release Dec 6, 2017;
+            deposition: Jun 20, 2017;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 154502, Pdb_id 1: 5XTO;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Autographa californica nucleopolyhedrovirus
+  ORGANISM  Autographa californica nucleopolyhedrovirus
+            Viruses; dsDNA viruses, no RNA stage; Baculoviridae;
+            Alphabaculovirus.
+REFERENCE   1  (residues 1 to 293)
+  AUTHORS   Kuang,W., Zhang,H., Wang,M., Zhou,N.Y., Deng,F., Wang,H., Gong,P.
+            and Hu,Z.
+  TITLE     Three Conserved Regions in Baculovirus Sulfhydryl Oxidase P33 Are
+            Critical for Enzymatic Activity and Function
+  JOURNAL   J. Virol. 91 (23), e01158-17 (2017)
+   PUBMED   28904203
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 293)
+  AUTHORS   Kuang,W., Hu,Z. and Gong,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUN-2017)
+COMMENT     Crystal structure of baculoviral sulfhydryl oxidase P33 (H114A
+            mutant).
+FEATURES             Location/Qualifiers
+     source          1..293
+                     /organism="Autographa californica nucleopolyhedrovirus"
+                     /db_xref="taxon:46015"
+     Region          39..292
+                     /region_name="Baculo_p33"
+                     /note="Baculovirus P33; pfam05214"
+                     /db_xref="CDD:282998"
+     SecStr          40..58
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          66..82
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          93..105
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          112..126
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          140..160
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          166..182
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     Bond            bond(189,192)
+                     /bond_type="disulfide"
+     SecStr          190..199
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          202..219
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          223..227
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          229..236
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          244..248
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          250..265
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          283..290
+                     /sec_str_type="helix"
+                     /note="helix 11"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmipltp lfsrykdsyl lysfrlidll
+       61 rasksthltk llssqatyly hfaclmkykd iqkyevqqli ewainaspdm dlqqfriefm
+      121 dkttelnlrs cqpksftytf ttiwdtmafl sliiddmvyt rdkssldfvm qqlktmkvlf
+      181 ynvffilqca mcrdhymnvk gfiiyhieli eialdkekyg tditfvdsyq qetagadvav
+      241 vsnnmlmknl mayvsmtfhn hindykwiqr nkkppahyer mtwgeykkll nlq
+//
+
+LOCUS       5XTP_A                   293 aa            linear   VRL 15-JAN-2018
+DEFINITION  Chain A, 1 FAD-linked sulfhydryl oxidase.
+ACCESSION   5XTP_A
+VERSION     5XTP_A
+DBSOURCE    pdb: molecule 5XTP, chain 65, release Dec 6, 2017;
+            deposition: Jun 20, 2017;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 154503, Pdb_id 1: 5XTP;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Autographa californica nucleopolyhedrovirus
+  ORGANISM  Autographa californica nucleopolyhedrovirus
+            Viruses; dsDNA viruses, no RNA stage; Baculoviridae;
+            Alphabaculovirus.
+REFERENCE   1  (residues 1 to 293)
+  AUTHORS   Kuang,W., Zhang,H., Wang,M., Zhou,N.Y., Deng,F., Wang,H., Gong,P.
+            and Hu,Z.
+  TITLE     Three Conserved Regions in Baculovirus Sulfhydryl Oxidase P33 Are
+            Critical for Enzymatic Activity and Function
+  JOURNAL   J. Virol. 91 (23), e01158-17 (2017)
+   PUBMED   28904203
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 293)
+  AUTHORS   Kuang,W., Hu,Z. and Gong,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUN-2017)
+COMMENT     Crystal structure of baculoviral sulfhydryl oxidase P33 (H227A
+            mutant).
+FEATURES             Location/Qualifiers
+     source          1..293
+                     /organism="Autographa californica nucleopolyhedrovirus"
+                     /db_xref="taxon:46015"
+     Region          39..292
+                     /region_name="Baculo_p33"
+                     /note="Baculovirus P33; pfam05214"
+                     /db_xref="CDD:282998"
+     SecStr          40..58
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          66..82
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          94..105
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          112..126
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          141..159
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          169..182
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     Bond            bond(189,192)
+                     /bond_type="disulfide"
+     SecStr          190..199
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          202..219
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          223..227
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          229..236
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          244..248
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          250..265
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          283..290
+                     /sec_str_type="helix"
+                     /note="helix 11"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmipltp lfsrykdsyl lysfrlidll
+       61 rasksthltk llssqatyly hfaclmkykd iqkyevqqli ewainaspdm dlqqfriefm
+      121 dkttelnlrs cqpksftytf ttiwdtmhfl sliiddmvyt rdkssldfvm qqlktmkvlf
+      181 ynvffilqca mcrdhymnvk gfiiyhieli eialdkekyg tditfvdsyq qetagadvav
+      241 vsnnmlmknl mayvsmtfhn aindykwiqr nkkppahyer mtwgeykkll nlq
+//
+
+LOCUS       5XTQ_A                   293 aa            linear   VRL 15-JAN-2018
+DEFINITION  Chain A, 1 FAD-linked sulfhydryl oxidase.
+ACCESSION   5XTQ_A
+VERSION     5XTQ_A
+DBSOURCE    pdb: molecule 5XTQ, chain 65, release Dec 6, 2017;
+            deposition: Jun 20, 2017;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 154504, Pdb_id 1: 5XTQ;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Autographa californica nucleopolyhedrovirus
+  ORGANISM  Autographa californica nucleopolyhedrovirus
+            Viruses; dsDNA viruses, no RNA stage; Baculoviridae;
+            Alphabaculovirus.
+REFERENCE   1  (residues 1 to 293)
+  AUTHORS   Kuang,W., Zhang,H., Wang,M., Zhou,N.Y., Deng,F., Wang,H., Gong,P.
+            and Hu,Z.
+  TITLE     Three Conserved Regions in Baculovirus Sulfhydryl Oxidase P33 Are
+            Critical for Enzymatic Activity and Function
+  JOURNAL   J. Virol. 91 (23), e01158-17 (2017)
+   PUBMED   28904203
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 293)
+  AUTHORS   Kuang,W., Hu,Z. and Gong,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUN-2017)
+COMMENT     Crystal structure of baculoviral sulfhydryl oxidase P33 (H227D
+            mutant).
+FEATURES             Location/Qualifiers
+     source          1..293
+                     /organism="Autographa californica nucleopolyhedrovirus"
+                     /db_xref="taxon:46015"
+     Region          39..292
+                     /region_name="Baculo_p33"
+                     /note="Baculovirus P33; pfam05214"
+                     /db_xref="CDD:282998"
+     SecStr          40..58
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          66..82
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          92..105
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          112..126
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          140..160
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          167..182
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     Bond            bond(189,192)
+                     /bond_type="disulfide"
+     SecStr          190..199
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          202..219
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          223..227
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          229..236
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          244..248
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          250..265
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          283..290
+                     /sec_str_type="helix"
+                     /note="helix 11"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmipltp lfsrykdsyl lysfrlidll
+       61 rasksthltk llssqatyly hfaclmkykd iqkyevqqli ewainaspdm dlqqfriefm
+      121 dkttelnlrs cqpksftytf ttiwdtmhfl sliiddmvyt rdkssldfvm qqlktmkvlf
+      181 ynvffilqca mcrdhymnvk gfiiyhieli eialdkekyg tditfvdsyq qetagadvav
+      241 vsnnmlmknl mayvsmtfhn dindykwiqr nkkppahyer mtwgeykkll nlq
+//
+
+LOCUS       5XTR_A                   293 aa            linear   VRL 15-JAN-2018
+DEFINITION  Chain A, 1 FAD-linked sulfhydryl oxidase.
+ACCESSION   5XTR_A
+VERSION     5XTR_A
+DBSOURCE    pdb: molecule 5XTR, chain 65, release Dec 6, 2017;
+            deposition: Jun 20, 2017;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 154505, Pdb_id 1: 5XTR;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Autographa californica nucleopolyhedrovirus
+  ORGANISM  Autographa californica nucleopolyhedrovirus
+            Viruses; dsDNA viruses, no RNA stage; Baculoviridae;
+            Alphabaculovirus.
+REFERENCE   1  (residues 1 to 293)
+  AUTHORS   Kuang,W., Zhang,H., Wang,M., Zhou,N.Y., Deng,F., Wang,H., Gong,P.
+            and Hu,Z.
+  TITLE     Three Conserved Regions in Baculovirus Sulfhydryl Oxidase P33 Are
+            Critical for Enzymatic Activity and Function
+  JOURNAL   J. Virol. 91 (23), e01158-17 (2017)
+   PUBMED   28904203
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 293)
+  AUTHORS   Kuang,W., Hu,Z. and Gong,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUN-2017)
+COMMENT     Crystal structure of baculoviral sulfhydryl oxidase P33 (R127A,
+            E183A mutant).
+FEATURES             Location/Qualifiers
+     source          1..293
+                     /organism="Autographa californica nucleopolyhedrovirus"
+                     /db_xref="taxon:46015"
+     Region          39..292
+                     /region_name="Baculo_p33"
+                     /note="Baculovirus P33; pfam05214"
+                     /db_xref="CDD:282998"
+     SecStr          40..58
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          66..82
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          92..105
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          112..126
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          141..160
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          166..182
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     Bond            bond(189,192)
+                     /bond_type="disulfide"
+     SecStr          190..200
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          201..218
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          223..226
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          244..247
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          250..265
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          283..290
+                     /sec_str_type="helix"
+                     /note="helix 10"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmipltp lfsrykdsyl lysfrlidll
+       61 rasksthltk llssqatyly hfaclmkykd iqkyevqqli ewainaspdm dlqqfriefm
+      121 dkttelnlrs cqpksftytf ttiwdtmhfl sliiddmvyt adkssldfvm qqlktmkvlf
+      181 ynvffilqca mcrdhymnvk gfiiyhieli eialdkakyg tditfvdsyq qetagadvav
+      241 vsnnmlmknl mayvsmtfhn hindykwiqr nkkppahyer mtwgeykkll nlq
+//
+
+LOCUS       5XKI_A                   293 aa            linear   VRL 15-JAN-2018
+DEFINITION  Chain A, 1 FAD-linked sulfhydryl oxidase.
+ACCESSION   5XKI_A
+VERSION     5XKI_A
+DBSOURCE    pdb: molecule 5XKI, chain 65, release Dec 6, 2017;
+            deposition: May 7, 2017;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 154687, Pdb_id 1: 5XKI;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Autographa californica nucleopolyhedrovirus
+  ORGANISM  Autographa californica nucleopolyhedrovirus
+            Viruses; dsDNA viruses, no RNA stage; Baculoviridae;
+            Alphabaculovirus.
+REFERENCE   1  (residues 1 to 293)
+  AUTHORS   Kuang,W., Zhang,H., Wang,M., Zhou,N.Y., Deng,F., Wang,H., Gong,P.
+            and Hu,Z.
+  TITLE     Three Conserved Regions in Baculovirus Sulfhydryl Oxidase P33 Are
+            Critical for Enzymatic Activity and Function
+  JOURNAL   J. Virol. 91 (23), e01158-17 (2017)
+   PUBMED   28904203
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 293)
+  AUTHORS   Kuang,W., Hu,Z. and Gong,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAY-2017)
+COMMENT     Crystal structure of baculoviral sulfhydryl oxidase AcP33 (wide
+            type).
+FEATURES             Location/Qualifiers
+     source          1..293
+                     /organism="Autographa californica nucleopolyhedrovirus"
+                     /db_xref="taxon:46015"
+     Region          39..292
+                     /region_name="Baculo_p33"
+                     /note="Baculovirus P33; pfam05214"
+                     /db_xref="CDD:282998"
+     SecStr          40..59
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          66..83
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          93..105
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          112..126
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          141..160
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          166..182
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     Bond            bond(189,192)
+                     /bond_type="disulfide"
+     SecStr          190..199
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          202..219
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          223..226
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          229..236
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          244..247
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          250..265
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          283..290
+                     /sec_str_type="helix"
+                     /note="helix 11"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmipltp lfsrykdsyl lysfrlidll
+       61 rasksthltk llssqatyly hfaclmkykd iqkyevqqli ewainaspdm dlqqfriefm
+      121 dkttelnlrs cqpksftytf ttiwdtmhfl sliiddmvyt rdkssldfvm qqlktmkvlf
+      181 ynvffilqca mcrdhymnvk gfiiyhieli eialdkekyg tditfvdsyq qetagadvav
+      241 vsnnmlmknl mayvsmtfhn hindykwiqr nkkppahyer mtwgeykkll nlq
+//
+
+LOCUS       5XTN_A                   293 aa            linear   VRL 10-DEC-2017
+DEFINITION  Chain A, 1 FAD-linked sulfhydryl oxidase.
+ACCESSION   5XTN_A
+VERSION     5XTN_A
+DBSOURCE    pdb: molecule 5XTN, chain 65, release Dec 6, 2017;
+            deposition: Jun 20, 2017;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 154501, Pdb_id 1: 5XTN;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Autographa californica nucleopolyhedrovirus
+  ORGANISM  Autographa californica nucleopolyhedrovirus
+            Viruses; dsDNA viruses, no RNA stage; Baculoviridae;
+            Alphabaculovirus.
+REFERENCE   1  (residues 1 to 293)
+  AUTHORS   Kuang,W., Zhang,H., Wang,M., Zhou,N.Y., Deng,F., Wang,H., Gong,P.
+            and Hu,Z.
+  TITLE     Three Conserved Regions in Baculovirus Sulfhydryl Oxidase P33 Are
+            Critical for Enzymatic Activity and Function
+  JOURNAL   J. Virol. 91 (23), e01158-17 (2017)
+   PUBMED   28904203
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 293)
+  AUTHORS   Kuang,W., Hu,Z. and Gong,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUN-2017)
+COMMENT     Crystal structure of baculoviral sulfhydryl oxidase P33 (C155A,
+            C158A mutant).
+FEATURES             Location/Qualifiers
+     source          1..293
+                     /organism="Autographa californica nucleopolyhedrovirus"
+                     /db_xref="taxon:46015"
+     Region          join(1..164,250..293)
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     Region          39..292
+                     /region_name="Baculo_p33"
+                     /note="Baculovirus P33; pfam05214"
+                     /db_xref="CDD:282998"
+     SecStr          40..58
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          66..80
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          94..105
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          112..126
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          141..160
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     Region          165..249
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          169..182
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          190..200
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          201..219
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          223..227
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          229..236
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          244..248
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          250..265
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          283..290
+                     /sec_str_type="helix"
+                     /note="helix 11"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmipltp lfsrykdsyl lysfrlidll
+       61 rasksthltk llssqatyly hfaclmkykd iqkyevqqli ewainaspdm dlqqfriefm
+      121 dkttelnlrs cqpksftytf ttiwdtmhfl sliiddmvyt rdkssldfvm qqlktmkvlf
+      181 ynvffilqaa mardhymnvk gfiiyhieli eialdkekyg tditfvdsyq qetagadvav
+      241 vsnnmlmknl mayvsmtfhn hindykwiqr nkkppahyer mtwgeykkll nlq
+//
+
+LOCUS       3L7Y_A                   304 aa            linear   BCT 10-OCT-2012
+DEFINITION  Chain A, SEQRES.
+ACCESSION   3L7Y_A
+VERSION     3L7Y_A
+DBSOURCE    pdb: molecule 3L7Y, chain 65, release Dec 8, 2010;
+            deposition: Dec 29, 2009;
+            class: Hydrolase;
+            source: Mmdb_id: 87143, Pdb_id 1: 3L7Y;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Streptococcus mutans UA159
+  ORGANISM  Streptococcus mutans UA159
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (residues 1 to 304)
+  AUTHORS   Su,X.-D., Feng,M.J. and Liu,X.
+  TITLE     The Crystal Structure Of Smu.1108c From Streptococc Ua159
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 304)
+  AUTHORS   Su,X.-D., Feng,M.J. and Liu,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2009)
+COMMENT     The Crystal Structure Of Smu.1108c From Streptococcus Mutans Ua159.
+FEATURES             Location/Qualifiers
+     source          1..304
+                     /organism="Streptococcus mutans UA159"
+                     /db_xref="taxon:210007"
+     Region          join(1..118,227..304)
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     SecStr          38..44
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          39..>106
+                     /region_name="HAD_like"
+                     /note="Haloacid dehalogenase-like hydrolases. The haloacid
+                     dehalogenase-like (HAD) superfamily includes L-2-haloacid
+                     dehalogenase, epoxide hydrolase, phosphoserine
+                     phosphatase, phosphomannomutase, phosphoglycolate
+                     phosphatase, P-type ATPase, and many others; cd01427"
+                     /db_xref="CDD:119389"
+     Region          40..296
+                     /region_name="Hydrolase_3"
+                     /note="haloacid dehalogenase-like hydrolase; pfam08282"
+                     /db_xref="CDD:285482"
+     Het             join(bond(43),bond(45),bond(252))
+                     /heterogen="(MG,1000)"
+     Site            order(43..45,78..79)
+                     /site_type="active"
+                     /db_xref="CDD:119389"
+     Site            43..48
+                     /site_type="other"
+                     /note="motif I"
+                     /db_xref="CDD:119389"
+     SecStr          57..70
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          72..79
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     Site            78
+                     /site_type="other"
+                     /note="motif II"
+                     /db_xref="CDD:119389"
+     SecStr          96..101
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          104..109
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          110..116
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     Region          119..226
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          120..132
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          137..144
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          145..150
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          154..162
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          167..171
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          183..189
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          194..203
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          210..217
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          218..224
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     Region          <220..280
+                     /region_name="HAD_like"
+                     /note="Haloacid Dehalogenase-like Hydrolases; cl21460"
+                     /db_xref="CDD:304363"
+     SecStr          229..240
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          246..252
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          256..263
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          264..270
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          273..280
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          281..285
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          291..300
+                     /sec_str_type="helix"
+                     /note="helix 8"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmsvkvi atdmdgtfln skgsydhnrf
+       61 qrilkqlqer dirfvvassn pyrqlrehfp dcheqltfvg enganiiskn qslievfqqr
+      121 ediasiiyfi eekypqavia lsgekkgylk kgvsenivkm lspffpvlel vnsfsplpde
+      181 rffkltlqvk eeesaqimka iadyktsqrl vgtasgfgyi diitkglhkg walqqllkrw
+      241 nftsdhlmaf gdggndieml klakysyama napknvkaaa nyqaksndes gvldvidnyl
+      301 asid
+//
+
+LOCUS       3L9D_A                   255 aa            linear   BCT 14-NOV-2017
+DEFINITION  Chain A, 1 Putative GTP pyrophosphokinase.
+ACCESSION   3L9D_A
+VERSION     3L9D_A
+DBSOURCE    pdb: molecule 3L9D, chain 65, release Nov 1, 2017;
+            deposition: Jan 5, 2010;
+            class: TRANSFERASE;
+            source: Mmdb_id: 87830, Pdb_id 1: 3L9D;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Streptococcus mutans UA159
+  ORGANISM  Streptococcus mutans UA159
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (residues 1 to 255)
+  AUTHORS   Su,X.-D., Huang,Y.H. and Liu,X.
+  TITLE     The Crystal Structure of smu.1046c from Streptococcus mutans UA159
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 255)
+  AUTHORS   Su,X.-D., Huang,Y.H. and Liu,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2010)
+COMMENT     The Crystal Structure of smu.1046c from Streptococcus mutans UA159.
+FEATURES             Location/Qualifiers
+     source          1..255
+                     /organism="Streptococcus mutans UA159"
+                     /db_xref="taxon:210007"
+     Region          1..176
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     Region          36..248
+                     /region_name="YjbM"
+                     /note="ppGpp synthetase catalytic domain (RelA/SpoT-type
+                     nucleotidyltranferase) [Nucleotide transport and
+                     metabolism, Signal transduction mechanisms]; COG2357"
+                     /db_xref="CDD:225232"
+     SecStr          42..65
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          72..79
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(77,79,104..105,109,137,139,144,146,148,152,171,173,
+                     175,183..184)
+                     /site_type="active"
+                     /note="synthetase active site [active]"
+                     /db_xref="CDD:143389"
+     Site            order(77,137,139,144,146,148,152,171,173,183)
+                     /site_type="other"
+                     /note="NTP binding site [chemical binding]"
+                     /db_xref="CDD:143389"
+     SecStr          81..91
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     Site            order(104,171)
+                     /site_type="metal-binding"
+                     /note="metal binding site [ion binding]"
+                     /db_xref="CDD:143389"
+     SecStr          105..112
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          118..127
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          131..135
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          136..140
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          149..156
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          157..162
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          163..172
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          173..176
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     Region          177..255
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          177..193
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          199..220
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          223..230
+                     /sec_str_type="helix"
+                     /note="helix 6"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmnweef ldpyiqavge lkikfrgirk
+       61 qfrkqkrhsp iefvtgrvkp iesikekmvl rgikkenltq dmqdiaglri mvqfvddvnd
+      121 vlellrqrkd mkviqerdyi nnlkpsgyrs yhviveypvd tisgqriima eiqirtlamn
+      181 fwatiehsln ykyhgefped ikrrleltsk iafqldeemr qirddikeaq llfdaetrkl
+      241 ndgvgnsddt delyr
+//
+
+LOCUS       3VSF_A                   526 aa            linear   BCT 05-DEC-2012
+DEFINITION  Chain A, 1 Ricin B Lectin.
+ACCESSION   3VSF_A
+VERSION     3VSF_A
+DBSOURCE    pdb: molecule 3VSF, chain 65, release Dec 5, 2012;
+            deposition: Apr 25, 2012;
+            class: Sugar Binding Protein;
+            source: Mmdb_id: 105427, Pdb_id 1: 3VSF;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Ruminiclostridium thermocellum ATCC 27405 (Clostridium thermocellum
+            ATCC 27405)
+  ORGANISM  Ruminiclostridium thermocellum ATCC 27405
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Ruminiclostridium.
+REFERENCE   1  (residues 1 to 526)
+  AUTHORS   Jiang,D., Fan,J., Wang,X., Zhao,Y., Huang,B., Liu,J. and Zhang,X.C.
+  TITLE     Crystal structure of 1,3Gal43A, an exo-beta-1,3-galactanase from
+            Clostridium thermocellum
+  JOURNAL   J. Struct. Biol. 180 (3), 447-457 (2012)
+   PUBMED   22960181
+REFERENCE   2  (residues 1 to 526)
+  AUTHORS   Jiang,D., Fan,J., Wang,X., Zhao,Y., Huang,B. and Zhang,X.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-APR-2012)
+COMMENT     Crystal Structure Of 1,3gal43a, An Exo-Beta-1,3-Galactanase From
+            Clostridium Thermocellum.
+FEATURES             Location/Qualifiers
+     source          1..526
+                     /organism="Ruminiclostridium thermocellum ATCC 27405"
+                     /db_xref="taxon:203119"
+     Region          join(1..46,233..358)
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     SecStr          40..44
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          47..232
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          48..51
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          53..56
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     Region          56..330
+                     /region_name="GH43_6"
+                     /note="Glycosyl hydrolase family 43; cd08985"
+                     /db_xref="CDD:185726"
+     Site            order(60,186,235)
+                     /site_type="active"
+                     /db_xref="CDD:185726"
+     SecStr          61..67
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          68..79
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          80..92
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          97..103
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          115..118
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          119..127
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          128..139
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          146..154
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          160..167
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          174..177
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          178..181
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          186..193
+                     /sec_str_type="sheet"
+                     /note="strand 15"
+     SecStr          195..204
+                     /sec_str_type="sheet"
+                     /note="strand 16"
+     SecStr          207..214
+                     /sec_str_type="sheet"
+                     /note="strand 17"
+     SecStr          222..229
+                     /sec_str_type="sheet"
+                     /note="strand 18"
+     SecStr          235..243
+                     /sec_str_type="sheet"
+                     /note="strand 19"
+     SecStr          244..252
+                     /sec_str_type="sheet"
+                     /note="strand 20"
+     SecStr          260..268
+                     /sec_str_type="sheet"
+                     /note="strand 21"
+     SecStr          271..275
+                     /sec_str_type="sheet"
+                     /note="strand 22"
+     SecStr          276..279
+                     /sec_str_type="sheet"
+                     /note="strand 23"
+     SecStr          287..291
+                     /sec_str_type="sheet"
+                     /note="strand 24"
+     SecStr          292..298
+                     /sec_str_type="sheet"
+                     /note="strand 25"
+     SecStr          299..311
+                     /sec_str_type="sheet"
+                     /note="strand 26"
+     SecStr          320..331
+                     /sec_str_type="sheet"
+                     /note="strand 27"
+     SecStr          335..338
+                     /sec_str_type="sheet"
+                     /note="strand 28"
+     SecStr          342..349
+                     /sec_str_type="sheet"
+                     /note="strand 29"
+     SecStr          350..355
+                     /sec_str_type="sheet"
+                     /note="strand 30"
+     Region          359..526
+                     /region_name="Domain 3"
+                     /note="NCBI Domains"
+     SecStr          362..368
+                     /sec_str_type="sheet"
+                     /note="strand 31"
+     Region          363..494
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     SecStr          371..377
+                     /sec_str_type="sheet"
+                     /note="strand 32"
+     Site            order(375,386,388,397..398,422,435,437,444..445,469,482,
+                     484,492)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     SecStr          386..391
+                     /sec_str_type="sheet"
+                     /note="strand 33"
+     Region          396..497
+                     /region_name="RicinB_lectin_2"
+                     /note="Ricin-type beta-trefoil lectin domain-like;
+                     pfam14200"
+                     /db_xref="CDD:290902"
+     Site            order(398..400,445..447,492..494)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     SecStr          399..405
+                     /sec_str_type="sheet"
+                     /note="strand 34"
+     SecStr          409..415
+                     /sec_str_type="sheet"
+                     /note="strand 35"
+     SecStr          419..424
+                     /sec_str_type="sheet"
+                     /note="strand 36"
+     SecStr          431..438
+                     /sec_str_type="sheet"
+                     /note="strand 37"
+     SecStr          446..453
+                     /sec_str_type="sheet"
+                     /note="strand 38"
+     SecStr          455..462
+                     /sec_str_type="sheet"
+                     /note="strand 39"
+     SecStr          466..471
+                     /sec_str_type="sheet"
+                     /note="strand 40"
+     SecStr          480..485
+                     /sec_str_type="sheet"
+                     /note="strand 41"
+     SecStr          493..499
+                     /sec_str_type="sheet"
+                     /note="strand 42"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsefaaeg vivngtqfkd tsgnvihahg
+       61 ggmlkhgdyy ywygeyrdds nlflgvscyr skdlvnweyr gevlsrnsap elnhcnierp
+      121 kvmynastge fvmwmhweng inygqaraav aysktpdgkf tyirsfrpmq dtgvmdhglp
+      181 gymsrdcnvf vdtdgkgyfi saanenmdlh lyeltpdykn iaslkaklfv gqqreapcli
+      241 krngyyylit sgctgwnpnq akyayskdla sgwsqlynlg nsttyrsqpt fiipvqgssg
+      301 tsylymgdrw agawggkvnd sqyvwlplnf isdttlelpy ydsvkidass giiseyipdt
+      361 tryklvnkns gkvldvldgs vdnaaqivqw tdngslsqqw ylvdvgggyk kivnvksgra
+      421 ldvkdesked ggvliqytsn ggynqhwkft digdgyykis srhcgklidv rkwstedggi
+      481 iqqwsdaggt nqhwklvlvs spepspspsp qvvkgdvngd lkvnst
+//
+
+LOCUS       3HS8_A                   273 aa            linear   ROD 14-NOV-2017
+DEFINITION  Chain A, 1 Adaptor protein complex AP-2, alpha 2 subunit.
+ACCESSION   3HS8_A
+VERSION     3HS8_A
+DBSOURCE    pdb: molecule 3HS8, chain 65, release Nov 1, 2017;
+            deposition: Jun 10, 2009;
+            class: ENDOCYTOSIS;
+            source: Mmdb_id: 80253, Pdb_id 1: 3HS8;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (residues 1 to 273)
+  AUTHORS   Pechstein,A., Bacetic,J., Vahedi-Faridi,A., Gromova,K.,
+            Sundborger,A., Tomlin,N., Krainer,G., Vorontsova,O., Schafer,J.G.,
+            Owe,S.G., Cousin,M.A., Saenger,W., Shupliakov,O. and Haucke,V.
+  TITLE     Regulation of synaptic vesicle recycling by complex formation
+            between intersectin 1 and the clathrin adaptor complex AP2
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 107 (9), 4206-4211 (2010)
+   PUBMED   20160082
+REFERENCE   2  (residues 1 to 273)
+  AUTHORS   Vahedi-Faridi,A., Pechstein,A., Schaefer,J.G., Saenger,W. and
+            Haucke,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2009)
+COMMENT     Intersectin 1-peptide-AP2 alpha ear complex.
+FEATURES             Location/Qualifiers
+     source          1..273
+                     /organism="Mus musculus"
+                     /db_xref="taxon:10090"
+     Region          1..156
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     SecStr          36..39
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          47..55
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     Region          51..154
+                     /region_name="Alpha_adaptinC2"
+                     /note="Adaptin C-terminal domain; smart00809"
+                     /db_xref="CDD:197886"
+     SecStr          56..67
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          68..80
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          81..86
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          87..93
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          100..105
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          110..114
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          115..123
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          124..127
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          134..143
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          144..153
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     Region          157..273
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     Region          160..268
+                     /region_name="Alpha_adaptin_C"
+                     /note="Alpha adaptin AP2, C-terminal domain; pfam02296"
+                     /db_xref="CDD:280460"
+     SecStr          160..164
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          168..178
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          183..191
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          197..207
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          209..212
+                     /sec_str_type="sheet"
+                     /note="strand 15"
+     SecStr          221..231
+                     /sec_str_type="sheet"
+                     /note="strand 16"
+     SecStr          232..246
+                     /sec_str_type="sheet"
+                     /note="strand 17"
+     SecStr          247..256
+                     /sec_str_type="sheet"
+                     /note="strand 18"
+     SecStr          259..271
+                     /sec_str_type="helix"
+                     /note="helix 3"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsefednf arfvcknngv lfenqllqig
+       61 lksefrqnlg rmfifygnkt stqflnftpt licaddlqtn lnlqtkpvdp tvdggaqvqq
+      121 vvniecisdf teapvlniqf ryggtfqnvs vklpitlnkf fqptemasqd ffqrwkqlsn
+      181 pqqevqnifk akhpmdteit kakiigfgsa lleevdpnpa nfvgagiiht kttqigcllr
+      241 lepnlqaqmy rltlrtskdt vsqrlcells eqf
+//
+
+LOCUS       2Q7F_A                   243 aa            linear   BCT 12-NOV-2012
+DEFINITION  Chain A, 1 Yrrb Protein.
+ACCESSION   2Q7F_A
+VERSION     2Q7F_A
+DBSOURCE    pdb: molecule 2Q7F, chain 65, release Nov 8, 2012;
+            deposition: Jun 6, 2007;
+            class: Protein Binding;
+            source: Mmdb_id: 54136, Pdb_id 1: 2Q7F;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Bacillus subtilis
+  ORGANISM  Bacillus subtilis
+            Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+REFERENCE   1  (residues 1 to 243)
+  AUTHORS   Han,D., Oh,J., Kim,K., Lim,H. and Kim,Y.
+  TITLE     Crystal structure of YrrB: a TPR protein with an unusual
+            peptide-binding site
+  JOURNAL   Biochem. Biophys. Res. Commun. 360 (4), 784-790 (2007)
+   PUBMED   17624311
+REFERENCE   2  (residues 1 to 243)
+  AUTHORS   Oh,J., Han,D., Kim,K. and Lim,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUN-2007)
+COMMENT     Crystal Structure Of Yrrb: A Tpr Protein With An Unusual Peptide-
+            Binding Site.
+FEATURES             Location/Qualifiers
+     source          1..243
+                     /organism="Bacillus subtilis"
+                     /db_xref="taxon:1423"
+     Region          1..156
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     Region          56..119
+                     /region_name="TPR_11"
+                     /note="TPR repeat; pfam13414"
+                     /db_xref="CDD:290150"
+     Region          56..86
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     Region          <58..>122
+                     /region_name="TIM_phosphate_binding"
+                     /note="TIM barrel proteins share a structurally conserved
+                     phosphate binding motif and in general share an eight
+                     beta/alpha closed barrel structure. Specific for this
+                     family is the conserved phosphate binding site at the
+                     edges of strands 7 and 8. The phosphate...; cl21457"
+                     /db_xref="CDD:304361"
+     SecStr          58..70
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          73..86
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     Region          91..156
+                     /region_name="TPR_11"
+                     /note="TPR repeat; pfam13414"
+                     /db_xref="CDD:290150"
+     Region          91..119
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     SecStr          91..104
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     Site            order(92,95..96,99..100,102,126,129..130,133..134,
+                     136..137,160,163..164,167..168,171)
+                     /site_type="other"
+                     /note="putative protein binding surface [polypeptide
+                     binding]"
+                     /db_xref="CDD:276809"
+     SecStr          107..120
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Region          124..154
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     SecStr          125..138
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          145..154
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     Region          157..243
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     Region          158..224
+                     /region_name="TPR_11"
+                     /note="TPR repeat; pfam13414"
+                     /db_xref="CDD:290150"
+     Region          159..182
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     SecStr          159..172
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          176..188
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     Region          193..226
+                     /region_name="TPR_1"
+                     /note="Tetratricopeptide repeat; pfam00515"
+                     /db_xref="CDD:278916"
+     Region          193..221
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     SecStr          193..206
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          210..222
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          227..234
+                     /sec_str_type="helix"
+                     /note="helix 11"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsefgdye kaaeaftkai eenkedaipy
+       61 infanllssv neleralafy dkaleldssa atayygagnv yvvkemykea kdmfekalra
+      121 gmengdlfym lgtvlvkleq pklalpylqr avelnendte arfqfgmcla negmldeals
+      181 qfaavteqdp ghadafynag vtyaykenre kalemldkai diqpdhmlal hakkllghhh
+      241 hhh
+//
+
+LOCUS       2HGM_A                   126 aa            linear   PRI 10-OCT-2012
+DEFINITION  Chain A, SEQRES.
+ACCESSION   2HGM_A
+VERSION     2HGM_A
+DBSOURCE    pdb: molecule 2HGM, chain 65, release Jun 18, 2009;
+            deposition: Jun 27, 2006;
+            class: Rna Binding Protein;
+            source: Mmdb_id: 40575, Pdb_id 1: 2HGM;
+            Exp. method: Solution Nmr.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 126)
+  AUTHORS   Dominguez,C. and Allain,F.H.
+  TITLE     NMR structure of the three quasi RNA recognition motifs (qRRMs) of
+            human hnRNP F and interaction studies with Bcl-x G-tract RNA: a
+            novel mode of RNA recognition
+  JOURNAL   Nucleic Acids Res. 34 (13), 3634-3645 (2006)
+   PUBMED   16885237
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 126)
+  AUTHORS   Dominguez,C. and Allain,F.H.-T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2006)
+COMMENT     On Oct 4, 2007 this sequence version replaced gi:112491342.
+            Nmr Structure Of The Second Qrrm Domain Of Human Hnrnp F.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          42..124
+                     /region_name="RRM2_hnRNPH_hnRNPH2_hnRNPF"
+                     /note="RNA recognition motif 2 in heterogeneous nuclear
+                     ribonucleoprotein hnRNP H, hnRNP H2, hnRNP F and similar
+                     proteins; cd12731"
+                     /db_xref="CDD:241175"
+     SecStr          43..49
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          <45..>104
+                     /region_name="RRM"
+                     /note="RNA recognition motif (RRM) domain [Translation,
+                     ribosomal structure and biogenesis]; COG0724"
+                     /db_xref="CDD:223796"
+     SecStr          56..63
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          72..75
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          85..91
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          94..101
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          113..119
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsnsadsa ndgfvrlrgl pfgctkeeiv
+       61 qffsgleivp ngitlpvdpe gkitgeafvq fasqelaeka lgkhkerigh ryievfkssq
+      121 eevrsx
+//
+
+LOCUS       4HBK_A                   344 aa            linear   INV 03-JUL-2013
+DEFINITION  Chain A, 1 Aldo-keto Reductase Family 1, Member B4 (aldose
+            Reductase).
+ACCESSION   4HBK_A
+VERSION     4HBK_A
+DBSOURCE    pdb: molecule 4HBK, chain 65, release Jul 3, 2013;
+            deposition: Sep 28, 2012;
+            class: Oxidoreductase;
+            source: Mmdb_id: 111264, Pdb_id 1: 4HBK;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Schistosoma japonicum
+  ORGANISM  Schistosoma japonicum
+            Eukaryota; Metazoa; Platyhelminthes; Trematoda; Digenea;
+            Strigeidida; Schistosomatoidea; Schistosomatidae; Schistosoma.
+REFERENCE   1  (residues 1 to 344)
+  AUTHORS   Liu,J., Dyer,D.H., Cheng,J., Wang,J., Wang,S., Yang,Z., Wang,X. and
+            Hu,W.
+  TITLE     Aldose reductase from Schistosoma japonicum: crystallization and
+            structure-based inhibitor screening for discovering
+            antischistosomal lead compounds
+  JOURNAL   Parasit Vectors 6, 162 (2013)
+   PUBMED   23734964
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 344)
+  AUTHORS   Liu,J., Cheng,J., Zhang,X., Yang,Z., Hu,W. and Xu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-SEP-2012)
+COMMENT     Structure Of The Aldose Reductase From Schistosoma Japonicum.
+FEATURES             Location/Qualifiers
+     source          1..344
+                     /organism="Schistosoma japonicum"
+                     /db_xref="taxon:6182"
+     Region          34..332
+                     /region_name="ARA1"
+                     /note="Aldo/keto reductase, related to diketogulonate
+                     reductase [Secondary metabolites biosynthesis, transport
+                     and catabolism]; COG0656"
+                     /db_xref="CDD:223729"
+     SecStr          37..41
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          41..324
+                     /region_name="Tas"
+                     /note="Predicted oxidoreductase (related to aryl-alcohol
+                     dehydrogenase) [General function prediction only];
+                     COG0667"
+                     /db_xref="CDD:223739"
+     SecStr          43..47
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          48..53
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     Site            order(52..54,77,82,111,144..145,193..194,215,241..246,274,
+                     289..292,297,300..301)
+                     /site_type="active"
+                     /db_xref="CDD:119408"
+     SecStr          60..71
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          74..80
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Site            order(77,82,111,144)
+                     /site_type="active"
+                     /note="catalytic tetrad [active]"
+                     /db_xref="CDD:119408"
+     SecStr          85..99
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          106..112
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          122..133
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          137..145
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          157..160
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          162..165
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          172..184
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          186..194
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          197..206
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          212..217
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          225..234
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          236..242
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          260..269
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          273..284
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          286..290
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          295..302
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          311..320
+                     /sec_str_type="helix"
+                     /note="helix 10"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmtggqqm grgsmeplkm nngrsipvig lgtwnsppge
+       61 vgaavkkale igyrhldcay vyrneaeige alenalnslr lkredifits klwntffrpe
+      121 hvrkaceetl knlrlnyldl ylihwpvplk hggdlfptds ngqlcldnvp hedtwkemek
+      181 lvdeglvksi glsnfnkrqi qnilehcrik panlqieiha nfpniklvey aqsvgltvta
+      241 yaplgspahs pgkvnlltkp cvleiahrhk ktpaqvllry llqrklivvp ksvtfkriee
+      301 nfqvfdfqls neemhelnte slnerqftll qmsghqeypf keey
+//
+

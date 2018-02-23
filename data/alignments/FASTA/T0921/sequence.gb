@@ -1,0 +1,1954 @@
+LOCUS       5M2O_A                   149 aa            linear   BCT 06-JUL-2017
+DEFINITION  Chain A, 1 Putative Cellulosomal Scaffoldin Protein.
+ACCESSION   5M2O_A
+VERSION     5M2O_A
+DBSOURCE    pdb: molecule 5M2O, chain 65, release Jul 5, 2017;
+            deposition: Oct 13, 2016;
+            class: Protein Binding;
+            source: Mmdb_id: 152398, Pdb_id 1: 5M2O;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Ruminococcus flavefaciens FD-1
+  ORGANISM  Ruminococcus flavefaciens FD-1
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Ruminococcus.
+REFERENCE   1  (residues 1 to 149)
+  AUTHORS   Bule,P., Alves,V.D., Israeli-Ruimy,V., Carvalho,A.L.,
+            Ferreira,L.M., Smith,S.P., Gilbert,H.J., Najmudin,S., Bayer,E.A.
+            and Fontes,C.M.
+  TITLE     Assembly of Ruminococcus flavefaciens cellulosome revealed by
+            structures of two cohesin-dockerin complexes
+  JOURNAL   Sci Rep 7 (1), 759 (2017)
+   PUBMED   28389644
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 149)
+  AUTHORS   Bule,P., Najmudin,S., Carvalho,A.L. and Fontes,C.M.G.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-OCT-2016)
+COMMENT     R. Flavefaciens' Third Scab Cohesin In Complex With A Group 1
+            Dockerin.
+FEATURES             Location/Qualifiers
+     source          1..149
+                     /organism="Ruminococcus flavefaciens FD-1"
+                     /db_xref="taxon:641112"
+     SecStr          7..18
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          8..138
+                     /region_name="Type_I_cohesin_like"
+                     /note="Type I cohesin domain, interaction partner of
+                     dockerin; cd08548"
+                     /db_xref="CDD:260085"
+     SecStr          20..31
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     Site            order(37..40,42,68..70,72,78,80,118..119,125,127)
+                     /site_type="other"
+                     /note="dockerin binding interface [polypeptide binding]"
+                     /db_xref="CDD:260085"
+     SecStr          37..46
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          49..55
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          56..60
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          61..69
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          72..78
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          94..102
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          107..114
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          117..122
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          130..141
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+ORIGIN      
+        1 mpvanadvvf dfqnytakag devtvdvlvd sknkpisamd vkfkvdsplt ieeidkesla
+       61 fnttvmtnma ilganfksld dkgeplvpkd gaavftlyvn vpantpdgty yvgfngknev
+      121 hksndgsqft vaskngaitv gtpneegle
+//
+
+LOCUS       5M2S_A                   149 aa            linear   BCT 06-JUL-2017
+DEFINITION  Chain A, 1 Putative Cellulosomal Scaffoldin Protein.
+ACCESSION   5M2S_A
+VERSION     5M2S_A
+DBSOURCE    pdb: molecule 5M2S, chain 65, release Jul 5, 2017;
+            deposition: Oct 13, 2016;
+            class: Protein Binding;
+            source: Mmdb_id: 152399, Pdb_id 1: 5M2S;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Ruminococcus flavefaciens
+  ORGANISM  Ruminococcus flavefaciens
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Ruminococcus.
+REFERENCE   1  (residues 1 to 149)
+  AUTHORS   Bule,P., Alves,V.D., Israeli-Ruimy,V., Carvalho,A.L.,
+            Ferreira,L.M., Smith,S.P., Gilbert,H.J., Najmudin,S., Bayer,E.A.
+            and Fontes,C.M.
+  TITLE     Assembly of Ruminococcus flavefaciens cellulosome revealed by
+            structures of two cohesin-dockerin complexes
+  JOURNAL   Sci Rep 7 (1), 759 (2017)
+   PUBMED   28389644
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 149)
+  AUTHORS   Bule,P., Najmudin,S., Carvalho,A.L. and Fontes,C.M.G.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-OCT-2016)
+COMMENT     R. Flavefaciens' Third Scab Cohesin In Complex With A Group 1
+            Dockerin.
+FEATURES             Location/Qualifiers
+     source          1..149
+                     /organism="Ruminococcus flavefaciens"
+                     /db_xref="taxon:1265"
+     SecStr          8..19
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          9..138
+                     /region_name="Type_I_cohesin_like"
+                     /note="Type I cohesin domain, interaction partner of
+                     dockerin; cd08548"
+                     /db_xref="CDD:260085"
+     SecStr          21..32
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     Site            order(38..41,43,69..71,73,79,81,118..119,125,127)
+                     /site_type="other"
+                     /note="dockerin binding interface [polypeptide binding]"
+                     /db_xref="CDD:260085"
+     SecStr          38..47
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          50..56
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          57..60
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          63..70
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          73..79
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          94..102
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          107..114
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          117..122
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          130..141
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     Het             bond(133)
+                     /heterogen="(CA,1000)"
+ORIGIN      
+        1 mqpvanadvi fdfgnyeaka geevqvdvtv dsknkaisam dvvfaidspl tideidkesl
+       61 afkttamtni ailganfksl ddkgeplvpt kdpvftlyvt vpattpdgvy nvgfgnkcev
+      121 hksndgskys staingkikv gnpvddple
+//
+
+LOCUS       5KDN_A                   530 aa            linear   BCT 08-FEB-2017
+DEFINITION  Chain A, 1 F5/8 Type C Domain Protein.
+ACCESSION   5KDN_A
+VERSION     5KDN_A
+DBSOURCE    pdb: molecule 5KDN, chain 65, release Feb 8, 2017;
+            deposition: Jun 8, 2016;
+            class: Hydrolase;
+            source: Mmdb_id: 146236, Pdb_id 1: 5KDN;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Clostridium perfringens ATCC 13124
+  ORGANISM  Clostridium perfringens ATCC 13124
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+REFERENCE   1  (residues 1 to 530)
+  AUTHORS   Noach,I., Ficko-Blean,E., Pluvinage,B., Stuart,C., Jenkins,M.L.,
+            Brochu,D., Buenbrazo,N., Wakarchuk,W., Burke,J.E., Gilbert,M. and
+            Boraston,A.B.
+  TITLE     Recognition of protein-linked glycans as a determinant of peptidase
+            activity
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 114 (5), E679-E688 (2017)
+   PUBMED   28096352
+REFERENCE   2  (residues 1 to 530)
+  AUTHORS   Noach,I., Ficko-Blean,E., Stuart,C. and Boraston,A.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2016)
+COMMENT     Zmpb Metallopeptidase From Clostridium Perfringens.
+FEATURES             Location/Qualifiers
+     source          1..530
+                     /organism="Clostridium perfringens ATCC 13124"
+                     /db_xref="taxon:195103"
+     Region          1..146
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     SecStr          24..27
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          33..40
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Region          34..412
+                     /region_name="Peptidase_M60"
+                     /note="Peptidase M60, enhancin and enhancin-like;
+                     pfam13402"
+                     /db_xref="CDD:315965"
+     SecStr          48..51
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          52..57
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          59..67
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          74..81
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          88..92
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          95..102
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          118..126
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          136..142
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          143..146
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     Region          147..333
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          147..151
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          156..172
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          180..186
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          187..193
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          194..204
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          209..226
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          241..247
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          255..259
+                     /sec_str_type="sheet"
+                     /note="strand 15"
+     SecStr          260..265
+                     /sec_str_type="sheet"
+                     /note="strand 16"
+     SecStr          280..289
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     Het             join(bond(283),bond(287),bond(298))
+                     /heterogen="(ZN,1005)"
+     SecStr          303..312
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     Region          334..438
+                     /region_name="Domain 3"
+                     /note="NCBI Domains"
+     SecStr          355..363
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          368..377
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          385..400
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          404..412
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          416..424
+                     /sec_str_type="helix"
+                     /note="helix 11"
+     Region          439..530
+                     /region_name="Domain 4"
+                     /note="NCBI Domains"
+     SecStr          453..462
+                     /sec_str_type="sheet"
+                     /note="strand 17"
+     SecStr          463..472
+                     /sec_str_type="sheet"
+                     /note="strand 18"
+     SecStr          480..487
+                     /sec_str_type="sheet"
+                     /note="strand 19"
+     SecStr          488..495
+                     /sec_str_type="sheet"
+                     /note="strand 20"
+     SecStr          497..502
+                     /sec_str_type="sheet"
+                     /note="strand 21"
+     SecStr          512..519
+                     /sec_str_type="sheet"
+                     /note="strand 22"
+     SecStr          521..525
+                     /sec_str_type="sheet"
+                     /note="strand 23"
+     SecStr          526..529
+                     /sec_str_type="sheet"
+                     /note="strand 24"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masvlelemr gdsiseakkr kvwnfqdwqi tglsaragdk
+       61 itvyvdvaeg dptptllykq sltqhggats fqlkpgknei tipeinyesn gipkdviqgg
+      121 dlfftnyksd sqkrapkvri egaskypvfi lgksdenevm keleayveki kaepkttpni
+      181 favssnksle fvqatyaldw ykknnktpky taeqwdqyia damgfwgfdn skdvnsdfnf
+      241 rimpmvknls ggafmnagng vigirpgnqd ailaankgwg vahelghnfd tggrtivevt
+      301 nnmmplffes kyktktritd qniwenntyp kvglddysnn elynkadsth laqlaplwql
+      361 ylydntfygk ferqfrerdf gnknrediyk swvvaasdam eldlteffar hgirvddkvk
+      421 edlakypkpd kkiyylndla mnykgdgfte nakvsvstsg sngniklsfs vddenkdnil
+      481 gyeirrdgky vgftsndsfv dtksnldedg vyvvtpydrk lntlnpievn
+//
+
+LOCUS       4WAI_A                   121 aa            linear   BCT 19-SEP-2017
+DEFINITION  Chain A, 1 Comf Operon Protein 2.
+ACCESSION   4WAI_A
+VERSION     4WAI_A
+DBSOURCE    pdb: molecule 4WAI, chain 65, release Sep 18, 2017;
+            deposition: Aug 29, 2014;
+            class: Metal Binding Protein;
+            source: Mmdb_id: 125514, Pdb_id 1: 4WAI;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Bacillus subtilis subsp. subtilis str. 168
+  ORGANISM  Bacillus subtilis subsp. subtilis str. 168
+            Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+REFERENCE   1  (residues 1 to 121)
+  AUTHORS   Sysoeva,T.A., Bane,L.B., Xiao,D.Y., Bose,B., Chilton,S.S.,
+            Gaudet,R. and Burton,B.M.
+  TITLE     Structural characterization of the late competence protein ComFB
+            from Bacillus subtilis
+  JOURNAL   Biosci. Rep. 35 (2), e00183 (2015)
+   PUBMED   25423369
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 121)
+  AUTHORS   Sysoeva,T.A., Bane,L.B., Xiao,D., Gaudet,R. and Burton,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014)
+COMMENT     Structural Characterization Of The Late Competence Protein Comfb
+            From Bacillus Subtilis.
+FEATURES             Location/Qualifiers
+     source          1..121
+                     /organism="Bacillus subtilis subsp. subtilis str. 168"
+                     /strain="168"
+                     /sub_species="subtilis"
+                     /db_xref="taxon:224308"
+     SecStr          25..28
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          29..40
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Region          30..107
+                     /region_name="ComFB"
+                     /note="Late competence development protein ComFB;
+                     pfam10719"
+                     /db_xref="CDD:287664"
+     Het             join(bond(48),bond(50),bond(53),bond(111))
+                     /heterogen="(ZN,1000)"
+     SecStr          51..64
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          68..71
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          73..82
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          90..105
+                     /sec_str_type="helix"
+                     /note="helix 4"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmlvnske ivmkelldry mdqlhmactc qvcqndvlal
+       61 slnkvspsyv tdfkkiaytk aelvdkqknt amlvilaesa avvsespsdl cqtkqeeafi
+      121 n
+//
+
+LOCUS       4E7O_A                   150 aa            linear   BCT 10-OCT-2012
+DEFINITION  Chain A, 1 Response Regulator.
+ACCESSION   4E7O_A
+VERSION     4E7O_A
+DBSOURCE    pdb: molecule 4E7O, chain 65, release May 23, 2012;
+            deposition: Mar 18, 2012;
+            class: Transcription Regulator;
+            source: Mmdb_id: 99932, Pdb_id 1: 4E7O;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Streptococcus pneumoniae R6
+  ORGANISM  Streptococcus pneumoniae R6
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (residues 1 to 150)
+  AUTHORS   Park,A.K., Moon,J.H., Lee,K.S. and Chi,Y.M.
+  TITLE     Crystal structure of receiver domain of putative NarL family
+            response regulator spr1814 from Streptococcus pneumoniae in the
+            absence and presence of the phosphoryl analog beryllofluoride
+  JOURNAL   Biochem. Biophys. Res. Commun. 421 (2), 403-407 (2012)
+   PUBMED   22521891
+REFERENCE   2  (residues 1 to 150)
+  AUTHORS   Park,A.K., Moon,J.H., Lee,K.S. and Chi,Y.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2012)
+COMMENT     Crystal Structure Of Receiver Domain Of Putative Narl Family
+            Response Regulator Spr1814 From Streptococcus Pneumoniae.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Streptococcus pneumoniae R6"
+                     /db_xref="taxon:171101"
+     Region          21..>150
+                     /region_name="CitB"
+                     /note="DNA-binding response regulator, NarL/FixJ family,
+                     contains REC and HTH domains [Signal transduction
+                     mechanisms, Transcription]; COG2197"
+                     /db_xref="CDD:225107"
+     SecStr          21..28
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          24..138
+                     /region_name="REC"
+                     /note="Signal receiver domain; originally thought to be
+                     unique to bacteria (CheY, OmpR, NtrC, and PhoB), now
+                     recently identified in eukaroytes ETR1 Arabidopsis
+                     thaliana; this domain receives the signal from the sensor
+                     partner in a two-component systems; cd00156"
+                     /db_xref="CDD:238088"
+     Site            order(27..28,73,81,101,120,123..124)
+                     /site_type="active"
+                     /db_xref="CDD:238088"
+     Het             join(bond(28),bond(73),bond(75))
+                     /heterogen="(MG,1000)"
+     SecStr          30..42
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          47..54
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          55..64
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          68..74
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     Site            73
+                     /site_type="phosphorylation"
+                     /note="phosphorylation site [posttranslational
+                     modification]"
+                     /db_xref="CDD:238088"
+     Site            order(76..77,79..81)
+                     /site_type="other"
+                     /note="intermolecular recognition site"
+                     /db_xref="CDD:238088"
+     SecStr          81..91
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          95..101
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          108..115
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          118..122
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     Site            123..125
+                     /site_type="other"
+                     /note="dimerization interface [polypeptide binding]"
+                     /db_xref="CDD:238088"
+     SecStr          127..139
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          142..145
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh mkvlvaedqs mlrdamcqll tlqpdvesvl qakngqeaiq
+       61 llekesvdia ildvempvkt glevlewirs ekletkvvvv ttfkragyfe ravkagvday
+      121 vlkersiadl mqtlhtvleg rkeyspelme
+//
+
+LOCUS       2VU9_A                   444 aa            linear   BCT 10-JAN-2013
+DEFINITION  Chain A, 1 Botulinum Neurotoxin A Heavy Chain.
+ACCESSION   2VU9_A
+VERSION     2VU9_A
+DBSOURCE    pdb: molecule 2VU9, chain 65, release Jan 4, 2013;
+            deposition: May 22, 2008;
+            class: Hydrolase;
+            source: Mmdb_id: 66276, Pdb_id 1: 2VU9;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Clostridium botulinum A
+  ORGANISM  Clostridium botulinum A
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+REFERENCE   1  (residues 1 to 444)
+  AUTHORS   Stenmark,P., Dupuy,J., Imamura,A., Kiso,M. and Stevens,R.C.
+  TITLE     Crystal structure of botulinum neurotoxin type A in complex with
+            the cell surface co-receptor GT1b-insight into the toxin-neuron
+            interaction
+  JOURNAL   PLoS Pathog. 4 (8), E1000129 (2008)
+   PUBMED   18704164
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 444)
+  AUTHORS   Stenmark,P., Dupuy,J. and Stevens,R.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2008)
+COMMENT     Crystal Structure Of Botulinum Neurotoxin Serotype A Binding Domain
+            In Complex With Gt1b.
+FEATURES             Location/Qualifiers
+     source          1..444
+                     /organism="Clostridium botulinum A"
+                     /db_xref="taxon:36826"
+     Region          1..249
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     SecStr          23..32
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          32..226
+                     /region_name="Toxin_R_bind_N"
+                     /note="Clostridium neurotoxin, N-terminal receptor
+                     binding; pfam07953"
+                     /db_xref="CDD:311760"
+     SecStr          33..39
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          43..49
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          51..54
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          60..65
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          69..75
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          81..84
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          87..97
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          108..111
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          112..117
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          118..127
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          128..137
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          139..148
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          150..154
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          158..163
+                     /sec_str_type="sheet"
+                     /note="strand 15"
+     SecStr          164..170
+                     /sec_str_type="sheet"
+                     /note="strand 16"
+     SecStr          171..179
+                     /sec_str_type="sheet"
+                     /note="strand 17"
+     SecStr          180..184
+                     /sec_str_type="sheet"
+                     /note="strand 18"
+     SecStr          185..189
+                     /sec_str_type="sheet"
+                     /note="strand 19"
+     SecStr          192..196
+                     /sec_str_type="sheet"
+                     /note="strand 20"
+     SecStr          198..206
+                     /sec_str_type="sheet"
+                     /note="strand 21"
+     SecStr          212..218
+                     /sec_str_type="sheet"
+                     /note="strand 22"
+     SecStr          219..224
+                     /sec_str_type="sheet"
+                     /note="strand 23"
+     SecStr          228..239
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Region          235..440
+                     /region_name="Toxin_R_bind_C"
+                     /note="Clostridium neurotoxin, C-terminal receptor
+                     binding; pfam07951"
+                     /db_xref="CDD:285226"
+     Het             join(bond(236),bond(240))
+                     /heterogen="(MG,1000)"
+     Region          250..444
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          259..263
+                     /sec_str_type="sheet"
+                     /note="strand 24"
+     SecStr          268..274
+                     /sec_str_type="sheet"
+                     /note="strand 25"
+     SecStr          279..285
+                     /sec_str_type="sheet"
+                     /note="strand 26"
+     SecStr          288..293
+                     /sec_str_type="sheet"
+                     /note="strand 27"
+     SecStr          295..300
+                     /sec_str_type="sheet"
+                     /note="strand 28"
+     SecStr          306..312
+                     /sec_str_type="sheet"
+                     /note="strand 29"
+     SecStr          323..334
+                     /sec_str_type="sheet"
+                     /note="strand 30"
+     SecStr          335..342
+                     /sec_str_type="sheet"
+                     /note="strand 31"
+     SecStr          350..356
+                     /sec_str_type="sheet"
+                     /note="strand 32"
+     SecStr          367..373
+                     /sec_str_type="sheet"
+                     /note="strand 33"
+     SecStr          381..387
+                     /sec_str_type="sheet"
+                     /note="strand 34"
+     SecStr          394..399
+                     /sec_str_type="sheet"
+                     /note="strand 35"
+     SecStr          405..412
+                     /sec_str_type="sheet"
+                     /note="strand 36"
+     SecStr          428..432
+                     /sec_str_type="sheet"
+                     /note="strand 37"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh mdtsilnlry esnhlidlsr yaskinigsk vnfdpidknq
+       61 iqlfnlessk ievilknaiv ynsmyenfst sfwiripkyf nsislnneyt iincmennsg
+      121 wkvslnygei iwtlqdtqei kqrvvfkysq minisdyinr wifvtitnnr lnnskiying
+      181 rlidqkpisn lgnihasnni mfkldgcrdt hryiwikyfn lfdkelneke ikdlydnqsn
+      241 sgilkdfwgd ylqydkpyym lnlydpnkyv dvnnvgirgy mylkgprgsv mttniylnss
+      301 lyrgtkfiik kyasgnkdni vrnndrvyin vvvknkeyrl atnasqagve kilsaleipd
+      361 vgnlsqvvvm kskndqgitn kckmnlqdnn gndigfigfh qfnniaklva snwynrqier
+      421 ssrtlgcswe fipvddgwge rplq
+//
+
+LOCUS       2KTM_A                    89 aa            linear   MAM 18-MAR-2015
+DEFINITION  Chain A, 1 Major Prion Protein.
+ACCESSION   2KTM_A
+VERSION     2KTM_A
+DBSOURCE    pdb: molecule 2KTM, chain 65, release Mar 18, 2015;
+            deposition: Feb 4, 2010;
+            class: Membrane Protein;
+            source: Mmdb_id: 81172, Pdb_id 1: 2KTM;
+            Exp. method: Solution Nmr.
+KEYWORDS    .
+SOURCE      Ovis aries (sheep)
+  ORGANISM  Ovis aries
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Ovis.
+REFERENCE   1  (residues 1 to 89)
+  AUTHORS   Adrover,M., Pauwels,K., Prigent,S., de Chiara,C., Xu,Z.,
+            Chapuis,C., Pastore,A. and Rezaei,H.
+  TITLE     Prion fibrillization is mediated by a native structural element
+            that comprises helices H2 and H3
+  JOURNAL   J. Biol. Chem. 285 (27), 21004-21012 (2010)
+   PUBMED   20375014
+REFERENCE   2  (residues 1 to 89)
+  AUTHORS   Pastore,A., Adrover,M., Pauwels,K., De Chiara,C., Prigent,S. and
+            Rezeai,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-FEB-2010)
+COMMENT     Solution Nmr Structure Of H2h3 Domain Of Ovine Prion Protein
+            (residues 167-234).
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Ovis aries"
+                     /db_xref="taxon:9940"
+     Region          <16..88
+                     /region_name="Prion"
+                     /note="Prion/Doppel alpha-helical domain; pfam00377"
+                     /db_xref="CDD:278789"
+     SecStr          30..52
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Bond            bond(37,72)
+                     /bond_type="disulfide"
+     SecStr          58..83
+                     /sec_str_type="helix"
+                     /note="helix 2"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh mrpvdqysnq nnfvhdcvni tvkqhtvttt tkgenftetd
+       61 ikamervveq mcitqyqres qayyqrgas
+//
+
+LOCUS       2RNZ_A                    94 aa            linear   PLN 10-OCT-2012
+DEFINITION  Chain A, SEQRES.
+ACCESSION   2RNZ_A
+VERSION     2RNZ_A
+DBSOURCE    pdb: molecule 2RNZ, chain 65, release Jun 18, 2009;
+            deposition: Mar 1, 2008;
+            class: Transferase;
+            source: Mmdb_id: 64125, Pdb_id 1: 2RNZ;
+            Exp. method: Solution Nmr.
+KEYWORDS    .
+SOURCE      Saccharomyces cerevisiae (baker's yeast)
+  ORGANISM  Saccharomyces cerevisiae
+            Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+            Saccharomycetes; Saccharomycetales; Saccharomycetaceae;
+            Saccharomyces.
+REFERENCE   1  (residues 1 to 94)
+  AUTHORS   Shimojo,H., Sano,N., Moriwaki,Y., Okuda,M., Horikoshi,M. and
+            Nishimura,Y.
+  TITLE     Novel structural and functional mode of a knot essential for RNA
+            binding activity of the Esa1 presumed chromodomain
+  JOURNAL   J. Mol. Biol. 378 (5), 987-1001 (2008)
+   PUBMED   18407291
+REFERENCE   2  (residues 1 to 94)
+  AUTHORS   Shimojo,H., Sano,N., Moriwaki,Y., Okuda,M., Horikoshi,M. and
+            Nishimura,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2008)
+COMMENT     Solution Structure Of The Presumed Chromodomain Of The Yeast
+            Histone Acetyltransferase, Esa1.
+FEATURES             Location/Qualifiers
+     source          1..94
+                     /organism="Saccharomyces cerevisiae"
+                     /db_xref="taxon:4932"
+     Region          26..79
+                     /region_name="Tudor-knot"
+                     /note="RNA binding activity-knot of a chromodomain;
+                     pfam11717"
+                     /db_xref="CDD:288553"
+     SecStr          28..37
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          38..42
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     Site            order(40,59,61,64,68,72,76..77)
+                     /site_type="other"
+                     /note="histone binding site"
+                     /db_xref="CDD:237991"
+     SecStr          43..47
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          55..61
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          69..73
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh msvddiiikc qcwvqkndee rlaeilsint rkappkfyvh
+       61 yvnynkrlde wittdrinld kevlypklka tded
+//
+
+LOCUS       3URG_A                   146 aa            linear   BCT 07-DEC-2012
+DEFINITION  Chain A, 1 Alr1010 Protein.
+ACCESSION   3URG_A
+VERSION     3URG_A
+DBSOURCE    pdb: molecule 3URG, chain 65, release Dec 6, 2012;
+            deposition: Nov 22, 2011;
+            class: Metal Binding Protein;
+            source: Mmdb_id: 105569, Pdb_id 1: 3URG;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Nostoc sp. PCC 7120 (Anabaena sp. PCC 7120)
+  ORGANISM  Nostoc sp. PCC 7120
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1  (residues 1 to 146)
+  AUTHORS   Fan,X.X., Zhou,Y.F., Liu,X., Li,L.F. and Su,X.D.
+  TITLE     Ellman's reagent in promoting crystallization and structure
+            determination of Anabaena CcbP
+  JOURNAL   Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun. 68 (PT 11),
+            1409-1414 (2012)
+   PUBMED   23143261
+REFERENCE   2  (residues 1 to 146)
+  AUTHORS   Fan,X.X., Liu,X. and Su,X.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-NOV-2011)
+COMMENT     The Crystal Structure Of Anabaena Ccbp.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Nostoc sp. PCC 7120"
+                     /db_xref="taxon:103690"
+     Region          join(1..61,126..146)
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     SecStr          28..36
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Region          32..140
+                     /region_name="Calci_bind_CcbP"
+                     /note="Calcium binding; pfam11535"
+                     /db_xref="CDD:288399"
+     SecStr          45..59
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     Het             join(bond(57),bond(60))
+                     /heterogen="(NA,1001)"
+     Region          62..125
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          63..68
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          69..74
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          75..83
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          84..87
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Het             bond(94)
+                     /heterogen="(MNB,1000)"
+     SecStr          98..105
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          112..117
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          119..123
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          127..142
+                     /sec_str_type="helix"
+                     /note="helix 3"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masverdetr ehrieteiiv daedkeeram gwyyylddtl
+       61 efpfmgkwkk ksrktstiee ktvevlgmap ddeclkdmyv evadiggkdd dvytaklsdi
+      121 eaidvdddtq eaiadwlywl argykf
+//
+
+LOCUS       2JNE_A                   101 aa            linear   BCT 09-FEB-2018
+DEFINITION  Chain A, 1 Hypothetical protein yfgJ.
+ACCESSION   2JNE_A
+VERSION     2JNE_A
+DBSOURCE    pdb: molecule 2JNE, chain 65, release Jan 31, 2018;
+            deposition: Jan 12, 2007;
+            class: METAL BINDING PROTEIN;
+            source: Mmdb_id: 44610, Pdb_id 1: 2JNE;
+            Exp. method: Solution NMR.
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (residues 1 to 101)
+  AUTHORS   Ramelot,T.A., Cort,J.R., Yee,A.A., Arrowsmith,C.H. and Kennedy,M.A.
+  TITLE     NMR structure of E.coli YfgJ bound to two Zn+2
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 101)
+  AUTHORS   Ramelot,T.A., Cort,J.R., Yee,A.A., Semesi,A., Lukin,J.A.,
+            Arrowsmith,C.H., Kennedy,M.A. and Northeast Structural Genomics
+            Consortium (NESG).
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2007)
+COMMENT     NMR structure of E.coli YfgJ modelled with two Zn+2 bound.
+            Northeast Structural Genomics Consortium Target ER317.
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Escherichia coli"
+                     /db_xref="taxon:562"
+     Het             join(bond(88),bond(67),bond(84),bond(64),bond(66))
+                     /heterogen="(ZN,1090)"
+     SecStr          33..36
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          35..98
+                     /region_name="zinc-ribbons_6"
+                     /note="zinc-ribbons; pfam07191"
+                     /db_xref="CDD:284579"
+     Het             join(bond(35),bond(38),bond(51),bond(54))
+                     /heterogen="(ZN,1089)"
+     SecStr          38..46
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          47..52
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          55..64
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          71..77
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          78..84
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          96..101
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 fcltlrrryt mgsshhhhhh ssglvprgsh melhcpqcqh vldqdnghar crscgefiem
+       61 kalcpdchqp lqvlkacgav dyfcqhghgl iskkrvefvl a
+//
+
+LOCUS       3K01_A                   412 aa            linear   BCT 14-NOV-2017
+DEFINITION  Chain A, 1 Acarbose/maltose binding protein GacH.
+ACCESSION   3K01_A
+VERSION     3K01_A
+DBSOURCE    pdb: molecule 3K01, chain 65, release Nov 1, 2017;
+            deposition: Sep 24, 2009;
+            class: TRANSPORT PROTEIN;
+            source: Mmdb_id: 80124, Pdb_id 1: 3K01;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Streptomyces glaucescens
+  ORGANISM  Streptomyces glaucescens
+            Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+            Streptomyces.
+REFERENCE   1  (residues 1 to 412)
+  AUTHORS   Vahedi-Faridi,A., Licht,A., Bulut,H., Scheffel,F., Keller,S.,
+            Wehmeier,U.F., Saenger,W. and Schneider,E.
+  TITLE     Crystal structures of the solute receptor GacH of Streptomyces
+            glaucescens in complex with acarbose and an acarbose homolog:
+            comparison with the acarbose-loaded maltose-binding protein of
+            Salmonella typhimurium
+  JOURNAL   J. Mol. Biol. 397 (3), 709-723 (2010)
+   PUBMED   20132828
+REFERENCE   2  (residues 1 to 412)
+  AUTHORS   Vahedi-Faridi,A., Licht,A., Bulut,H. and Schneider,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-SEP-2009)
+COMMENT     Crystal structures of the GacH receptor of Streptomyces glaucescens
+            GLA.O in the unliganded form and in complex with acarbose and an
+            acarbose homolog. Comparison with acarbose-loaded maltose binding
+            protein of Salmonella typhimurium.
+FEATURES             Location/Qualifiers
+     source          1..412
+                     /organism="Streptomyces glaucescens"
+                     /db_xref="taxon:1907"
+     Region          join(1..142,290..369)
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     Region          27..411
+                     /region_name="UgpB"
+                     /note="ABC-type glycerol-3-phosphate transport system,
+                     periplasmic component [Carbohydrate transport and
+                     metabolism]; COG1653"
+                     /db_xref="CDD:224567"
+     SecStr          27..35
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          29..405
+                     /region_name="PBP2_GacH"
+                     /note="The periplasmic-binding component of the putative
+                     oligosacchride ABC transporter GacHFG; possesses type 2
+                     periplasmic binding fold; cd14751"
+                     /db_xref="CDD:270454"
+     SecStr          41..50
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          57..65
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          71..80
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          86..92
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     Site            order(93..94,141,190..191,262,366,376,379)
+                     /site_type="other"
+                     /note="chemical substrate binding site [chemical binding]"
+                     /db_xref="CDD:270454"
+     SecStr          94..102
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          127..130
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          131..134
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          135..142
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     Region          join(143..188,233..289)
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          143..148
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          149..156
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          163..176
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          181..184
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     Region          join(189..232,370..412)
+                     /region_name="Domain 3"
+                     /note="NCBI Domains"
+     SecStr          192..200
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          202..207
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          208..213
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          217..231
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          233..236
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          241..251
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          255..260
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          263..270
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          278..283
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          295..303
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          309..321
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          322..331
+                     /sec_str_type="helix"
+                     /note="helix 11"
+     SecStr          351..362
+                     /sec_str_type="helix"
+                     /note="helix 12"
+     SecStr          377..388
+                     /sec_str_type="helix"
+                     /note="helix 13"
+     SecStr          393..408
+                     /sec_str_type="helix"
+                     /note="helix 14"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh mamvelsgtv tfwdtsneae katyqalaeg fekehpkvdv
+       61 kyvnvpfgea nakfknaagg nsgapdvmrt evawvadfas igylapldgt palddgsdhl
+      121 pqaaastrye gktyavpqvi dtlalfynke lltkagvevp gsvaelktaa aeitektgat
+      181 glylrgddpy wflpylygeg gdlvdeknkt vtvddeagvr ayrvikdlvd skaaitdasd
+      241 gwnnmqnafk sgkvammvng pwaiedvkag arfkdagnlg vapvpagsag qgspqggwnl
+      301 svyagsknld asyafvkyms sakvqqqtte klsllptrts vyevpsvadn emvkffkpav
+      361 dkaverpwia egnalfepir lqmanvlsge tspdeaaant gdayrkllkd yk
+//
+
+LOCUS       2CDP_A                   160 aa            linear   BCT 28-JUN-2017
+DEFINITION  Chain A, 1 Beta-agarase 1.
+ACCESSION   2CDP_A
+VERSION     2CDP_A
+DBSOURCE    pdb: molecule 2CDP, chain 65, release Jun 28, 2017;
+            deposition: Jan 26, 2006;
+            class: Hydrolase;
+            source: Mmdb_id: 86943, Pdb_id 1: 2CDP;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Saccharophagus degradans 2-40
+  ORGANISM  Saccharophagus degradans 2-40
+            Bacteria; Proteobacteria; Gammaproteobacteria; Cellvibrionales;
+            Cellvibrionaceae; Saccharophagus.
+REFERENCE   1  (residues 1 to 160)
+  AUTHORS   Henshaw,J., Horne-Bitschy,A., van Bueren,A.L., Money,V.A.,
+            Bolam,D.N., Czjzek,M., Ekborg,N.A., Weiner,R.M., Hutcheson,S.W.,
+            Davies,G.J., Boraston,A.B. and Gilbert,H.J.
+  TITLE     Family 6 carbohydrate binding modules in beta-agarases display
+            exquisite selectivity for the non-reducing termini of agarose
+            chains
+  JOURNAL   J. Biol. Chem. 281 (25), 17099-17107 (2006)
+   PUBMED   16601125
+REFERENCE   2  (residues 1 to 160)
+  AUTHORS   Henshaw,J., Horne,A., Van Bueren,A.L., Money,V.A., Bolam,D.N.,
+            Czjze,M., Weiner,R.M., Hutcheson,S.W., Davies,G.J., Boraston,A.B.
+            and Gilber,H.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JAN-2006)
+COMMENT     Structure Of A Cbm6 In Complex With Neoagarohexaose.
+FEATURES             Location/Qualifiers
+     source          1..160
+                     /organism="Saccharophagus degradans 2-40"
+                     /db_xref="taxon:203122"
+     Region          25..160
+                     /region_name="CBM6_agarase-like"
+                     /note="Carbohydrate Binding Module 6 (CBM6); appended
+                     mainly to glycoside hydrolase (GH) family 16 alpha- and
+                     beta agarases; cd04079"
+                     /db_xref="CDD:271145"
+     SecStr          25..31
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Het             join(bond(30),bond(32),bond(32),bond(58),bond(154),
+                     bond(154),bond(32),bond(154))
+                     /heterogen="(CA,1006)"
+     Site            order(30,32,58,62,64,67,154)
+                     /site_type="other"
+                     /note="Ca binding site [ion binding]"
+                     /db_xref="CDD:271145"
+     SecStr          35..39
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     Het             join(bond(43),bond(48),bond(62),bond(64),bond(67))
+                     /heterogen="(CA,1007)"
+     SecStr          49..55
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          56..62
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Site            order(61..62,91,119,149,152)
+                     /site_type="other"
+                     /note="ligand binding site [chemical binding]"
+                     /db_xref="CDD:271145"
+     SecStr          67..76
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          77..80
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          81..86
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          93..103
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          104..114
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          121..129
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          130..133
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          134..139
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          140..146
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          154..160
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh mastasiave aenfnavggt fsdgqaqpvs vytvngntai
+       61 nyvnqgdyad ytiavaqagn ytisyqagsg vtggsieflv nengswaskt vtavpnqgwd
+      121 nfqplnggsv ylsagthqvr lhgagsnnwq wnldkftlsn
+//
+
+LOCUS       3WRN_A                   276 aa            linear   VRL 21-JAN-2015
+DEFINITION  Chain A, 1 Non-capsid Protein Ns-1.
+ACCESSION   3WRN_A
+VERSION     3WRN_A
+DBSOURCE    pdb: molecule 3WRN, chain 65, release Jan 21, 2015;
+            deposition: Feb 27, 2014;
+            class: Replication;
+            source: Mmdb_id: 126205, Pdb_id 1: 3WRN;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Murine minute virus strain MVM prototype
+  ORGANISM  Murine minute virus strain MVM prototype
+            Viruses; ssDNA viruses; Parvoviridae; Parvovirinae;
+            Protoparvovirus.
+REFERENCE   1  (residues 1 to 276)
+  AUTHORS   Tewary,S.K., Liang,L., Lin,Z., Lynn,A., Cotmore,S.F.,
+            Tattersall,P., Zhao,H. and Tang,L.
+  TITLE     Structures of minute virus of mice replication initiator protein
+            N-terminal domain: Insights into DNA nicking and origin binding
+  JOURNAL   Virology 476C, 61-71 (2014)
+   PUBMED   25528417
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (residues 1 to 276)
+  AUTHORS   Tewary,S.K., Zhao,H. and Tang,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-2014)
+COMMENT     Minute Virus Of Mice Non-structural Protein-1n-terminal Nuclease
+            Domain Reveals A Unique Zn2+ Coordination In The Active Site Pocket
+            And Shows A Novel Mode Of Dna Recognition At The Origin Of
+            Replication.
+FEATURES             Location/Qualifiers
+     source          1..276
+                     /organism="Murine minute virus strain MVM prototype"
+                     /db_xref="taxon:648235"
+     SecStr          29..41
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          42..47
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          48..52
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          54..59
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          60..65
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Het             join(bond(70),bond(72))
+                     /heterogen="(NA,1001)"
+     SecStr          75..91
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          102..126
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     Het             join(bond(112),bond(252))
+                     /heterogen="(NA,1000)"
+     SecStr          133..143
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     Het             join(bond(140),bond(148),bond(150))
+                     /heterogen="(ZN,1002)"
+     SecStr          144..155
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          163..181
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          188..201
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          203..207
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     Region          206..276
+                     /region_name="PV_NSP1"
+                     /note="Parvovirus non-structural protein 1; pfam12433"
+                     /db_xref="CDD:289218"
+     SecStr          221..225
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          245..254
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          263..272
+                     /sec_str_type="helix"
+                     /note="helix 6"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh mmagnaysde vlgatnwlke ksnqevfsfv fknenvqlng
+       61 kdigwnsykk elqedelksl qrgaettwdq sedmewettv demtkkqvfi fdslvkkclf
+      121 evlntknifp gdvnwfvqhe wgkdqgwhch vliggkdfsq aqgkwwrrql nvywsrwlvt
+      181 acnvqltpae riklreiaed newvtlltyk hkqtkkdytk cvlfgnmiay yfltkkkist
+      241 spprdggyfl ssdsgwktnf lkegerhlvs klytdd
+//
+
+LOCUS       3G1M_A                   236 aa            linear   BCT 12-MAR-2014
+DEFINITION  Chain A, 1 Transcriptional Regulatory Repressor Protein
+            (tetr-family) Ethr.
+ACCESSION   3G1M_A
+VERSION     3G1M_A
+DBSOURCE    pdb: molecule 3G1M, chain 65, release Mar 12, 2014;
+            deposition: Jan 30, 2009;
+            class: Transcription;
+            source: Mmdb_id: 75446, Pdb_id 1: 3G1M;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Mycobacterium tuberculosis
+  ORGANISM  Mycobacterium tuberculosis
+            Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+            Mycobacterium; Mycobacterium tuberculosis complex.
+REFERENCE   1  (residues 1 to 236)
+  AUTHORS   Engohang-Ndong,J., Baillat,D., Aumercier,M., Bellefontaine,F.,
+            Besra,G.S., Locht,C. and Baulard,A.R.
+  TITLE     EthR, a repressor of the TetR/CamR family implicated in ethionamide
+            resistance in mycobacteria, octamerizes cooperatively on its
+            operator
+  JOURNAL   Mol. Microbiol. 51 (1), 175-188 (2004)
+   PUBMED   14651620
+REFERENCE   2  (residues 1 to 236)
+  AUTHORS   Frenois,F., Engohang-Ndong,J., Locht,C., Baulard,A.R. and
+            Villeret,V.
+  TITLE     Structure of EthR in a ligand bound conformation reveals
+            therapeutic perspectives against tuberculosis
+  JOURNAL   Mol. Cell 16 (2), 301-307 (2004)
+   PUBMED   15494316
+REFERENCE   3  (residues 1 to 236)
+  AUTHORS   Frenois,F., Baulard,A.R. and Villeret,V.
+  TITLE     Insights into mechanisms of induction and ligands recognition in
+            the transcriptional repressor EthR from Mycobacterium tuberculosis
+  JOURNAL   Tuberculosis (Edinb) 86 (2), 110-114 (2006)
+   PUBMED   16243584
+REFERENCE   4  (residues 1 to 236)
+  AUTHORS   Willand,N., Dirie,B., Carette,X., Bifani,P., Singhal,A.,
+            Desroses,M., Leroux,F., Willery,E., Mathys,V., Deprez-Poulain,R.,
+            Delcroix,G., Frenois,F., Aumercier,M., Locht,C., Villeret,V.,
+            Deprez,B. and Baulard,A.R.
+  TITLE     Synthetic EthR inhibitors boost antituberculous activity of
+            ethionamide
+  JOURNAL   Nat. Med. 15 (5), 537-544 (2009)
+   PUBMED   19412174
+REFERENCE   5  (residues 1 to 236)
+  AUTHORS   Willand,N., Dirie,B., Carette,X., Bifani,P., Singhal,A.,
+            Desroses,M., F,F., Willery,E., Mathys,V., Deprez-Poulain,R.,
+            Delcroix,G., Frenois,F., Aumercier,M., Locht,C., Villeret,V.,
+            Deprez,B. and Baulard,A.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2009)
+COMMENT     Ethr From Mycobacterium Tuberculosis In Complex With Compound
+            Bdm31381.
+FEATURES             Location/Qualifiers
+     source          1..236
+                     /organism="Mycobacterium tuberculosis"
+                     /db_xref="taxon:1773"
+     Region          35..226
+                     /region_name="AcrR"
+                     /note="DNA-binding transcriptional regulator, AcrR family
+                     [Transcription]; COG1309"
+                     /db_xref="CDD:224228"
+     SecStr          45..57
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Region          49..95
+                     /region_name="TetR_N"
+                     /note="Bacterial regulatory proteins, tetR family;
+                     pfam00440"
+                     /db_xref="CDD:278848"
+     SecStr          67..74
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          78..85
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          88..112
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          119..130
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          131..138
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          139..147
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          152..179
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          188..208
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          219..232
+                     /sec_str_type="helix"
+                     /note="helix 10"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh mttsaasqas lprgrrtarp sgddrelail ataenlledr
+       61 pladisvddl akgagisrpt fyfyfpskea vlltlldrvv nqadmalqtl aenpadtdre
+      121 nmwrtginvf fetfgshkav tragqaarat svevaelwst fmqkwiayta avidaerdrg
+      181 aaprtlpahe latalnlmne rtlfasfage qpsvpearvl dtlvhiwvts iygenr
+//
+
+LOCUS       5J78_A                   488 aa            linear   BCT 02-NOV-2016
+DEFINITION  Chain A, 1 Acetaldehyde Dehydrogenase (acetylating).
+ACCESSION   5J78_A
+VERSION     5J78_A
+DBSOURCE    pdb: molecule 5J78, chain 65, release Nov 2, 2016;
+            deposition: Apr 6, 2016;
+            class: Oxidoreductase;
+            source: Mmdb_id: 142833, Pdb_id 1: 5J78;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Parageobacillus thermoglucosidasius
+  ORGANISM  Parageobacillus thermoglucosidasius
+            Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae;
+            Parageobacillus.
+REFERENCE   1  (residues 1 to 488)
+  AUTHORS   Extance,J., Danson,M.J. and Crennell,S.J.
+  TITLE     Structure of an acetylating aldehyde dehydrogenase from the
+            thermophilic ethanologen Geobacillus thermoglucosidasius
+  JOURNAL   Protein Sci. 25 (11), 2045-2053 (2016)
+   PUBMED   27571338
+REFERENCE   2  (residues 1 to 488)
+  AUTHORS   Crennell,S.J., Extance,J.P. and Danson,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2016)
+COMMENT     Crystal Structure Of An Acetylating Aldehyde Dehydrogenase From
+            Geobacillus Thermoglucosidasius.
+FEATURES             Location/Qualifiers
+     source          1..488
+                     /organism="Parageobacillus thermoglucosidasius"
+                     /db_xref="taxon:1426"
+     Region          join(1..241,458..488)
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     SecStr          28..50
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          55..73
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          74..84
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          89..107
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          114..121
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          122..131
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          132..139
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          143..157
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          159..166
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          170..187
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          193..197
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          202..210
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          215..221
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     Het             bond(215)
+                     /heterogen="(MG,1003)"
+     SecStr          223..231
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          235..239
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     Region          242..457
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          244..249
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          254..266
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          277..283
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          286..296
+                     /sec_str_type="helix"
+                     /note="helix 10"
+     SecStr          297..301
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          303..310
+                     /sec_str_type="helix"
+                     /note="helix 11"
+     SecStr          328..335
+                     /sec_str_type="helix"
+                     /note="helix 12"
+     SecStr          344..350
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          366..374
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          376..388
+                     /sec_str_type="helix"
+                     /note="helix 13"
+     SecStr          394..400
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          403..410
+                     /sec_str_type="helix"
+                     /note="helix 14"
+     SecStr          416..421
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+     SecStr          423..430
+                     /sec_str_type="helix"
+                     /note="helix 15"
+     SecStr          440..443
+                     /sec_str_type="sheet"
+                     /note="strand 15"
+     SecStr          452..455
+                     /sec_str_type="sheet"
+                     /note="strand 16"
+     SecStr          460..468
+                     /sec_str_type="sheet"
+                     /note="strand 17"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh masmlrdidl qsiqevrnyl eeakaaqkil ekmtqseidk
+       61 ivesmanaar eeagrlaama veetgfgnve dktlknlfaa ndvynsikdv ktvgiirrde
+      121 enrvweiaqp vgivagiips tnptstvifk aliavkarna ivfsphpsaa kctaeaarim
+      181 qeaaeragap kgliscitqp tmaatnelmk hkltdvilat ggpglvkaay ssgkpaygvg
+      241 pgnvpvyihe saniakavql iiqsktfdyg tixaseqall vdesikekvv aelkqqgayf
+      301 lneeekqkva siimvngsln akivgkapqv iaemagieip sdvkllvaee tevgkeypfs
+      361 ieklspilaf yivkgmeeas elaqkllevg glghtvgiha edekvieayt idkpagrivv
+      421 nagttfggig atvnvkpslt lgcgaignni tsdnvtvthl fnikrvafgv rempkkvega
+      481 qkepaltk
+//
+
+LOCUS       2YPJ_A                   155 aa            linear   BCT 27-FEB-2013
+DEFINITION  Chain A, 1 Endoglucanase Cel5a.
+ACCESSION   2YPJ_A
+VERSION     2YPJ_A
+DBSOURCE    pdb: molecule 2YPJ, chain 65, release Feb 27, 2013;
+            deposition: Oct 30, 2012;
+            class: Hydrolase;
+            source: Mmdb_id: 105854, Pdb_id 1: 2YPJ;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      [Eubacterium] cellulosolvens
+  ORGANISM  [Eubacterium] cellulosolvens
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Eubacterium.
+REFERENCE   1  (residues 1 to 155)
+  AUTHORS   Luis,A.S., Venditto,I., Temple,M.J., Rogowski,A., Basle,A., Xue,J.,
+            Knox,J.P., Prates,J.A., Ferreira,L.M., Fontes,C.M., Najmudin,S. and
+            Gilbert,H.J.
+  TITLE     Understanding how noncatalytic carbohydrate binding modules can
+            display specificity for xyloglucan
+  JOURNAL   J. Biol. Chem. 288 (7), 4799-4809 (2013)
+   PUBMED   23229556
+REFERENCE   2  (residues 1 to 155)
+  AUTHORS   Luis,A.S., Venditto,I., Prates,J.A.M., Ferreira,L.M.A.,
+            Temple,M.J., Rogowski,A., Basle,A., Xue,J., Knox,J.P.,
+            Gilbert,H.J., Fonte,C.M.G.A. and Najmudin,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-OCT-2012)
+COMMENT     Non-catalytic Carbohydrate Binding Module Cbm65b.
+FEATURES             Location/Qualifiers
+     source          1..155
+                     /organism="[Eubacterium] cellulosolvens"
+                     /db_xref="taxon:29322"
+     SecStr          31..40
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          35..149
+                     /region_name="CBM29_CBM65"
+                     /note="family 29 and family 65 carbohydrate binding
+                     modules; cd13748"
+                     /db_xref="CDD:259840"
+     Site            order(49,86,88,91,93,127,131)
+                     /site_type="other"
+                     /note="carbohydrate binding site [chemical binding]"
+                     /db_xref="CDD:259840"
+     SecStr          52..57
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          69..79
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          80..89
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          90..97
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          99..103
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          104..109
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          110..117
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          126..133
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          138..149
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh mssgadsgei ilfsgsnhad fkawggddwp safeispkye
+       61 pmkldlnknf eikvdyngad ivlifarwdk diwaqispyy vvdgtavftk eqiakaygsd
+      121 dfsgldyiav kplpseegvt vtkvsgiytn ggsed
+//
+
+LOCUS       5EJW_A                    91 aa            linear   ROD 29-JUL-2016
+DEFINITION  Chain A, 1 Chromobox Protein Homolog 7.
+ACCESSION   5EJW_A
+VERSION     5EJW_A
+DBSOURCE    pdb: molecule 5EJW, chain 65, release Jul 28, 2016;
+            deposition: Nov 2, 2015;
+            class: TranscriptionINHIBITOR;
+            source: Mmdb_id: 137292, Pdb_id 1: 5EJW;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (residues 1 to 91)
+  AUTHORS   Ren,C., Smith,S.G., Yap,K., Li,S., Li,J., Mezei,M., Rodriguez,Y.,
+            Vincek,A., Aguilo,F., Walsh,M.J. and Zhou,M.M.
+  TITLE     Structure-Guided Discovery of Selective Antagonists for the
+            Chromodomain of Polycomb Repressive Protein CBX7
+  JOURNAL   ACS Med Chem Lett 7 (6), 601-605 (2016)
+   PUBMED   27326334
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 91)
+  AUTHORS   Ren,C. and Zhou,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-NOV-2015)
+COMMENT     Crystal Structure Of Chromobox Homolog 7 (cbx7) Chromodomain With
+            Ms351.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Mus musculus"
+                     /db_xref="taxon:10090"
+     Site            order(31,50,52,55,59,63,67..68)
+                     /site_type="other"
+                     /note="histone binding site"
+                     /db_xref="CDD:237991"
+     Region          33..80
+                     /region_name="Chromo"
+                     /note="Chromo (CHRromatin Organization MOdifier) domain;
+                     pfam00385"
+                     /db_xref="CDD:278797"
+     SecStr          34..43
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          44..52
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          60..65
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          72..87
+                     /sec_str_type="helix"
+                     /note="helix 1"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh melsaigeqv favesirkkr vrkgkveylv kwkgwppkys
+       61 twepeehild prlvmayeek eerdrasgyr k
+//
+
+LOCUS       3T95_A                   335 aa            linear   BCT 10-OCT-2012
+DEFINITION  Chain A, 1 Autoinducer 2-binding Protein Lsrb.
+ACCESSION   3T95_A
+VERSION     3T95_A
+DBSOURCE    pdb: molecule 3T95, chain 65, release Mar 28, 2012;
+            deposition: Aug 2, 2011;
+            class: Signaling Protein;
+            source: Mmdb_id: 95549, Pdb_id 1: 3T95;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Yersinia pestis CO92
+  ORGANISM  Yersinia pestis CO92
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Yersiniaceae; Yersinia.
+REFERENCE   1  (residues 1 to 335)
+  AUTHORS   Kavanaugh,J.S., Gakhar,L. and Horswill,A.R.
+  TITLE     The structure of LsrB from Yersinia pestis complexed with
+            autoinducer-2
+  JOURNAL   Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun. 67 (PT 12),
+            1501-1505 (2011)
+   PUBMED   22139152
+REFERENCE   2  (residues 1 to 335)
+  AUTHORS   Kavanaugh,J.S., Gakhar,L. and Horswill,A.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-AUG-2011)
+COMMENT     Crystal Structure Of Lsrb From Yersinia Pestis Complexed With
+            Autoinducer-2.
+FEATURES             Location/Qualifiers
+     source          1..335
+                     /organism="Yersinia pestis CO92"
+                     /db_xref="taxon:214092"
+     Region          join(1..126,263..320)
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     Region          22..335
+                     /region_name="PRK15408"
+                     /note="autoinducer 2-binding protein lsrB; Provisional"
+                     /db_xref="CDD:237961"
+     SecStr          23..30
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          24..331
+                     /region_name="PBP1_LsrB_Quorum_Sensing"
+                     /note="Periplasmic binding domain of autoinducer-2 (AI-2)
+                     receptor LsrB from Salmonella typhimurium and its close
+                     homologs; cd06302"
+                     /db_xref="CDD:107297"
+     Site            order(30,111,125,161..162,165,215..217,261)
+                     /site_type="other"
+                     /note="ligand binding site [chemical binding]"
+                     /db_xref="CDD:107297"
+     SecStr          35..51
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          53..59
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          65..78
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          81..87
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     Bond            bond(94,118)
+                     /bond_type="disulfide"
+     SecStr          94..103
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          105..111
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          120..125
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     Region          join(127..262,321..335)
+                     /region_name="Domain 2"
+                     /note="NCBI Domains"
+     SecStr          128..143
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          147..155
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          161..175
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          179..188
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          192..205
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          210..217
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          218..230
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          235..241
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          246..253
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          257..261
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+     SecStr          263..279
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     SecStr          287..292
+                     /sec_str_type="sheet"
+                     /note="strand 11"
+     SecStr          294..299
+                     /sec_str_type="sheet"
+                     /note="strand 12"
+     SecStr          314..319
+                     /sec_str_type="sheet"
+                     /note="strand 13"
+     SecStr          322..326
+                     /sec_str_type="sheet"
+                     /note="strand 14"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh maeriafipk lvgvgfftsg gkgavdagka lgvdvtydgp
+       61 tepsvsgqvq linnfvnqgy naivvsavsp dglcpalkra mqrgvkiltw dsdtkpecrs
+      121 vyinqgtpnq lgsmlvdmaa nqvkkeqakv affyssptvt dqnqwvneak kkiqqehpgw
+      181 eivttqfgyn datkslqtae gilkayadld aiiapdanal paaaqaaenl kranvaivgf
+      241 stpnvmrpyv ergtvkefgl wdvvnqgkis vyvanemlkk gdlnvgdkid ipnigvvevs
+      301 pnrvqgydye akgngivllp qrviftkeni skydf
+//
+
+LOCUS       5BWL_A                   290 aa            linear   PRI 29-JUL-2016
+DEFINITION  Chain A, 1 Nad-dependent Protein Deacylase Sirtuin-5,
+            Mitochondrial.
+ACCESSION   5BWL_A
+VERSION     5BWL_A
+DBSOURCE    pdb: molecule 5BWL, chain 65, release Jul 28, 2016;
+            deposition: Jun 8, 2015;
+            class: Hydrolase;
+            source: Mmdb_id: 141111, Pdb_id 1: 5BWL;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 290)
+  AUTHORS   Gai,W., Jiang,H. and Liu,D.
+  TITLE     Crystal Structure Of Sirt5 In Complex With A Coumarin-Labelled
+            Succinyl Peptide
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 290)
+  AUTHORS   Gai,W., Jiang,H. and Liu,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2015)
+COMMENT     Crystal Structure Of Sirt5 In Complex With A Coumarin-labelled
+            Succinyl Peptide.
+FEATURES             Location/Qualifiers
+     source          1..290
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     SecStr          28..37
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          39..46
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          47..54
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          83..96
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          104..119
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          121..129
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          141..145
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          146..149
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          150..156
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     Het             join(bond(154),bond(157),bond(195),bond(200))
+                     /heterogen="(ZN,1000)"
+     SecStr          157..163
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          202..209
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          217..229
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          231..237
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          249..256
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          257..264
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+     SecStr          274..279
+                     /sec_str_type="sheet"
+                     /note="strand 10"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh marpsssmad frkffakakh iviisgagvs aesgvptfrg
+       61 aggywrkwqa qdlatplafa hnpsrvwefy hyrrevmgsk epnaghraia ecetrlgkqg
+      121 rrvvvitqni delhrkagtk nlleihgslf ktrctscgvv aenykspicp alsgkgapep
+      181 gtqdasipve klprceeagc ggllrphvvw fgenldpail eevdrelahc dlclvvgtss
+      241 vvypaamfap qvaargvpva efntettpat nrfrfhfqgp cgttlpeala
+//
+
+LOCUS       2WGN_B                   132 aa            linear   BCT 10-OCT-2012
+DEFINITION  Chain B, SEQRES.
+ACCESSION   2WGN_B
+VERSION     2WGN_B
+DBSOURCE    pdb: molecule 2WGN, chain 66, release Jul 7, 2010;
+            deposition: Apr 21, 2009;
+            class: Hydrolase Inhibitor;
+            source: Mmdb_id: 83147, Pdb_id 1: 2WGN;
+            Exp. method: Solution Nmr.
+KEYWORDS    .
+SOURCE      Pseudomonas aeruginosa
+  ORGANISM  Pseudomonas aeruginosa
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+            Pseudomonadaceae; Pseudomonas.
+REFERENCE   1  (residues 1 to 132)
+  AUTHORS   Fu,Y.
+  TITLE     Structure And Dynamics Of Pseudomonas Aeruginosa Ic
+  JOURNAL   (in) Fu,Y. (Ed.);
+            PH D THESIS;
+            University Of Glasgow, Glasgow, Uk. (Thesis) (2009)
+REFERENCE   2  (residues 1 to 132)
+  AUTHORS   Fu,Y., Nichola,P., Westrop,G., Mottram,J., Coombs,G. and Brian,S.
+  TITLE     Characterisation Of The Structure And Inhibitory Ac Of Pseudomonas
+            Aeruginosa Icp
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 132)
+  AUTHORS   Fu,Y. and Smith,B.O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2009)
+COMMENT     Pseudomonas Aeruginosa Icp.
+FEATURES             Location/Qualifiers
+     source          1..132
+                     /organism="Pseudomonas aeruginosa"
+                     /db_xref="taxon:287"
+     Region          26..132
+                     /region_name="COG5513"
+                     /note="Predicted secreted protein [Function unknown]"
+                     /db_xref="CDD:227800"
+     SecStr          26..29
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Bond            bond(34,127)
+                     /bond_type="disulfide"
+     SecStr          35..40
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          43..49
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          58..65
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          93..99
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          102..112
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          122..132
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 mgsshhhhhh ssglvprgsh mqkpvvtldd addcsplklt qgqelvltlp snpttgfrwe
+       61 lrnpaasvlk rlgpevysns eedsglvgsg gestwrfrva asgddrlelv yrrpwekdae
+      121 paesfscaiq vr
+//
+

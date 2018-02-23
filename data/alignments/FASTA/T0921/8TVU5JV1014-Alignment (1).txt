@@ -1,0 +1,497 @@
+BLASTP 2.8.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: 8TVU5JV1014
+
+
+Database: PDB protein database
+           96,869 sequences; 24,453,976 total letters
+Query= 
+Length=169
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+5M2O_A  Chain A, R. Flavefaciens' Third Scab Cohesin In Comple...  293     2e-103
+5M2S_A  Chain A, R. Flavefaciens' Third Scab Cohesin In Comple...  206     1e-68 
+5KDN_A  Chain A, Zmpb Metallopeptidase From Clostridium Perfri...  47.4    2e-06 
+4WAI_A  Chain A, Structural Characterization Of The Late Compe...  32.7    0.077 
+4E7O_A  Chain A, Crystal Structure Of Receiver Domain Of Putat...  31.6    0.22  
+2VU9_A  Chain A, Crystal Structure Of Botulinum Neurotoxin Ser...  34.3    0.059 
+2KTM_A  Chain A, Solution Nmr Structure Of H2h3 Domain Of Ovin...  30.4    0.34  
+2RNZ_A  Chain A, Solution Structure Of The Presumed Chromodoma...  34.7    0.011 
+3URG_A  Chain A, The Crystal Structure Of Anabaena Ccbp            33.1    0.078 
+2JNE_A  Chain A, NMR structure of E.coli YfgJ modelled with tw...  30.8    0.28  
+3K01_A  Chain A, Crystal structures of the GacH receptor of St...  32.0    0.30  
+2CDP_A  Chain A, Structure Of A Cbm6 In Complex With Neoagaroh...  34.3    0.033 
+3WRN_A  Chain A, Minute Virus Of Mice Non-structural Protein-1...  33.9    0.064 
+3G1M_A  Chain A, Ethr From Mycobacterium Tuberculosis In Compl...  31.6    0.34  
+5J78_A  Chain A, Crystal Structure Of An Acetylating Aldehyde ...  35.0    0.030 
+2YPJ_A  Chain A, Non-catalytic Carbohydrate Binding Module Cbm65b  31.6    0.26  
+5EJW_A  Chain A, Crystal Structure Of Chromobox Homolog 7 (cbx...  30.8    0.21  
+3T95_A  Chain A, Crystal Structure Of Lsrb From Yersinia Pesti...  32.3    0.23  
+5BWL_A  Chain A, Crystal Structure Of Sirt5 In Complex With A ...  34.3    0.044 
+2WGN_B  Chain B, Pseudomonas Aeruginosa Icp                        33.9    0.029 
+
+ALIGNMENTS
+>5M2O_A Chain A, R. Flavefaciens' Third Scab Cohesin In Complex With 
+A Group 1 Dockerin
+Length=149
+
+ Score = 293 bits (751),  Expect = 2e-103, Method: Compositional matrix adjust.
+ Identities = 146/146 (100%), Positives = 146/146 (100%), Gaps = 0/146 (0%)
+
+Query  24   PVANADVVFDFQNYTAKAGDEVTVDVLVDSKNKPISAMDVKFKVDSPLTIEEIDKESLAF  83
+            PVANADVVFDFQNYTAKAGDEVTVDVLVDSKNKPISAMDVKFKVDSPLTIEEIDKESLAF
+Sbjct  2    PVANADVVFDFQNYTAKAGDEVTVDVLVDSKNKPISAMDVKFKVDSPLTIEEIDKESLAF  61
+
+Query  84   NTTVMTNMAILGANFKSLDDKGEPLVPKDGAAVFTLYVNVPANTPDGTYYVGFNGKNEVH  143
+            NTTVMTNMAILGANFKSLDDKGEPLVPKDGAAVFTLYVNVPANTPDGTYYVGFNGKNEVH
+Sbjct  62   NTTVMTNMAILGANFKSLDDKGEPLVPKDGAAVFTLYVNVPANTPDGTYYVGFNGKNEVH  121
+
+Query  144  KSNDGSQFTVASKNGAITVGTPNEEG  169
+            KSNDGSQFTVASKNGAITVGTPNEEG
+Sbjct  122  KSNDGSQFTVASKNGAITVGTPNEEG  147
+
+
+>5M2S_A Chain A, R. Flavefaciens' Third Scab Cohesin In Complex With 
+A Group 1 Dockerin
+Length=149
+
+ Score = 206 bits (523),  Expect = 1e-68, Method: Compositional matrix adjust.
+ Identities = 108/144 (75%), Positives = 117/144 (81%), Gaps = 3/144 (2%)
+
+Query  23   SPVANADVVFDFQNYTAKAGDEVTVDVLVDSKNKPISAMDVKFKVDSPLTIEEIDKESLA  82
+             PVANADV+FDF NY AKAG+EV VDV VDSKNK ISAMDV F +DSPLTI+EIDKESLA
+Sbjct  2    QPVANADVIFDFGNYEAKAGEEVQVDVTVDSKNKAISAMDVVFAIDSPLTIDEIDKESLA  61
+
+Query  83   FNTTVMTNMAILGANFKSLDDKGEPLVP-KDGAAVFTLYVNVPANTPDGTYYVGFNGKNE  141
+            F TT MTN+AILGANFKSLDDKGEPLVP KD   VFTLYV VPA TPDG Y VGF  K E
+Sbjct  62   FKTTAMTNIAILGANFKSLDDKGEPLVPTKD--PVFTLYVTVPATTPDGVYNVGFGNKCE  119
+
+Query  142  VHKSNDGSQFTVASKNGAITVGTP  165
+            VHKSNDGS+++  + NG I VG P
+Sbjct  120  VHKSNDGSKYSSTAINGKIKVGNP  143
+
+
+>5KDN_A Chain A, Zmpb Metallopeptidase From Clostridium Perfringens
+ 5KDS_A Chain A, Zmpb Metallopeptidase In Complex With An O-glycopeptide 
+(a2,6- Sialylated Core-3 Pentapeptide).
+ 5KDU_A Chain A, Zmpb Metallopeptidase In Complex With A2,6-sialyl T-antigen
+Length=530
+
+ Score = 47.4 bits (111),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 53/151 (35%), Positives = 79/151 (52%), Gaps = 31/151 (21%)
+
+Query  1    MGSSHHHHHHSSGLVPRGSHMASPV-----------ANADVVFDFQNY-----TAKAGDE  44
+            MGSSHHHHHHSSGLVPRGSHMAS +           A    V++FQ++     +A+AGD+
+Sbjct  1    MGSSHHHHHHSSGLVPRGSHMASVLELEMRGDSISEAKKRKVWNFQDWQITGLSARAGDK  60
+
+Query  45   VTVDVLVDSKNKPISAMDVK-----------FKV---DSPLTIEEIDKESLAFNTTVMTN  90
+            +TV V V ++  P   +  K           F++    + +TI EI+ ES      V+  
+Sbjct  61   ITVYVDV-AEGDPTPTLLYKQSLTQHGGATSFQLKPGKNEITIPEINYESNGIPKDVIQG  119
+
+Query  91   MAILGANFKSLDDKGEPLVPKDGAAVFTLYV  121
+              +   N+KS   K  P V  +GA+ + +++
+Sbjct  120  GDLFFTNYKSDSQKRAPKVRIEGASKYPVFI  150
+
+
+>4WAI_A Chain A, Structural Characterization Of The Late Competence Protein 
+Comfb From Bacillus Subtilis.
+ 4WAI_C Chain C, Structural Characterization Of The Late Competence Protein 
+Comfb From Bacillus Subtilis.
+ 4WAI_B Chain B, Structural Characterization Of The Late Competence Protein 
+Comfb From Bacillus Subtilis.
+ 4WAI_D Chain D, Structural Characterization Of The Late Competence Protein 
+Comfb From Bacillus Subtilis.
+Length=121
+
+ Score = 32.7 bits (73),  Expect = 0.077, Method: Compositional matrix adjust.
+ Identities = 42/101 (42%), Positives = 52/101 (51%), Gaps = 13/101 (13%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANA---------DVVFDFQNYTAKAGDEVTVDVLV  51
+           MGSSHHHHHHSSGLVPRGSHMAS + N+         D   D Q + A        DVL 
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMASMLVNSKEIVMKELLDRYMD-QLHMACTCQVCQNDVLA  59
+
+Query  52  DSKNKPISAMDVKFKVDSPLTIEEIDKESLAFNTTVMTNMA  92
+            S NK   +    FK  +    E +DK+    NT ++  +A
+Sbjct  60  LSLNKVSPSYVTDFKKIAYTKAELVDKQK---NTAMLVILA  97
+
+
+>4E7O_A Chain A, Crystal Structure Of Receiver Domain Of Putative Narl 
+Family Response Regulator Spr1814 From Streptococcus Pneumoniae
+ 4E7O_B Chain B, Crystal Structure Of Receiver Domain Of Putative Narl 
+Family Response Regulator Spr1814 From Streptococcus Pneumoniae
+ 4E7P_A Chain A, Crystal Structure Of Receiver Domain Of Putative Narl 
+Family Response Regulator Spr1814 From Streptococcus Pneumoniae 
+In The Presence Of The Phosphoryl Analog Beryllofluoride
+ 4E7P_B Chain B, Crystal Structure Of Receiver Domain Of Putative Narl 
+Family Response Regulator Spr1814 From Streptococcus Pneumoniae 
+In The Presence Of The Phosphoryl Analog Beryllofluoride
+Length=150
+
+ Score = 31.6 bits (70),  Expect = 0.22, Method: Compositional matrix adjust.
+ Identities = 40/104 (38%), Positives = 53/104 (51%), Gaps = 16/104 (15%)
+
+Query  1    MGSSHHHHHHSSGLVPRGSHMASPVANADVVF------------DFQN-YTAKAGDEVTV  47
+            MGSSHHHHHHSSGLVPRGSHM   VA    +             D ++   AK G E   
+Sbjct  1    MGSSHHHHHHSSGLVPRGSHMKVLVAEDQSMLRDAMCQLLTLQPDVESVLQAKNGQEAI-  59
+
+Query  48   DVLVDSKNKPISAMDVKFKVDSPL-TIEEIDKESLAFNTTVMTN  90
+              L++ ++  I+ +DV+  V + L  +E I  E L     V+T 
+Sbjct  60   -QLLEKESVDIAILDVEMPVKTGLEVLEWIRSEKLETKVVVVTT  102
+
+
+>2VU9_A Chain A, Crystal Structure Of Botulinum Neurotoxin Serotype A 
+Binding Domain In Complex With Gt1b
+ 2VUA_A Chain A, Crystal Structure Of The Botulinum Neurotoxin Serotype 
+A Binding Domain
+ 5TPB_A Chain A, Binding Domain Of Bont/a Complexed With Ganglioside 
+Variant
+ 5TPB_B Chain B, Binding Domain Of Bont/a Complexed With Ganglioside 
+Variant
+Length=444
+
+ Score = 34.3 bits (77),  Expect = 0.059, Method: Compositional matrix adjust.
+ Identities = 37/92 (40%), Positives = 52/92 (57%), Gaps = 16/92 (17%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVAN----ADVVFDFQNYTAK--AGDEVTVDVLVDSK  54
+           MGSSHHHHHHSSGLVPRGSHM + + N    ++ + D   Y +K   G +V  D      
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMDTSILNLRYESNHLIDLSRYASKINIGSKVNFD------  54
+
+Query  55  NKPISAMDVK-FKVDSPLTIEEIDKESLAFNT  85
+             PI    ++ F ++S   IE I K ++ +N+
+Sbjct  55  --PIDKNQIQLFNLESS-KIEVILKNAIVYNS  83
+
+
+>2KTM_A Chain A, Solution Nmr Structure Of H2h3 Domain Of Ovine Prion 
+Protein (residues 167-234)
+Length=89
+
+ Score = 30.4 bits (67),  Expect = 0.34, Method: Compositional matrix adjust.
+ Identities = 37/89 (42%), Positives = 47/89 (53%), Gaps = 12/89 (13%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANA----DVVFDFQNYTAKAGDEVTVDVLVDSKNK  56
+           MGSSHHHHHHSSGLVPRGSHM  PV       + V D  N T K        V   +K +
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHM-RPVDQYSNQNNFVHDCVNITVKQH-----TVTTTTKGE  54
+
+Query  57  PISAMDVKF--KVDSPLTIEEIDKESLAF  83
+             +  D+K   +V   + I +  +ES A+
+Sbjct  55  NFTETDIKAMERVVEQMCITQYQRESQAY  83
+
+
+>2RNZ_A Chain A, Solution Structure Of The Presumed Chromodomain Of The 
+Yeast Histone Acetyltransferase, Esa1
+Length=94
+
+ Score = 34.7 bits (78),  Expect = 0.011, Method: Compositional matrix adjust.
+ Identities = 34/88 (39%), Positives = 52/88 (59%), Gaps = 11/88 (13%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTAKAGDEVTVDVL-VDSKNKP--  57
+           MGSSHHHHHHSSGLVPRGSHM+      D++   Q +  K  +E   ++L ++++  P  
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMSV----DDIIIKCQCWVQKNDEERLAEILSINTRKAPPK  56
+
+Query  58  --ISAMDVKFKVDSPLTIEEI--DKESL  81
+             +  ++   ++D  +T + I  DKE L
+Sbjct  57  FYVHYVNYNKRLDEWITTDRINLDKEVL  84
+
+
+>3URG_A Chain A, The Crystal Structure Of Anabaena Ccbp
+Length=146
+
+ Score = 33.1 bits (74),  Expect = 0.078, Method: Compositional matrix adjust.
+ Identities = 31/71 (44%), Positives = 42/71 (59%), Gaps = 11/71 (15%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTAKAGDEVTVDVLVDSKNKPISA  60
+           MGSSHHHHHHSSGLVPRGSHMAS     D   + +         +  +++VD+++K   A
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMAS--VERDETREHR---------IETEIIVDAEDKEERA  49
+
+Query  61  MDVKFKVDSPL  71
+           M   + +D  L
+Sbjct  50  MGWYYYLDDTL  60
+
+
+>2JNE_A Chain A, NMR structure of E.coli YfgJ modelled with two Zn+2 
+bound. Northeast Structural Genomics Consortium Target ER317.
+Length=101
+
+ Score = 30.8 bits (68),  Expect = 0.28, Method: Compositional matrix adjust.
+ Identities = 30/71 (42%), Positives = 38/71 (54%), Gaps = 3/71 (4%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTAK---AGDEVTVDVLVDSKNKP  57
+           MGSSHHHHHHSSGLVPRGSHM         V D  N  A+    G+ + +  L    ++P
+Sbjct  11  MGSSHHHHHHSSGLVPRGSHMELHCPQCQHVLDQDNGHARCRSCGEFIEMKALCPDCHQP  70
+
+Query  58  ISAMDVKFKVD  68
+           +  +     VD
+Sbjct  71  LQVLKACGAVD  81
+
+
+>3K01_A Chain A, Crystal structures of the GacH receptor of Streptomyces 
+glaucescens GLA.O in the unliganded form and in complex 
+with acarbose and an acarbose homolog. Comparison with acarbose-loaded 
+maltose binding protein of Salmonella typhimurium.
+Length=412
+
+ Score = 32.0 bits (71),  Expect = 0.30, Method: Compositional matrix adjust.
+ Identities = 34/66 (52%), Positives = 38/66 (58%), Gaps = 5/66 (8%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVF-DFQNYTAKAGDEVTVDVLVDSKNKPIS  59
+           MGSSHHHHHHSSGLVPRGSHMA    +  V F D  N   KA    T   L +   K   
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMAMVELSGTVTFWDTSNEAEKA----TYQALAEGFEKEHP  56
+
+Query  60  AMDVKF  65
+            +DVK+
+Sbjct  57  KVDVKY  62
+
+
+>2CDP_A Chain A, Structure Of A Cbm6 In Complex With Neoagarohexaose
+ 2CDP_B Chain B, Structure Of A Cbm6 In Complex With Neoagarohexaose
+ 2CDP_C Chain C, Structure Of A Cbm6 In Complex With Neoagarohexaose
+ 2CDP_D Chain D, Structure Of A Cbm6 In Complex With Neoagarohexaose
+Length=160
+
+ Score = 34.3 bits (77),  Expect = 0.033, Method: Compositional matrix adjust.
+ Identities = 31/63 (49%), Positives = 38/63 (60%), Gaps = 9/63 (14%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTAKAGDEVTVDVLVDSKNKPISA  60
+           MGSSHHHHHHSSGLVPRGSHMAS    A +  + +N+ A  G         D + +P+S 
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMAST---ASIAVEAENFNAVGG------TFSDGQAQPVSV  51
+
+Query  61  MDV  63
+             V
+Sbjct  52  YTV  54
+
+
+>3WRN_A Chain A, Minute Virus Of Mice Non-structural Protein-1n-terminal 
+Nuclease Domain Reveals A Unique Zn2+ Coordination In The 
+Active Site Pocket And Shows A Novel Mode Of Dna Recognition 
+At The Origin Of Replication
+ 3WRO_A Chain A, Minute Virus Of Mice Non-structural Protein-1n-terminal 
+Nuclease Domain Reveals A Unique Zn2+ Coordination In The 
+Active Site Pocket And Shows A Novel Mode Of Dna Recognition 
+At The Origin Of Replication
+ 3WRQ_A Chain A, Minute Virus Of Mice Non-structural Protein-1n-terminal 
+Nuclease Domain Reveals A Unique Zn2+ Coordination In The 
+Active Site Pocket And Shows A Novel Mode Of Dna Recognition 
+At The Origin Of Replication
+ 3WRR_A Chain A, Minute Virus Of Mice Non-structural Protein-1n-terminal 
+Nuclease Domain Reveals A Unique Zn2+ Coordination In The 
+Active Site Pocket And Shows A Novel Mode Of Dna Recognition 
+At The Origin Of Replication
+ 3WRS_A Chain A, Minute Virus Of Mice Non-structural Protein-1n-terminal 
+Nuclease Domain Reveals A Unique Zn2+ Coordination In The 
+Active Site Pocket And Shows A Novel Mode Of Dna Recognition 
+At The Origin Of Replication
+ 4PP4_A Chain A, Minute Virus Of Mice Non-structural Protein-1n-terminal 
+Nuclease Domain Reveals A Unique Zn2+ Coordination In The 
+Active Site Pocket And Shows A Novel Mode Of Dna Recognition 
+At The Origin Of Replication
+Length=276
+
+ Score = 33.9 bits (76),  Expect = 0.064, Method: Compositional matrix adjust.
+ Identities = 27/63 (43%), Positives = 39/63 (62%), Gaps = 0/63 (0%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTAKAGDEVTVDVLVDSKNKPISA  60
+           MGSSHHHHHHSSGLVPRGSHM +  A +D V    N+  +  ++     +  ++N  ++ 
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMMAGNAYSDEVLGATNWLKEKSNQEVFSFVFKNENVQLNG  60
+
+Query  61  MDV  63
+            D+
+Sbjct  61  KDI  63
+
+
+>3G1M_A Chain A, Ethr From Mycobacterium Tuberculosis In Complex With 
+Compound Bdm31381
+ 3O8G_A Chain A, Ethr From Mycobacterium Tuberculosis In Complex With 
+Compound Bdm14801
+ 3O8H_A Chain A, Ethr From Mycobacterium Tuberculosis In Complex With 
+Compound Bdm14950
+ 3SDG_A Chain A, Ethionamide Boosters Part 2: Combining Bioisosteric 
+Replacement and Structure-Based Drug Design to Solve Pharmacokinetic 
+Issues in a Series of Potent 1,2,4-Oxadiazole EthR 
+Inhibitors.
+ 3SFI_A Chain A, Ethionamide Boosters Part 2: Combining Bioisosteric 
+Replacement and Structure-Based Drug Design to Solve Pharmacokinetic 
+Issues in a Series of Potent 1,2,4-Oxadiazole EthR 
+Inhibitors.
+ 3Q0W_A Chain A, Ethr From Mycobacterium Tuberculosis In Complex With 
+Compound Bdm33066
+ 3Q0U_A Chain A, EthR from Mycobacterium tuberculosis in complex with 
+compound BDM31379
+ 3Q0V_A Chain A, Ethr From Mycobacterium Tuberculosis In Complex With 
+Compound Bdm31369
+ 3Q0V_B Chain B, Ethr From Mycobacterium Tuberculosis In Complex With 
+Compound Bdm31369
+ 3Q3S_A Chain A, Ethr From Mycobacterium Tuberculosis In Complex With 
+Compound Bdm5683
+ 4DW6_A Chain A, Novel N-phenyl-phenoxyacetamide Derivatives As Potential 
+Ethr Inhibitors And Ethionamide Boosters. Discovery And 
+Optimization Using High-throughput Synthesis.
+Length=236
+
+ Score = 31.6 bits (70),  Expect = 0.34, Method: Compositional matrix adjust.
+ Identities = 28/67 (42%), Positives = 42/67 (63%), Gaps = 4/67 (6%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTAKAGDEVTVDVLVDSKN----K  56
+           MGSSHHHHHHSSGLVPRGSHM +  A+   +   +     +GD+  + +L  ++N    +
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMTTSAASQASLPRGRRTARPSGDDRELAILATAENLLEDR  60
+
+Query  57  PISAMDV  63
+           P++ + V
+Sbjct  61  PLADISV  67
+
+
+>5J78_A Chain A, Crystal Structure Of An Acetylating Aldehyde Dehydrogenase 
+From Geobacillus Thermoglucosidasius
+ 5J78_B Chain B, Crystal Structure Of An Acetylating Aldehyde Dehydrogenase 
+From Geobacillus Thermoglucosidasius
+ 5J78_C Chain C, Crystal Structure Of An Acetylating Aldehyde Dehydrogenase 
+From Geobacillus Thermoglucosidasius
+ 5J78_D Chain D, Crystal Structure Of An Acetylating Aldehyde Dehydrogenase 
+From Geobacillus Thermoglucosidasius
+ 5J7I_A Chain A, Crystal Structure Of A Geobacillus Thermoglucosidasius 
+Acetylating Aldehyde Dehydrogenase In Complex With Adp
+ 5J7I_B Chain B, Crystal Structure Of A Geobacillus Thermoglucosidasius 
+Acetylating Aldehyde Dehydrogenase In Complex With Adp
+ 5J7I_C Chain C, Crystal Structure Of A Geobacillus Thermoglucosidasius 
+Acetylating Aldehyde Dehydrogenase In Complex With Adp
+ 5J7I_D Chain D, Crystal Structure Of A Geobacillus Thermoglucosidasius 
+Acetylating Aldehyde Dehydrogenase In Complex With Adp
+Length=488
+
+ Score = 35.0 bits (79),  Expect = 0.030, Method: Compositional matrix adjust.
+ Identities = 31/65 (48%), Positives = 43/65 (66%), Gaps = 4/65 (6%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADV--VFDFQNYT--AKAGDEVTVDVLVDSKNK  56
+           MGSSHHHHHHSSGLVPRGSHMAS + + D+  + + +NY   AKA  ++   +     +K
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMASMLRDIDLQSIQEVRNYLEEAKAAQKILEKMTQSEIDK  60
+
+Query  57  PISAM  61
+            + +M
+Sbjct  61  IVESM  65
+
+
+>2YPJ_A Chain A, Non-catalytic Carbohydrate Binding Module Cbm65b
+Length=155
+
+ Score = 31.6 bits (70),  Expect = 0.26, Method: Compositional matrix adjust.
+ Identities = 27/62 (44%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVF----DFQNYTAKAGDEVTVDVLVDSKNK  56
+           MGSSHHHHHHSSGLVPRGSHM+S   + +++     +  ++ A  GD+      +  K +
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMSSGADSGEIILFSGSNHADFKAWGGDDWPSAFEISPKYE  60
+
+Query  57  PI  58
+           P+
+Sbjct  61  PM  62
+
+
+>5EJW_A Chain A, Crystal Structure Of Chromobox Homolog 7 (cbx7) Chromodomain 
+With Ms351
+Length=91
+
+ Score = 30.8 bits (68),  Expect = 0.21, Method: Compositional matrix adjust.
+ Identities = 30/57 (53%), Positives = 35/57 (61%), Gaps = 1/57 (2%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTAKAGDEVTVDVLVDSKNKP  57
+           MGSSHHHHHHSSGLVPRGSHM    A  + VF  ++   K   +  V+ LV  K  P
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMELS-AIGEQVFAVESIRKKRVRKGKVEYLVKWKGWP  56
+
+
+>3T95_A Chain A, Crystal Structure Of Lsrb From Yersinia Pestis Complexed 
+With Autoinducer-2
+Length=335
+
+ Score = 32.3 bits (72),  Expect = 0.23, Method: Compositional matrix adjust.
+ Identities = 31/63 (49%), Positives = 37/63 (59%), Gaps = 6/63 (10%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTA------KAGDEVTVDVLVDSK  54
+           MGSSHHHHHHSSGLVPRGSHMA  +A    +     +T+       AG  + VDV  D  
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMAERIAFIPKLVGVGFFTSGGKGAVDAGKALGVDVTYDGP  60
+
+Query  55  NKP  57
+            +P
+Sbjct  61  TEP  63
+
+
+>5BWL_A Chain A, Crystal Structure Of Sirt5 In Complex With A Coumarin-labelled 
+Succinyl Peptide
+Length=290
+
+ Score = 34.3 bits (77),  Expect = 0.044, Method: Compositional matrix adjust.
+ Identities = 29/48 (60%), Positives = 35/48 (73%), Gaps = 3/48 (6%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTAKAGDEVTVD  48
+           MGSSHHHHHHSSGLVPRGSHMA P ++   + DF+ + AKA   V + 
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMARPSSS---MADFRKFFAKAKHIVIIS  45
+
+
+>2WGN_B Chain B, Pseudomonas Aeruginosa Icp
+Length=132
+
+ Score = 33.9 bits (76),  Expect = 0.029, Method: Compositional matrix adjust.
+ Identities = 27/47 (57%), Positives = 29/47 (62%), Gaps = 0/47 (0%)
+
+Query  1   MGSSHHHHHHSSGLVPRGSHMASPVANADVVFDFQNYTAKAGDEVTV  47
+           MGSSHHHHHHSSGLVPRGSHM  PV   D   D        G E+ +
+Sbjct  1   MGSSHHHHHHSSGLVPRGSHMQKPVVTLDDADDCSPLKLTQGQELVL  47
+
+
+  Database: PDB protein database
+    Posted date:  Feb 19, 2018  3:08 PM
+  Number of letters in database: 24,453,976
+  Number of sequences in database:  96,869
+
+Lambda      K        H
+   0.311    0.129    0.370 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 96869
+Number of Hits to DB: 156365
+Number of extensions: 1762
+Number of successful extensions: 1751
+Number of sequences better than 100: 1435
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 1567
+Number of HSP's successfully gapped: 1521
+Length of query: 169
+Length of database: 24453976
+Length adjustment: 95
+Effective length of query: 74
+Effective length of database: 15251421
+Effective search space: 1128605154
+Effective search space used: 1128605154
+T: 21
+A: 40
+X1: 16 (7.2 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 39 (19.6 bits)
+S2: 49 (23.5 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+
+

@@ -1,0 +1,2068 @@
+LOCUS       3IS3_A                   270 aa            linear   PLN 14-NOV-2017
+DEFINITION  Chain A, 1 17beta-hydroxysteroid dehydrogenase.
+ACCESSION   3IS3_A
+VERSION     3IS3_A
+DBSOURCE    pdb: molecule 3IS3, chain 65, release Nov 1, 2017;
+            deposition: Aug 25, 2009;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 84137, Pdb_id 1: 3IS3;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Curvularia lunata (Cochliobolus lunatus)
+  ORGANISM  Curvularia lunata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Dothideomycetes; Pleosporomycetidae; Pleosporales; Pleosporineae;
+            Pleosporaceae; Curvularia.
+REFERENCE   1  (residues 1 to 270)
+  AUTHORS   Cassetta,A., Lamba,D., Krastanova,I., Stojan,J., Rizner,T.L. and
+            Kristan,K.
+  TITLE     Structural studies on a fungal 17beta Hydroxysteroid dehydrogenase
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 270)
+  AUTHORS   Cassetta,A., Lamba,D. and Krastanova,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-AUG-2009)
+COMMENT     Crystal structure of 17beta-Hydroxysteroid dehydrogenase (Apo form)
+            from fungus Cochliobolus lunatus.
+FEATURES             Location/Qualifiers
+     source          1..270
+                     /organism="Curvularia lunata"
+                     /db_xref="taxon:5503"
+     Region          16..270
+                     /region_name="PRK12937"
+                     /note="short chain dehydrogenase; Provisional"
+                     /db_xref="CDD:171821"
+     Region          16..269
+                     /region_name="THN_reductase-like_SDR_c"
+                     /note="tetrahydroxynaphthalene/trihydroxynaphthalene
+                     reductase-like, classical (c) SDRs; cd05362"
+                     /db_xref="CDD:187620"
+     SecStr          19..25
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(25,28..30,48..52,75..77,103..105,126,151..153,167,
+                     171,197..200,202..204)
+                     /site_type="other"
+                     /note="NADP binding site [chemical binding]"
+                     /db_xref="CDD:187620"
+     SecStr          29..41
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Site            order(37,40..41,179,182,233..234,236..239,241..242,
+                     245..246,249,253,256..259,261,263..269)
+                     /site_type="other"
+                     /note="homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:187620"
+     SecStr          43..50
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          53..66
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          69..75
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          80..93
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          98..103
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          117..126
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(127,153,167,171)
+                     /site_type="active"
+                     /db_xref="CDD:187620"
+     SecStr          129..141
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          144..152
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     Site            order(153..154,167,199,204..205,209,212)
+                     /site_type="other"
+                     /note="substrate binding site [chemical binding]"
+                     /db_xref="CDD:187620"
+     SecStr          165..184
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          188..198
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          221..230
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          241..251
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          259..266
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 mphvenaset yipgrldgkv alvtgsgrgi gaavavhlgr lgakvvvnya nstkdaekvv
+       61 seikalgsda iaikadirqv peivklfdqa vahfghldia vsnsgvvsfg hlkdvteeef
+      121 drvfslntrg qffvareayr hlteggrivl tssntskdfs vpkhslysgs kgavdsfvri
+      181 fskdcgdkki tvnavapggt vtdmfhevsh hyipngtsyt aeqrqqmaah asplhrngwp
+      241 qdvanvvgfl vskegewvng kvltldggaa
+//
+
+LOCUS       3ITD_A                   270 aa            linear   PLN 10-OCT-2012
+DEFINITION  Chain A, SEQRES.
+ACCESSION   3ITD_A
+VERSION     3ITD_A
+DBSOURCE    pdb: molecule 3ITD, chain 65, release Aug 18, 2010;
+            deposition: Aug 28, 2009;
+            class: Oxidoreductase;
+            source: Mmdb_id: 84138, Pdb_id 1: 3ITD;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Curvularia lunata
+  ORGANISM  Curvularia lunata
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Dothideomycetes; Pleosporomycetidae; Pleosporales; Pleosporineae;
+            Pleosporaceae; Curvularia.
+REFERENCE   1  (residues 1 to 270)
+  AUTHORS   Cassetta,A., Lamba,D., Krastanova,I., Stojan,J., Lanisnik,T. and
+            Kristan,K.
+  TITLE     Structural Studies On A Fungal 17beta-Hydroxysteroi Dehydrogenase
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 270)
+  AUTHORS   Cassetta,A., Lamba,D. and Krastanova,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-AUG-2009)
+COMMENT     Crystal Structure Of An Inactive 17beta-Hydroxysteroid
+            Dehydrogenase (Y167f Mutated Form) From Fungus Cochliobolus
+            Lunatus.
+FEATURES             Location/Qualifiers
+     source          1..270
+                     /organism="Curvularia lunata"
+                     /db_xref="taxon:5503"
+     Region          16..270
+                     /region_name="PRK12937"
+                     /note="short chain dehydrogenase; Provisional"
+                     /db_xref="CDD:171821"
+     Region          16..269
+                     /region_name="NADB_Rossmann"
+                     /note="Rossmann-fold NAD(P)(+)-binding proteins; cl21454"
+                     /db_xref="CDD:304358"
+     SecStr          19..25
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(25,27..28,30,49..51,103..105,151..153,167,171,
+                     197..200)
+                     /site_type="other"
+                     /note="NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:187535"
+     SecStr          29..41
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          43..50
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          53..66
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          69..75
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          80..94
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          98..103
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          117..141
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(127,153,167,171)
+                     /site_type="active"
+                     /db_xref="CDD:187535"
+     SecStr          144..152
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          165..181
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          188..198
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          221..230
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          241..251
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          259..266
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 mphvenaset yipgrldgkv alvtgsgrgi gaavavhlgr lgakvvvnya nstkdaekvv
+       61 seikalgsda iaikadirqv peivklfdqa vahfghldia vsnsgvvsfg hlkdvteeef
+      121 drvfslntrg qffvareayr hlteggrivl tssntskdfs vpkhslfsgs kgavdsfvri
+      181 fskdcgdkki tvnavapggt vtdmfhevsh hyipngtsyt aeqrqqmaah asplhrngwp
+      241 qdvanvvgfl vskegewvng kvltldggaa
+//
+
+LOCUS       4NI5_A                   254 aa            linear   BCT 02-DEC-2017
+DEFINITION  Chain A, 1 Oxidoreductase, short-chain dehydrogenase/reductase
+            family protein.
+ACCESSION   4NI5_A
+VERSION     4NI5_A
+DBSOURCE    pdb: molecule 4NI5, chain 65, release Nov 22, 2017;
+            deposition: Nov 5, 2013;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 115177, Pdb_id 1: 4NI5;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Brucella suis ATCC 23445
+  ORGANISM  Brucella suis ATCC 23445
+            Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+            Brucellaceae; Brucella.
+REFERENCE   1  (residues 1 to 254)
+  AUTHORS   Dranow,D.M., Abendroth,J., Edwards,T.E. and Lorimer,D.
+  TITLE     Crystal Structure of a Short Chain Dehydrogenase from Brucella suis
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 254)
+  AUTHORS   Dranow,D.M., Abendroth,J., Edwards,T.E., Lorimer,D. and Seattle
+            Structural Genomics Center for Infectious Disease (SSGCID).
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-NOV-2013)
+COMMENT     Crystal Structure of a Short Chain Dehydrogenase from Brucella
+            suis.
+FEATURES             Location/Qualifiers
+     source          1..254
+                     /organism="Brucella suis ATCC 23445"
+                     /db_xref="taxon:470137"
+     Region          9..253
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Provisional; PRK05565"
+                     /db_xref="CDD:235506"
+     SecStr          13..20
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          16..248
+                     /region_name="SDR_c"
+                     /note="classical (c) SDRs; cd05233"
+                     /db_xref="CDD:212491"
+     Site            order(20,22..25,44..46,68..70,96..98,119,146..148,161,165,
+                     191..194,196..197)
+                     /site_type="other"
+                     /note="NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:212491"
+     SecStr          25..36
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          37..45
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          65..68
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          73..86
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          91..97
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          110..138
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     Site            order(120,148,161,165)
+                     /site_type="active"
+                     /db_xref="CDD:212491"
+     SecStr          140..147
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          159..179
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          183..192
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          206..213
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          222..233
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          241..248
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     Het             bond(254)
+                     /heterogen="(MG,3357)"
+ORIGIN      
+        1 mahhhhhhmr fkdkvvivtg gasgigeata rafiregakv viadfsdhgq qladeragah
+       61 eqalfiktdv adtravqali artvenygrl dimfanagia adapidelde aawqktidin
+      121 ltgvylcdky aidqmrsqgg gvivncgsih shvgksgvta yaaakggvkl ltqtlaidyg
+      181 pqnirvnavc pgyidtpllk nipddkkqal valhpmgrlg raeevanavl flasdeasfv
+      241 ngasllvdgg ytaq
+//
+
+LOCUS       6B9U_A                   257 aa            linear   BCT 31-OCT-2017
+DEFINITION  Chain A, 1 Dna Gyrase, Subunit B:short-chain
+            Dehydrogenase/reductase Sdr:glucose/ribitol Dehydrogenase.
+ACCESSION   6B9U_A
+VERSION     6B9U_A
+DBSOURCE    pdb: molecule 6B9U, chain 65, release Oct 27, 2017;
+            deposition: Oct 11, 2017;
+            class: Oxidoreductase;
+            source: Mmdb_id: 155477, Pdb_id 1: 6B9U;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Brucella abortus 2308
+  ORGANISM  Brucella abortus 2308
+            Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+            Brucellaceae; Brucella.
+REFERENCE   1  (residues 1 to 257)
+  AUTHORS   Pierce,P.G., Phan,J.N., Lorimer,D.D. and Edwards,T.E.
+  TITLE     Crystal Structure Of 3-Ketoacyl-(Acyl-Carrier-Prote Reductase From
+            Brucella Melitensis Complexed With N
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 257)
+  AUTHORS   Seattle Structural Genomics Center For Infectious Disease (S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2017)
+COMMENT     Crystal Structure Of 3-ketoacyl-(acyl-carrier-protein) Reductase
+            From Brucella Melitensis Complexed With Nadh.
+FEATURES             Location/Qualifiers
+     source          1..257
+                     /organism="Brucella abortus 2308"
+                     /db_xref="taxon:359391"
+     Region          7..257
+                     /region_name="SDR"
+                     /note="Short-chain dehydrogenases/reductases (SDR);
+                     cl25409"
+                     /db_xref="CDD:330230"
+     SecStr          11..17
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(17,19..20,22,41..43,91..93,146..148,161,165,
+                     191..194)
+                     /site_type="other"
+                     /note="NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:187535"
+     SecStr          22..33
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          35..42
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          44..54
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          57..63
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          68..81
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          86..91
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          106..137
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(116,148,161,165)
+                     /site_type="active"
+                     /db_xref="CDD:187535"
+     SecStr          140..148
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          159..179
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          183..192
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          211..218
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          227..237
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          246..252
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 gpgsmvsleg kvalitgags gfgegmakrf akggakvviv drdkagaerv ageigdaala
+       61 vaadiskead vdaaveaals kfgkvdilvn nagighkpqn aelvepeefd rivgvnvrgv
+      121 ylmtrkliph fkengakgqe cvilnvastg agrprpnlaw ynatkgwvvs vtkalaiela
+      181 pakirvvaln pvagetpllt tfmgedseei rkkfrdsipm grllkpddla eaaaflcspq
+      241 asmitgvald vdggrsi
+//
+
+LOCUS       3N74_A                   261 aa            linear   BCT 10-OCT-2012
+DEFINITION  Chain A, SEQRES.
+ACCESSION   3N74_A
+VERSION     3N74_A
+DBSOURCE    pdb: molecule 3N74, chain 65, release Jun 16, 2010;
+            deposition: May 26, 2010;
+            class: Oxidoreductase;
+            source: Mmdb_id: 82864, Pdb_id 1: 3N74;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Brucella abortus 2308
+  ORGANISM  Brucella abortus 2308
+            Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+            Brucellaceae; Brucella.
+REFERENCE   1  (residues 1 to 261)
+  AUTHORS   Edwards,T.E., Abendroth,J., Seattle Structural Genomics Center For
+            Infectious D and (Ssgcid).
+  TITLE     Crystal Structure Of 3-Ketoacyl-(Acyl-Carrier-Prote Reductase From
+            Brucella Melitensis
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 261)
+  AUTHORS   Seattle Structural Genomics Center For Infectious Disease (S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2010)
+COMMENT     Crystal Structure Of 3-Ketoacyl-(Acyl-Carrier-Protein) Reduc
+            Brucella Melitensis.
+FEATURES             Location/Qualifiers
+     source          1..261
+                     /organism="Brucella abortus 2308"
+                     /db_xref="taxon:359391"
+     Region          5..257
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Provisional; PRK07231"
+                     /db_xref="CDD:235975"
+     Region          5..256
+                     /region_name="BKR_3_SDR_c"
+                     /note="putative beta-ketoacyl acyl carrier protein [ACP]
+                     reductase (BKR), subgroup 3, classical (c) SDR; cd05345"
+                     /db_xref="CDD:187603"
+     SecStr          10..16
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(16,18..21,40..42,62..64,90..92,114,145..147,160,164,
+                     190..193,195..196)
+                     /site_type="other"
+                     /note="putative NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:187603"
+     SecStr          21..32
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          34..41
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          43..53
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          56..62
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          67..80
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          85..90
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          105..136
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(115,147,160,164)
+                     /site_type="active"
+                     /db_xref="CDD:187603"
+     SecStr          139..147
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          158..178
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          182..190
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          226..236
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          244..251
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 gpgsmslegk valitgagsg fgegmakrfa kggakvvivd rdkagaerva geigdaalav
+       61 aadiskeadv daaveaalsk fgkvdilvnn agighkpqna elvepeefdr ivgvnvrgvy
+      121 lmtskliphf kengakgqec vilnvastga grprpnlawy natkgwvvsv tkalaielap
+      181 akirvvalnp vagetplltt fmgedseeir kkfrdsipmg rllkpddlae aaaflcspqa
+      241 smitgvaldv dggrsiggrs i
+//
+
+LOCUS       4M8S_A                   248 aa            linear   BCT 28-JAN-2015
+DEFINITION  Chain A, 1 Putative 3-oxoacyl-[acyl-carrier Protein] Reductase.
+ACCESSION   4M8S_A
+VERSION     4M8S_A
+DBSOURCE    pdb: molecule 4M8S, chain 65, release Jan 28, 2015;
+            deposition: Aug 13, 2013;
+            class: Oxidoreductase;
+            source: Mmdb_id: 126426, Pdb_id 1: 4M8S;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Neisseria meningitidis FAM18
+  ORGANISM  Neisseria meningitidis FAM18
+            Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+            Neisseriaceae; Neisseria.
+REFERENCE   1  (residues 1 to 248)
+  AUTHORS   Nanson,J.D. and Forwood,J.K.
+  TITLE     The Crystal Structure Of 3-Ketoacyl -(Acyl Carrier Reductase (Fabg)
+            From Neisseria Meningitidis
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 248)
+  AUTHORS   Nanson,J.D. and Forwood,J.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-AUG-2013)
+COMMENT     Crystal Structure Of 3-ketoacyl -(acyl Carrier Protein) Reductase
+            (fabg) From Neisseria Meningitidis.
+FEATURES             Location/Qualifiers
+     source          1..248
+                     /organism="Neisseria meningitidis FAM18"
+                     /db_xref="taxon:272831"
+     Region          4..248
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Validated; PRK05557"
+                     /db_xref="CDD:235500"
+     SecStr          9..15
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          20..31
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          33..40
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          42..52
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          57..62
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          69..80
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          85..90
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          104..113
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          116..132
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          133..142
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          153..173
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          176..186
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          198..205
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          217..227
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          235..242
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 mstqdlsgki alvtgasrgi gaaiadtlaa agakvigtat sesgaaaise rlaqwggegr
+       61 vlnsaepetv enliadiekt fgkldilvnn agitrdnllm rmkeeewddi mqvnlksvfr
+      121 askavlrgmm kqragriini tsvvgvmgna gqtnyaaaka gligfsksma revgsrgitv
+      181 ncvapgfidt dmtralpeet rqtftaqtal grfgdaqdia davlflasdq akyitgqtlh
+      241 vnggmlmp
+//
+
+LOCUS       4NBV_A                   246 aa            linear   BCT 15-JAN-2014
+DEFINITION  Chain A, 1 3-oxoacyl-[acyl-carrier-protein] Reductase Putative
+            Short- Chain Dehydrogenases/reductases (sdr) Family Protein.
+ACCESSION   4NBV_A
+VERSION     4NBV_A
+DBSOURCE    pdb: molecule 4NBV, chain 65, release Jan 15, 2014;
+            deposition: Oct 23, 2013;
+            class: Oxidoreductase;
+            source: Mmdb_id: 115704, Pdb_id 1: 4NBV;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Cupriavidus taiwanensis
+  ORGANISM  Cupriavidus taiwanensis
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Cupriavidus.
+REFERENCE   1  (residues 1 to 246)
+  AUTHORS   Javidpour,P., Pereira,J.H., Goh,E.B., McAndrew,R.P., Ma,S.M.,
+            Friedland,G.D., Keasling,J.D., Chhabra,S.R., Adams,P.D. and
+            Beller,H.R.
+  TITLE     Biochemical and Structural Studies of NADH-Dependent FabG Used To
+            Increase the Bacterial Production of Fatty Acids under Anaerobic
+            Conditions
+  JOURNAL   Appl. Environ. Microbiol. 80 (2), 497-505 (2014)
+   PUBMED   24212572
+REFERENCE   2  (residues 1 to 246)
+  AUTHORS   Pereira,J.H., Mcandrew,R.P., Javidpour,P., Beller,H.R. and
+            Adams,P.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-OCT-2013)
+COMMENT     Crystal Structure Of Fabg From Cupriavidus Taiwanensis.
+FEATURES             Location/Qualifiers
+     source          1..246
+                     /organism="Cupriavidus taiwanensis"
+                     /db_xref="taxon:164546"
+     Region          1..246
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Validated; PRK05653"
+                     /db_xref="CDD:235546"
+     SecStr          2..12
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          6..244
+                     /region_name="NADB_Rossmann"
+                     /note="Rossmann-fold NAD(P)(+)-binding proteins; cl21454"
+                     /db_xref="CDD:304358"
+     Site            order(12,14..15,17,36..38,89..91,139..141,154,158,
+                     184..187)
+                     /site_type="other"
+                     /note="NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:187535"
+     SecStr          17..27
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          28..37
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          39..52
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          55..61
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          66..79
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          84..89
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          103..131
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(113,141,154,158)
+                     /site_type="active"
+                     /db_xref="CDD:187535"
+     SecStr          132..140
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          152..172
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          175..185
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          197..205
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          206..209
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          216..226
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          234..241
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          242..245
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+ORIGIN      
+        1 mklqgrvaii tgaaagigfa taqrfaedga ivvlcdvqea rvreaaarla atgatvsayr
+       61 vdvtrrdevd amvaavlaah qrvdilvnna gitkdarlak mteaqfdavi dvnlkgvfnc
+      121 aqavaglmte qgkgvilnas svvglygnfg qtnyaaskfg vigftktwar elgpkgvrvn
+      181 avcpgfvnte ilqtvpdkvl dgmtsscwlr rlaepaeias iyaflasdda syvngvaiea
+      241 sggmsl
+//
+
+LOCUS       1I01_A                   244 aa            linear   BCT 13-NOV-2014
+DEFINITION  Chain A, 1 Beta-ketoacyl [acp] Reductase.
+ACCESSION   1I01_A
+VERSION     1I01_A
+DBSOURCE    pdb: molecule 1I01, chain 65, release Nov 12, 2014;
+            deposition: Jan 27, 2001;
+            class: Oxidoreductase;
+            source: Mmdb_id: 15257, Pdb_id 1: 1I01;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (residues 1 to 244)
+  AUTHORS   Price,A.C., Zhang,Y.M., Rock,C.O. and White,S.W.
+  TITLE     Structure of beta-ketoacyl-[acyl carrier protein] reductase from
+            Escherichia coli: negative cooperativity and its structural basis
+  JOURNAL   Biochemistry 40 (43), 12772-12781 (2001)
+   PUBMED   11669613
+REFERENCE   2  (residues 1 to 244)
+  AUTHORS   Price,A.C., Rock,C.O. and White,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-2001)
+COMMENT     Crystal Structure Of Beta-ketoacyl [acyl Carrier Protein] Reductase
+            From E. Coli.
+FEATURES             Location/Qualifiers
+     source          1..244
+                     /organism="Escherichia coli"
+                     /db_xref="taxon:562"
+     Region          1..244
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Validated; PRK05557"
+                     /db_xref="CDD:235500"
+     SecStr          6..12
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          16..28
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          30..37
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          39..49
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          52..58
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          63..76
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          81..86
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          100..128
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          129..137
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          153..169
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          172..182
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          194..203
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          213..223
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          232..238
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 mnfegkialv tgasrgigra iaetlaarga kvigtatsen gaqaisdylg angkglmlnv
+       61 tdpasiesvl ekiraefgev dilvnnagit rdnllmrmkd eewndiietn lssvfrlska
+      121 vmrammkkrh griitigsvv gtmgnggqan yaaakaglig fskslareva srgitvnvva
+      181 pgfietdmtr alsddqragi laqvpagrlg gaqeianava flasdeaayi tgetlhvngg
+      241 mymv
+//
+
+LOCUS       5X8H_A                   249 aa            linear   BCT 02-DEC-2017
+DEFINITION  Chain A, 1 Short-chain dehydrogenase reductase.
+ACCESSION   5X8H_A
+VERSION     5X8H_A
+DBSOURCE    pdb: molecule 5X8H, chain 65, release Nov 29, 2017;
+            deposition: Mar 2, 2017;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 156232, Pdb_id 1: 5X8H;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Chryseobacterium sp. CA49
+  ORGANISM  Chryseobacterium sp. CA49
+            Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales;
+            Flavobacteriaceae; Chryseobacterium.
+REFERENCE   1  (residues 1 to 249)
+  AUTHORS   Zhao,F.J., Jin,Y., Liu,Z., Guo,C., Li,T.B., Li,Z.Y., Wang,G. and
+            Wu,Z.L.
+  TITLE     Crystal structure and iterative saturation mutagenesis of ChKRED20
+            for expanded catalytic scope
+  JOURNAL   Appl. Microbiol. Biotechnol. 101 (23-24), 8395-8404 (2017)
+   PUBMED   29067484
+REFERENCE   2  (residues 1 to 249)
+  AUTHORS   Zhao,F.J., Jin,Y., Liu,Z.C., Wang,G.G. and Wu,Z.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2017)
+COMMENT     Crystal structure of the ketone reductase ChKRED20 from the genome
+            of Chryseobacterium sp. CA49.
+FEATURES             Location/Qualifiers
+     source          1..249
+                     /organism="Chryseobacterium sp. CA49"
+                     /db_xref="taxon:1345601"
+     Region          4..249
+                     /region_name="adh_short"
+                     /note="short chain dehydrogenase; cl27753"
+                     /db_xref="CDD:332574"
+     SecStr          6..13
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          18..29
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          30..38
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          40..53
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          56..62
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          67..80
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          85..90
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          105..133
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          135..144
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          154..174
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          178..187
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          199..206
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          218..228
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          237..243
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 mgildnkval vtgagsgigl avahsyakeg akvivsdine dhgnkavedi kaqggeasfv
+       61 kadtsnpeev ealvkrtvei ygrldiacnn agiggeqala gdygldswrk vlsinldgvf
+      121 ygckyeleqm ekngggvivn masihgivaa plssaytsak havvgltkni gaeygqknir
+      181 cnavgpayie tpllesltke mkealiskhp mgrlgkpeev aelvlflsse kssfmtggyy
+      241 lvdggytav
+//
+
+LOCUS       1Q7C_A                   244 aa            linear   BCT 31-OCT-2017
+DEFINITION  Chain A, 1 3-oxoacyl-[acyl-carrier Protein] Reductase.
+ACCESSION   1Q7C_A
+VERSION     1Q7C_A
+DBSOURCE    pdb: molecule 1Q7C, chain 65, release Oct 27, 2017;
+            deposition: Aug 17, 2003;
+            class: Oxidoreductase;
+            source: Mmdb_id: 26477, Pdb_id 1: 1Q7C;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (residues 1 to 244)
+  AUTHORS   Price,A.C., Zhang,Y.M., Rock,C.O. and White,S.W.
+  TITLE     Cofactor-induced conformational rearrangements establish a
+            catalytically competent active site and a proton relay conduit in
+            FabG
+  JOURNAL   Structure 12 (3), 417-428 (2004)
+   PUBMED   15016358
+REFERENCE   2  (residues 1 to 244)
+  AUTHORS   Price,A.C., Zhang,Y.-M., Rock,C.O. and White,S.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-AUG-2003)
+COMMENT     The Structure Of Betaketoacyl-[acp] Reductase Y151f Mutant In
+            Complex With Nadph Fragment.
+FEATURES             Location/Qualifiers
+     source          1..244
+                     /organism="Escherichia coli"
+                     /db_xref="taxon:562"
+     Region          1..244
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Validated; PRK05557"
+                     /db_xref="CDD:235500"
+     Region          6..242
+                     /region_name="BKR_SDR_c"
+                     /note="beta-Keto acyl carrier protein reductase (BKR),
+                     involved in Type II FAS, classical (c) SDRs; cd05333"
+                     /db_xref="CDD:187594"
+     SecStr          6..12
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(12,14..17,36..37,58..60,86..89,109,136..138,151,155,
+                     181..182,184,186..188)
+                     /site_type="other"
+                     /note="NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:187594"
+     SecStr          17..28
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Site            order(24,28,67,93..96,98..100,103..104,107,111..112,
+                     115..116,118..119,122..123,126,142..149,152..153,156..157,
+                     160..161,163..168,170..171,183,204..206,208..211,214,
+                     217..218,220..221,225,228..240,242)
+                     /site_type="other"
+                     /note="homotetramer interface [polypeptide binding]"
+                     /db_xref="CDD:187594"
+     SecStr          30..37
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          39..49
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          52..58
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          63..76
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          81..86
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Site            order(94..96,98,100,103..104,107,111..112,115..116,119,
+                     122..123,126,141..149,152..153,156..157,160..161,163..165,
+                     167..168)
+                     /site_type="other"
+                     /note="homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:187594"
+     SecStr          100..110
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(110,138,151,155)
+                     /site_type="active"
+                     /db_xref="CDD:187594"
+     SecStr          113..128
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          129..138
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          149..169
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          172..182
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          194..203
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          212..223
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          232..238
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 mnfegkialv tgasrgigra iaetlaarga kvigtatsen gaqaisdylg angkglmlnv
+       61 tdpasiesvl ekiraefgev dilvnnagit rdnllmrmkd eewndiietn lssvfrlska
+      121 vmrammkkrh griitigsvv gtmgnggqan faaakaglig fskslareva srgitvnvva
+      181 pgfietdmtr alsddqragi laqvpagrlg gaqeianava flasdeaayi tgetlhvngg
+      241 mymv
+//
+
+LOCUS       1IY8_A                   267 aa            linear   BCT 11-FEB-2013
+DEFINITION  Chain A, 1 Levodione Reductase.
+ACCESSION   1IY8_A
+VERSION     1IY8_A
+DBSOURCE    pdb: molecule 1IY8, chain 65, release Feb 7, 2013;
+            deposition: Jul 25, 2002;
+            class: Oxidoreductase;
+            source: Mmdb_id: 22914, Pdb_id 1: 1IY8;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Leifsonia aquatica
+  ORGANISM  Leifsonia aquatica
+            Bacteria; Actinobacteria; Micrococcales; Microbacteriaceae;
+            Leifsonia.
+REFERENCE   1  (residues 1 to 267)
+  AUTHORS   Sogabe,S., Yoshizumi,A., Fukami,T.A., Shiratori,Y., Shimizu,S.,
+            Takagi,H., Nakamori,S. and Wada,M.
+  TITLE     The crystal structure and stereospecificity of levodione reductase
+            from Corynebacterium aquaticum M-13
+  JOURNAL   J. Biol. Chem. 278 (21), 19387-19395 (2003)
+   PUBMED   12621044
+REFERENCE   2  (residues 1 to 267)
+  AUTHORS   Sogabe,S., Fukami,T., Shiratori,Y., Yoshizumi,A. and Wada,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUL-2002)
+COMMENT     Crystal Structure Of Levodione Reductase.
+FEATURES             Location/Qualifiers
+     source          1..267
+                     /organism="Leifsonia aquatica"
+                     /db_xref="taxon:144185"
+     Region          10..264
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Validated; PRK05653"
+                     /db_xref="CDD:235546"
+     Region          11..267
+                     /region_name="cyclohexanol_reductase_SDR_c"
+                     /note="cyclohexanol reductases, including levodione
+                     reductase, classical (c) SDRs; cd05330"
+                     /db_xref="CDD:187591"
+     SecStr          12..20
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(20,22..25,44..45,71..73,99..102,123,150,152,165,169,
+                     195..196,200..203)
+                     /site_type="other"
+                     /note="NAD binding site [chemical binding]"
+                     /db_xref="CDD:187591"
+     SecStr          25..35
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Site            order(32,76,107..110,112..114,117..118,125..126,129,133,
+                     137,140,153,156..163,166..167,170..171,174..175,177..179,
+                     181..185,189,196..198,226..232,236,239..240,243,248,
+                     251..255,258..267)
+                     /site_type="other"
+                     /note="homotetramer interface [polypeptide binding]"
+                     /db_xref="CDD:187591"
+     SecStr          36..41
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          42..45
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          47..60
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          65..71
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Site            order(76,107..110,112..114,117..118,125..126,129,133,137,
+                     140,156,158,160..163,166..167,170..171,174..175,177..179,
+                     181..183)
+                     /site_type="other"
+                     /note="homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:187591"
+     SecStr          76..89
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          94..99
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          114..142
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(124,152,165,169)
+                     /site_type="active"
+                     /db_xref="CDD:187591"
+     SecStr          143..151
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     Site            order(162,165)
+                     /site_type="other"
+                     /note="substrate binding site [chemical binding]"
+                     /db_xref="CDD:187591"
+     SecStr          163..183
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          186..196
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          201..210
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          215..223
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          235..245
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          253..260
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+ORIGIN      
+        1 mtatsspttr ftdrvvlitg ggsglgrata vrlaaegakl slvdvssegl easkaavlet
+       61 apdaevlttv advsdeaqve ayvtatterf gridgffnna giegkqnpte sftaaefdkv
+      121 vsinlrgvfl glekvlkimr eqgsgmvvnt asvggirgig nqsgyaaakh gvvgltrnsa
+      181 veygrygiri naiapgaiwt pmvensmkql dpenprkaae efiqvnpskr ygeapeiaav
+      241 vafllsddas yvnatvvpid ggqsaay
+//
+
+LOCUS       2GDZ_A                   267 aa            linear   PRI 12-NOV-2012
+DEFINITION  Chain A, 1 Nad+-dependent 15-hydroxyprostaglandin Dehydrogenase.
+ACCESSION   2GDZ_A
+VERSION     2GDZ_A
+DBSOURCE    pdb: molecule 2GDZ, chain 65, release Nov 8, 2012;
+            deposition: Mar 17, 2006;
+            class: Oxidoreductase;
+            source: Mmdb_id: 38442, Pdb_id 1: 2GDZ;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 267)
+  AUTHORS   Niesen,F.H., Schultz,L., Jadhav,A., Bhatia,C., Guo,K.,
+            Maloney,D.J., Pilka,E.S., Wang,M., Oppermann,U., Heightman,T.D. and
+            Simeonov,A.
+  TITLE     High-affinity inhibitors of human NAD-dependent
+            15-hydroxyprostaglandin dehydrogenase: mechanisms of inhibition and
+            structure-activity relationships
+  JOURNAL   PLoS ONE 5 (11), E13719 (2010)
+   PUBMED   21072165
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 267)
+  AUTHORS   Pilka,E.S., Guo,K., Kavanagh,K., Von Delft,F., Arrowsmith,C.,
+            Weigel,J., Edwards,A., Sundstrom,M., Oppermann,U., Structural
+            Genomics Conso and (Sgc).
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2006)
+COMMENT     Crystal Structure Of 15-Hydroxyprostaglandin Dehydrogenase Type1,
+            Complexed With Nad+.
+FEATURES             Location/Qualifiers
+     source          1..267
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     SecStr          7..14
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Region          8..256
+                     /region_name="ADH_SDR_c_like"
+                     /note="insect type alcohol dehydrogenase (ADH)-like,
+                     classical (c) SDRs; cd05323"
+                     /db_xref="CDD:187584"
+     Region          8..201
+                     /region_name="adh_short"
+                     /note="short chain dehydrogenase; pfam00106"
+                     /db_xref="CDD:278532"
+     Site            order(14,16..19,38..40,65..68,93..96,108,138..140,153,157,
+                     185..188,190..193)
+                     /site_type="other"
+                     /note="NAD binding site [chemical binding]"
+                     /db_xref="CDD:187584"
+     SecStr          19..30
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          31..39
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          41..51
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          59..65
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          70..83
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          88..93
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Site            order(102..103,106,110..111,114..115,118,121,141,144..146,
+                     148..149,151..152,154..156,158..159,162..163,166..167,
+                     169..170,187,219,248,255..256)
+                     /site_type="other"
+                     /note="homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:187584"
+     SecStr          102..124
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(109,140,153,157)
+                     /site_type="active"
+                     /db_xref="CDD:187584"
+     SecStr          132..141
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          151..174
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          177..186
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          210..219
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          225..236
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          242..249
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          250..256
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+ORIGIN      
+        1 mahmvngkva lvtgaaqgig rafaealllk gakvalvdwn leagvqckaa lheqfepqkt
+       61 lfiqcdvadq qqlrdtfrkv vdhfgrldil vnnagvnnek nwektlqinl vsvisgtylg
+      121 ldymskqngg eggiiinmss laglmpvaqq pvycaskhgi vgftrsaala anlmnsgvrl
+      181 naicpgfvnt ailesiekee nmgqyieykd hikdmikyyg ildppliang litlieddal
+      241 ngaimkitts kgihfqdygs kenlyfq
+//
+
+LOCUS       5TT0_A                   263 aa            linear   BCT 02-DEC-2017
+DEFINITION  Chain A, 1 Oxidoreductase, short chain dehydrogenase/reductase
+            family.
+ACCESSION   5TT0_A
+VERSION     5TT0_A
+DBSOURCE    pdb: molecule 5TT0, chain 65, release Nov 22, 2017;
+            deposition: Oct 31, 2016;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 144886, Pdb_id 1: 5TT0;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Burkholderia thailandensis E264
+  ORGANISM  Burkholderia thailandensis E264
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+REFERENCE   1  (residues 1 to 263)
+  AUTHORS   Dranow,D.M., Mayclin,S.J., Lorimer,D.D. and Edwards,T.E.
+  TITLE     Crystal Structure of an Oxidoreductase (short chain
+            dehydrogenase/reductase family) from Burkholderia thailandensis
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 263)
+  AUTHORS   Seattle Structural Genomics Center for Infectious Disease (SSGCID).
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-OCT-2016)
+COMMENT     Crystal Structure of an Oxidoreductase (short chain
+            dehydrogenase/reductase family) from Burkholderia thailandensis.
+FEATURES             Location/Qualifiers
+     source          1..263
+                     /organism="Burkholderia thailandensis E264"
+                     /db_xref="taxon:271848"
+     Region          1..247
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     SecStr          13..19
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     SecStr          23..35
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          37..44
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          46..55
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          60..66
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          71..78
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          84..90
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          103..131
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     SecStr          132..141
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          151..171
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          174..184
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          191..198
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          217..228
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          237..243
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          251..258
+                     /sec_str_type="helix"
+                     /note="helix 8"
+ORIGIN      
+        1 mahhhhhhmt tprttlitga aggigqalvr rflaagdrvl aldrdraala afvdalggaa
+       61 vapvvddltd aarladalan ervdvlvana gtaasatlra ttsaswradl danltatyvs
+      121 veavlagmra rrrgaitivg svngvaalgh paysaakagl isyakslaie ygrdgvranv
+      181 vcpgtvktpa wearvrqnpq vfeqlkkwyp lddfatpddv anaalflssd aaraitgaml
+      241 pvdggllagn rvmaqeltle sfy
+//
+
+LOCUS       5OJG_A                   260 aa            linear   INV 09-FEB-2018
+DEFINITION  Chain A, 1 Dehydrogenase/reductase SDR family member 4.
+ACCESSION   5OJG_A
+VERSION     5OJG_A
+DBSOURCE    pdb: molecule 5OJG, chain 65, release Jan 31, 2018;
+            deposition: Jul 21, 2017;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 156431, Pdb_id 1: 5OJG;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Caenorhabditis elegans
+  ORGANISM  Caenorhabditis elegans
+            Eukaryota; Metazoa; Ecdysozoa; Nematoda; Chromadorea; Rhabditida;
+            Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+REFERENCE   1  (residues 1 to 260)
+  AUTHORS   Kisiela,M., Faust,A., Ebert,B., Maser,E. and Scheidig,A.J.
+  TITLE     Crystal structure and catalytic characterization of the
+            dehydrogenase/reductase SDR family member 4 (DHRS4) from
+            Caenorhabditis elegans
+  JOURNAL   FEBS J. 285 (2), 275-293 (2018)
+   PUBMED   29151266
+REFERENCE   2  (residues 1 to 260)
+  AUTHORS   Scheidig,A.J., Faust,A., Ebert,B., Maser,E. and Kisiela,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUL-2017)
+COMMENT     Crystal structure of the dehydrogenase/reductase SDR family member
+            4 (DHRS4) from Caenorhabditis elegans.
+FEATURES             Location/Qualifiers
+     source          1..260
+                     /organism="Caenorhabditis elegans"
+                     /db_xref="taxon:6239"
+     Region          9..260
+                     /region_name="SDR"
+                     /note="Short-chain dehydrogenases/reductases (SDR);
+                     cl25409"
+                     /db_xref="CDD:330230"
+     SecStr          11..17
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(17,19..20,22,41..43,95..97,146..148,161,165,
+                     191..194)
+                     /site_type="other"
+                     /note="NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:187535"
+     SecStr          22..33
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          35..42
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          44..57
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          61..67
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          72..85
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          90..95
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          110..121
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(120,148,161,165)
+                     /site_type="active"
+                     /db_xref="CDD:187535"
+     SecStr          122..133
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          140..147
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          159..179
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          183..192
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          207..217
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          231..238
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          246..253
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 mpsncrrfeg kvaivtaatk giglaiaerl ldegasvvig srnqknvdea ieylknkglt
+       61 kvagiaghia stddqkklvd ftlqkfgkin ilvnnhginp afghilevsd qvwdklfevn
+      121 vkagfqmtkl vhphiakegg gaiifnasys ayksppgiaa ygvtkttlvg ltralamgla
+      181 kdnirvngia pgviktkmsq vlwdggedae keltdiqeia lgrlgvpddc agtvaylasd
+      241 dssyitgemi iiaggvqarl
+//
+
+LOCUS       3PGX_A                   280 aa            linear   BCT 08-FEB-2017
+DEFINITION  Chain A, 1 Carveol Dehydrogenase.
+ACCESSION   3PGX_A
+VERSION     3PGX_A
+DBSOURCE    pdb: molecule 3PGX, chain 65, release Feb 8, 2017;
+            deposition: Nov 2, 2010;
+            class: Oxidoreductase;
+            source: Mmdb_id: 86512, Pdb_id 1: 3PGX;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Mycobacterium avium subsp. paratuberculosis
+  ORGANISM  Mycobacterium avium subsp. paratuberculosis
+            Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+            Mycobacterium; Mycobacterium avium complex (MAC).
+REFERENCE   1  (residues 1 to 280)
+  AUTHORS   Baugh,L., Phan,I., Begley,D.W., Clifton,M.C., Armour,B.,
+            Dranow,D.M., Taylor,B.M., Muruthi,M.M., Abendroth,J., Fairman,J.W.,
+            Fox D,3r., Dieterich,S.H., Staker,B.L., Gardberg,A.S., Choi,R.,
+            Hewitt,S.N., Napuli,A.J., Myers,J., Barrett,L.K., Zhang,Y.,
+            Ferrell,M., Mundt,E., Thompkins,K., Tran,N., Lyons-Abbott,S.,
+            Abramov,A., Sekar,A., Serbzhinskiy,D., Lorimer,D., Buchko,G.W.,
+            Stacy,R., Stewart,L.J., Edwards,T.E., Van Voorhis,W.C. and
+            Myler,P.J.
+  TITLE     Increasing the structural coverage of tuberculosis drug targets
+  JOURNAL   Tuberculosis (Edinb) 95 (2), 142-148 (2015)
+   PUBMED   25613812
+REFERENCE   2  (residues 1 to 280)
+  AUTHORS   Haft,D.H., Pierce,P.G., Mayclin,S.J., Sullivan,A., Gardberg,A.S.,
+            Abendroth,J., Begley,D.W., Phan,I.Q., Staker,B.L., Myler,P.J.,
+            Marathias,V.M., Lorimer,D.D. and Edwards,T.E.
+  TITLE     Mycofactocin-associated mycobacterial dehydrogenases with
+            non-exchangeable NAD cofactors
+  JOURNAL   Sci Rep 7, 41074 (2017)
+   PUBMED   28120876
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (residues 1 to 280)
+  AUTHORS   Seattle Structural Genomics Center For Infectious Disease (S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-NOV-2010)
+COMMENT     Crystal Structure Of A Putative Carveol Dehydrogenase From
+            Mycobacterium Paratuberculosis Bound To Nicotinamide Adenine
+            Dinucleotide.
+FEATURES             Location/Qualifiers
+     source          1..280
+                     /organism="Mycobacterium avium subsp. paratuberculosis"
+                     /sub_species="paratuberculosis"
+                     /db_xref="taxon:1770"
+     Region          11..280
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Provisional; PRK12825"
+                     /db_xref="CDD:237218"
+     Region          13..278
+                     /region_name="SDR_subfam_1"
+                     /note="SDR family mycofactocin-dependent oxidoreductase;
+                     TIGR03971"
+                     /db_xref="CDD:274889"
+     SecStr          15..22
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(22,24..27,46..47,61,84..86,112..114,135,163..165,
+                     178,182,208..211,213..214)
+                     /site_type="other"
+                     /note="NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:212491"
+     SecStr          27..38
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          39..47
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          62..75
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          78..84
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          89..102
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          107..112
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          126..154
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(136,165,178,182)
+                     /site_type="active"
+                     /db_xref="CDD:212491"
+     SecStr          157..164
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          176..196
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          200..209
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          218..227
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          252..259
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          268..274
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 gpgsmvagqa gslqgrvafi tgaargqgrs havrlaaega diiacdicap vsasvtyapa
+       61 spedldetar lvedqgrkal trvldvrdda alrelvadgm eqfgrldvvv anagvlswgr
+      121 vweltdeqwd tvigvnltgt wrtlratvpa mieagnggsi vvvsssaglk atpgnghysa
+      181 skhgltaltn tlaielgeyg irvnsihpys vetpmiepea mmeifarhps fvhsfppmpv
+      241 qpngfmtade vadvvawlag dgsgtltgtq ipvdkgalky
+//
+
+LOCUS       2CF2_E                   226 aa            linear   MAM 10-OCT-2012
+DEFINITION  Chain E, SEQRES.
+ACCESSION   2CF2_E
+VERSION     2CF2_E
+DBSOURCE    pdb: molecule 2CF2, chain 69, release Jun 18, 2009;
+            deposition: Feb 14, 2006;
+            class: Transferase;
+            source: Mmdb_id: 38112, Pdb_id 1: 2CF2;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Sus scrofa (pig)
+  ORGANISM  Sus scrofa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+            Sus.
+REFERENCE   1  (residues 1 to 226)
+  AUTHORS   Maier,T., Jenni,S. and Ban,N.
+  TITLE     Architecture of mammalian fatty acid synthase at 4.5 A resolution
+  JOURNAL   Science 311 (5765), 1258-1262 (2006)
+   PUBMED   16513975
+REFERENCE   2  (residues 1 to 226)
+  AUTHORS   Maier,T., Jenni,S. and Ban,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2006)
+COMMENT     Architecture Of Mammalian Fatty Acid Synthase.
+FEATURES             Location/Qualifiers
+     source          1..226
+                     /organism="Sus scrofa"
+                     /db_xref="taxon:9823"
+     Region          1..226
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Validated; PRK05557"
+                     /db_xref="CDD:235500"
+     Region          6..226
+                     /region_name="BKR_SDR_c"
+                     /note="beta-Keto acyl carrier protein reductase (BKR),
+                     involved in Type II FAS, classical (c) SDRs; cd05333"
+                     /db_xref="CDD:187594"
+     SecStr          6..12
+                     /sec_str_type="sheet"
+                     /note="strand 70"
+     Site            order(12,14..17,36..37,58..60,86..89,109,136..137,142,146,
+                     172..173,175,177)
+                     /site_type="other"
+                     /note="NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:187594"
+     SecStr          17..28
+                     /sec_str_type="helix"
+                     /note="helix 34"
+     Site            order(24,28,67,93..96,98..100,103..104,107,111..112,
+                     115..116,118..119,122..123,126,138..140,143..144,147..148,
+                     151..152,154..159,161..162,174,189..191,193..196,199,
+                     202..203,205..206,210,213..225)
+                     /site_type="other"
+                     /note="homotetramer interface [polypeptide binding]"
+                     /db_xref="CDD:187594"
+     SecStr          30..37
+                     /sec_str_type="sheet"
+                     /note="strand 71"
+     SecStr          39..49
+                     /sec_str_type="helix"
+                     /note="helix 35"
+     SecStr          52..58
+                     /sec_str_type="sheet"
+                     /note="strand 72"
+     SecStr          63..76
+                     /sec_str_type="helix"
+                     /note="helix 36"
+     SecStr          81..87
+                     /sec_str_type="sheet"
+                     /note="strand 73"
+     Site            order(94..96,98,100,103..104,107,111..112,115..116,119,
+                     122..123,126,138..140,143..144,147..148,151..152,154..156,
+                     158..159)
+                     /site_type="other"
+                     /note="homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:187594"
+     SecStr          100..128
+                     /sec_str_type="helix"
+                     /note="helix 37"
+     SecStr          129..137
+                     /sec_str_type="sheet"
+                     /note="strand 74"
+     SecStr          143..160
+                     /sec_str_type="helix"
+                     /note="helix 38"
+     SecStr          163..173
+                     /sec_str_type="sheet"
+                     /note="strand 75"
+     SecStr          181..188
+                     /sec_str_type="helix"
+                     /note="helix 39"
+     SecStr          198..208
+                     /sec_str_type="helix"
+                     /note="helix 40"
+     SecStr          217..223
+                     /sec_str_type="sheet"
+                     /note="strand 76"
+ORIGIN      
+        1 mnfegkialv tgasrgigra iaetlaarga kvigtatsen gaqaisdylg angkglmlnv
+       61 tdpasiesvl ekiraefgev dilvnnagit rdnllmrmkd eewndiietn lssvfrlska
+      121 vmrammkkrh griitiggqa nyaaakagli gfskslarev asrgitvnvv apgfietsdd
+      181 qragilaqvp agrlggaqei anavaflasd eaayitgetl hvnggm
+//
+
+LOCUS       1U7T_A                   261 aa            linear   PRI 09-OCT-2012
+DEFINITION  Chain A, 1 3-hydroxyacyl-coa Dehydrogenase Type Ii.
+ACCESSION   1U7T_A
+VERSION     1U7T_A
+DBSOURCE    pdb: molecule 1U7T, chain 65, release Oct 6, 2012;
+            deposition: Aug 4, 2004;
+            class: Oxidoreductase;
+            source: Mmdb_id: 29558, Pdb_id 1: 1U7T;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 261)
+  AUTHORS   Kissinger,C.R., Rejto,P.A., Pelletier,L.A., Thomson,J.A.,
+            Showalter,R.E., Abreo,M.A., Agree,C.S., Margosiak,S., Meng,J.J.,
+            Aust,R.M., Vanderpool,D., Li,B., Tempczyk-Russell,A. and
+            Villafranca,J.E.
+  TITLE     Crystal structure of human ABAD/HSD10 with a bound inhibitor:
+            implications for design of Alzheimer's disease therapeutics
+  JOURNAL   J. Mol. Biol. 342 (3), 943-952 (2004)
+   PUBMED   15342248
+REFERENCE   2  (residues 1 to 261)
+  AUTHORS   Kissinger,C.R., Rejto,P.A., Pelletier,L.A., Showalter,R.E. and
+            Villafranca,J.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2004)
+COMMENT     Crystal Structure Of AbadHSD10 WITH A BOUND INHIBITOR.
+FEATURES             Location/Qualifiers
+     source          1..261
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          7..260
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Validated; PRK05557"
+                     /db_xref="CDD:235500"
+     Region          9..261
+                     /region_name="HSD10-like_SDR_c"
+                     /note="17hydroxysteroid dehydrogenase type 10
+                     (HSD10)-like, classical (c) SDRs; cd05371"
+                     /db_xref="CDD:187629"
+     SecStr          10..17
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(17,20..22,41..42,63..65,91..93,120,153..155,168,172,
+                     198..201,203..206)
+                     /site_type="other"
+                     /note="NAD binding site [chemical binding]"
+                     /db_xref="CDD:187629"
+     SecStr          21..33
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          34..42
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          47..54
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          57..63
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          68..81
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          86..91
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Site            order(99..101,103,108..109,111,114..115,118,122..123,
+                     126..127,130,133..134,137,144..146,158..164,166,169..170,
+                     173..174,177..178,180..182,184..185,187..190,192,201,
+                     222..224,226..228,232,235..236,239,241..256,258..261)
+                     /site_type="other"
+                     /note="homotetramer interface [polypeptide binding]"
+                     /db_xref="CDD:187629"
+     Site            order(99..101,108..109,111,114,118,123,126..127,130,
+                     158..164,166,169..170,173..174,177..178,181..182,184..185,
+                     259..261)
+                     /site_type="other"
+                     /note="homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:187629"
+     SecStr          100..103
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          106..109
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          111..136
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(121,155,168,172)
+                     /site_type="active"
+                     /db_xref="CDD:187629"
+     SecStr          147..155
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          166..186
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          190..199
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+     SecStr          211..219
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          231..242
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          248..254
+                     /sec_str_type="sheet"
+                     /note="strand 9"
+ORIGIN      
+        1 maaacrsvkg lvavitggas glglataerl vgqgasavll dlpnsggeaq akklgnncvf
+       61 apadvtsekd vqtalalakg kfgrvdvavn cagiavaskt ynlkkgqtht ledfqrvldv
+      121 nlmgtfnvir lvagemgqne pdqggqrgvi intasvaafe gqvgqaaysa skggivgmtl
+      181 piardlapig irvmtiapgl fgtplltslp ekvrnflasq vpfpsrlgdp aeyahlvqai
+      241 ienpflngev irldgairmq p
+//
+
+LOCUS       3TJR_A                   301 aa            linear   BCT 27-JAN-2018
+DEFINITION  Chain A, 1 short chain dehydrogenase.
+ACCESSION   3TJR_A
+VERSION     3TJR_A
+DBSOURCE    pdb: molecule 3TJR, chain 65, release Jan 17, 2018;
+            deposition: Aug 24, 2011;
+            class: OXIDOREDUCTASE;
+            source: Mmdb_id: 93391, Pdb_id 1: 3TJR;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Mycobacterium avium subsp. paratuberculosis
+  ORGANISM  Mycobacterium avium subsp. paratuberculosis
+            Bacteria; Actinobacteria; Corynebacteriales; Mycobacteriaceae;
+            Mycobacterium; Mycobacterium avium complex (MAC).
+REFERENCE   1  (residues 1 to 301)
+  AUTHORS   Baugh,L., Phan,I., Begley,D.W., Clifton,M.C., Armour,B.,
+            Dranow,D.M., Taylor,B.M., Muruthi,M.M., Abendroth,J., Fairman,J.W.,
+            Fox D,3r., Dieterich,S.H., Staker,B.L., Gardberg,A.S., Choi,R.,
+            Hewitt,S.N., Napuli,A.J., Myers,J., Barrett,L.K., Zhang,Y.,
+            Ferrell,M., Mundt,E., Thompkins,K., Tran,N., Lyons-Abbott,S.,
+            Abramov,A., Sekar,A., Serbzhinskiy,D., Lorimer,D., Buchko,G.W.,
+            Stacy,R., Stewart,L.J., Edwards,T.E., Van Voorhis,W.C. and
+            Myler,P.J.
+  TITLE     Increasing the structural coverage of tuberculosis drug targets
+  JOURNAL   Tuberculosis (Edinb) 95 (2), 142-148 (2015)
+   PUBMED   25613812
+REFERENCE   2  (residues 1 to 301)
+  AUTHORS   Seattle Structural Genomics Center for Infectious Disease (SSGCID).
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-AUG-2011)
+COMMENT     Crystal structure of a Rv0851c ortholog short chain dehydrogenase
+            from Mycobacterium paratuberculosis.
+FEATURES             Location/Qualifiers
+     source          1..301
+                     /organism="Mycobacterium avium subsp. paratuberculosis"
+                     /sub_species="paratuberculosis"
+                     /db_xref="taxon:1770"
+     Region          1..275
+                     /region_name="Domain 1"
+                     /note="NCBI Domains"
+     Region          26..301
+                     /region_name="PRK05876"
+                     /note="short chain dehydrogenase; Provisional"
+                     /db_xref="CDD:135637"
+     Region          29..287
+                     /region_name="PRK06194"
+                     /note="hypothetical protein; Provisional"
+                     /db_xref="CDD:180458"
+     SecStr          31..38
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(38,40..43,62..64,87..89,115..117,138,166..168,181,
+                     185,211..214,216..217)
+                     /site_type="other"
+                     /note="NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:212491"
+     SecStr          43..54
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          55..63
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          65..78
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          81..87
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     SecStr          92..106
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          110..115
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          129..157
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(139,168,181,185)
+                     /site_type="active"
+                     /db_xref="CDD:212491"
+     SecStr          160..169
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          179..198
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          203..212
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          218..225
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          252..265
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          268..273
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          277..297
+                     /sec_str_type="helix"
+                     /note="helix 8"
+ORIGIN      
+        1 mahhhhhhmg tleaqtqgpg smdgflsgfd graavvtgga sgiglatate farrgarlvl
+       61 sdvdqpaleq avnglrgqgf dahgvvcdvr hldemvrlad eafrllggvd vvfsnagivv
+      121 agplaqmnhd dwrwvididl wgsihaveaf lprlleqgtg ghiaftasfa glvpnaglgt
+      181 ygvakygvvg laetlarevk pngigvsvlc pmvvetklvs nserirgady gmsatpegaf
+      241 gplptqdesv saddvarlta dailanrlyi lphaaaresi rrrferidrt fdeqaaegwt
+      301 h
+//
+
+LOCUS       1HXH_A                   253 aa            linear   BCT 10-OCT-2012
+DEFINITION  Chain A, SEQRES.
+ACCESSION   1HXH_A
+VERSION     1HXH_A
+DBSOURCE    pdb: molecule 1HXH, chain 65, release Jun 18, 2009;
+            deposition: Jan 15, 2001;
+            class: Oxidoreductase;
+            source: Mmdb_id: 21346, Pdb_id 1: 1HXH;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Comamonas testosteroni
+  ORGANISM  Comamonas testosteroni
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Comamonadaceae; Comamonas.
+REFERENCE   1  (residues 1 to 253)
+  AUTHORS   Benach,J., Filling,C., Oppermann,U.C., Roversi,P., Bricogne,G.,
+            Berndt,K.D., Jornvall,H. and Ladenstein,R.
+  TITLE     Structure of bacterial 3beta/17beta-hydroxysteroid dehydrogenase at
+            1.2 A resolution: a model for multiple steroid recognition
+  JOURNAL   Biochemistry 41 (50), 14659-14668 (2002)
+   PUBMED   12475215
+REFERENCE   2  (residues 1 to 253)
+  AUTHORS   Benach,J., Filling,C., Oppermann,U.C.T., Roversi,P., Bricogne,G.,
+            Berndt,K.D., Jornvall,H. and Ladenstein,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JAN-2001)
+COMMENT     Comamonas Testosteroni 3beta17BETA HYDROXYSTEROID Dehydrogenase.
+FEATURES             Location/Qualifiers
+     source          1..253
+                     /organism="Comamonas testosteroni"
+                     /db_xref="taxon:285"
+     Region          2..251
+                     /region_name="3beta-17beta-HSD_like_SDR_c"
+                     /note="3beta17beta hydroxysteroid dehydrogenase-like,
+                     classical (c) SDRs; cd05341"
+                     /db_xref="CDD:187600"
+     Site            order(2..3,64,96..97,99,101,104..105,108,112..113,
+                     116..117,119..120,123..124,127,141..146,149,152..153,
+                     156..157,159..161,163..170,185,211..218,221,224..225,228,
+                     233,235..251)
+                     /site_type="other"
+                     /note="homotetramer interface [polypeptide binding]"
+                     /db_xref="CDD:187600"
+     Region          3..245
+                     /region_name="fabG"
+                     /note="3-ketoacyl-(acyl-carrier-protein) reductase;
+                     Validated; PRK05653"
+                     /db_xref="CDD:235546"
+     SecStr          7..13
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(13,16..19,37..39,59..61,87..90,110,136..138,151,155,
+                     183..186,188..190)
+                     /site_type="other"
+                     /note="NAD binding site [chemical binding]"
+                     /db_xref="CDD:187600"
+     SecStr          18..29
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          31..37
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          40..50
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          53..57
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     Site            order(64,96..97,99,101,104..105,108,112..113,116..117,
+                     119..120,123..124,127,141..142,144..146,149,152..153,
+                     156..157,159..161,163..165,167..169)
+                     /site_type="other"
+                     /note="homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:187600"
+     SecStr          64..77
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          82..87
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     SecStr          101..110
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(111,138,151,155)
+                     /site_type="active"
+                     /db_xref="CDD:187600"
+     SecStr          113..126
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          130..139
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          149..172
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          175..187
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          188..195
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     SecStr          215..218
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+     SecStr          221..230
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     SecStr          238..245
+                     /sec_str_type="sheet"
+                     /note="strand 8"
+ORIGIN      
+        1 tnrlqgkval vtggasgvgl evvklllgeg akvafsdine aagqqlaael gersmfvrhd
+       61 vsseadwtlv maavqrrlgt lnvlvnnagi llpgdmetgr ledfsrllki ntesvfigcq
+      121 qgiaamketg gsiinmasvs swlpieqyag ysaskaavsa ltraaalscr kqgyairvns
+      181 ihpdgiytpm mqaslpkgvs kemvlhdpkl nragraympe riaqlvlfla sdessvmsgs
+      241 elhadnsilg mgl
+//
+
+LOCUS       1SO8_A                   261 aa            linear   PRI 11-FEB-2013
+DEFINITION  Chain A, 1 3-hydroxyacyl-coa Dehydrogenase Type Ii.
+ACCESSION   1SO8_A
+VERSION     1SO8_A
+DBSOURCE    pdb: molecule 1SO8, chain 65, release Feb 7, 2013;
+            deposition: Mar 13, 2004;
+            class: Oxidoreductase;
+            source: Mmdb_id: 27859, Pdb_id 1: 1SO8;
+            Exp. method: X-Ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 261)
+  AUTHORS   Lustbader,J.W., Cirilli,M., Lin,C., Xu,H.W., Takuma,K., Wang,N.,
+            Caspersen,C., Chen,X., Pollak,S., Chaney,M., Trinchese,F., Liu,S.,
+            Gunn-Moore,F., Lue,L.F., Walker,D.G., Kuppusamy,P., Zewier,Z.L.,
+            Arancio,O., Stern,D., Yan,S.S. and Wu,H.
+  TITLE     ABAD directly links Abeta to mitochondrial toxicity in Alzheimer's
+            disease
+  JOURNAL   Science 304 (5669), 448-452 (2004)
+   PUBMED   15087549
+REFERENCE   2  (residues 1 to 261)
+  AUTHORS   Lustbader,J.W., Cirilli,M. and Wu,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2004)
+COMMENT     Abeta-bound Human Abad Structure [also Known As 3-hydroxyacyl-coa
+            Dehydrogenase Type Ii (type Ii Hadh), Endoplasmic Reticulum-
+            Associated Amyloid Beta-peptide Binding Protein (erab)].
+FEATURES             Location/Qualifiers
+     source          1..261
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          9..261
+                     /region_name="HSD10-like_SDR_c"
+                     /note="17hydroxysteroid dehydrogenase type 10
+                     (HSD10)-like, classical (c) SDRs; cd05371"
+                     /db_xref="CDD:187629"
+     SecStr          10..17
+                     /sec_str_type="sheet"
+                     /note="strand 1"
+     Site            order(17,20..22,41..42,63..65,91..93,120,153..155,168,172,
+                     198..201,203..206)
+                     /site_type="other"
+                     /note="NAD binding site [chemical binding]"
+                     /db_xref="CDD:187629"
+     Het             join(bond(17),bond(20))
+                     /heterogen="(NA,1001)"
+     SecStr          22..33
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     SecStr          34..42
+                     /sec_str_type="sheet"
+                     /note="strand 2"
+     SecStr          46..54
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     SecStr          57..63
+                     /sec_str_type="sheet"
+                     /note="strand 3"
+     Het             bond(67)
+                     /heterogen="(NA,1000)"
+     SecStr          68..81
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     SecStr          86..91
+                     /sec_str_type="sheet"
+                     /note="strand 4"
+     Site            order(99..101,103,108..109,111,114..115,118,122..123,
+                     126..127,130,133..134,137,144..146,158..164,166,169..170,
+                     173..174,177..178,180..182,184..185,187..190,192,201,
+                     222..224,226..228,232,235..236,239,241..256,258..261)
+                     /site_type="other"
+                     /note="homotetramer interface [polypeptide binding]"
+                     /db_xref="CDD:187629"
+     Site            order(99..101,108..109,111,114,118,123,126..127,130,
+                     158..164,166,169..170,173..174,177..178,181..182,184..185,
+                     259..261)
+                     /site_type="other"
+                     /note="homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:187629"
+     SecStr          120..132
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Site            order(121,155,168,172)
+                     /site_type="active"
+                     /db_xref="CDD:187629"
+     SecStr          147..154
+                     /sec_str_type="sheet"
+                     /note="strand 5"
+     SecStr          179..186
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     SecStr          190..198
+                     /sec_str_type="sheet"
+                     /note="strand 6"
+     SecStr          230..242
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     SecStr          247..252
+                     /sec_str_type="sheet"
+                     /note="strand 7"
+ORIGIN      
+        1 maaacrsvkg lvavitggas glglataerl vgqgasavll dlpnsggeaq akklgnncvf
+       61 apadvtsekd vqtalalakg kfgrvdvavn cagiavaskt ynlkkgqtht ledfqrvldv
+      121 nlmgtfnvir lvagemgqne pdqggqrgvi intasvaafe gqvgqaaysa skggivgmtl
+      181 piardlapig irvmtiapgl fgtplltslp ekvcnflasq vpfpsrlgdp aeyahlvqai
+      241 ienpflngev irldgairmq p
+//
+

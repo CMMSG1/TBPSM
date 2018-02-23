@@ -1,0 +1,489 @@
+BLASTP 2.8.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: 8TUCFH76015
+
+
+Database: PDB protein database
+           96,869 sequences; 24,453,976 total letters
+Query= 
+Length=174
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+4D62_A  Chain A, Structure of the carboxy-terminal domain of t...  71.2    2e-15
+4CW8_A  Chain A, Structure of the carboxy-terminal domain of t...  70.1    5e-15
+3ZPE_A  Chain A, Structure of the carboxy-terminal domain of t...  68.6    2e-14
+3PID_A  Chain A, The apo-form UDP-glucose 6-dehydrogenase with...  52.0    5e-08
+3PHL_A  Chain A, The apo-form UDP-glucose 6-dehydrogenase          52.0    5e-08
+4UMI_A  Chain A, Crystal structure of the fiber head domain of...  53.5    8e-09
+4E2A_A  Chain A, Crystal Structure Of The Putative Acetyltrans...  52.0    3e-08
+5XTO_A  Chain A, Crystal structure of baculoviral sulfhydryl o...  51.2    9e-08
+5XTP_A  Chain A, Crystal structure of baculoviral sulfhydryl o...  51.2    9e-08
+5XTQ_A  Chain A, Crystal structure of baculoviral sulfhydryl o...  51.2    9e-08
+5XTR_A  Chain A, Crystal structure of baculoviral sulfhydryl o...  51.2    9e-08
+5XKI_A  Chain A, Crystal structure of baculoviral sulfhydryl o...  51.2    9e-08
+5XTN_A  Chain A, Crystal structure of baculoviral sulfhydryl o...  50.8    1e-07
+3L7Y_A  Chain A, The Crystal Structure Of Smu.1108c From Strep...  51.2    1e-07
+3L9D_A  Chain A, The Crystal Structure of smu.1046c from Strep...  52.8    2e-08
+3VSF_A  Chain A, Crystal Structure Of 1,3gal43a, An Exo-Beta-1...  57.8    7e-10
+3HS8_A  Chain A, Intersectin 1-peptide-AP2 alpha ear complex       53.9    1e-08
+2Q7F_A  Chain A, Crystal Structure Of Yrrb: A Tpr Protein With...  50.8    8e-08
+2HGM_A  Chain A, Nmr Structure Of The Second Qrrm Domain Of Hu...  51.2    1e-08
+4HBK_A  Chain A, Structure Of The Aldose Reductase From Schist...  52.8    3e-08
+
+ALIGNMENTS
+>4D62_A Chain A, Structure of the carboxy-terminal domain of the turkey 
+type 3 siadenovirus fibre, avirulent form complexed with 
+3-sialyllactose.
+ 4D63_A Chain A, Structure of the carboxy-terminal domain of the turkey 
+type 3 siadenovirus fibre, avirulent form complexed with 
+6-sialyllactose.
+Length=187
+
+ Score = 71.2 bits (173),  Expect = 2e-15, Method: Compositional matrix adjust.
+ Identities = 53/126 (42%), Positives = 73/126 (58%), Gaps = 13/126 (10%)
+
+Query  1    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVS------------YSDGHFLTKS  48
+            GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS  G               ++G F+TK+
+Sbjct  2    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSEFGPPTTMVTGTVSPGRATNGQFVTKT  61
+
+Query  49   GGVINFRKTRVTS-ITITILGNYGLRVVNGELQNTPLTFKGADFKSSTLKDELLIPLEGA  107
+              V+ ++  R  + + I  + N G+       +N  +  + ADF S  L +  ++PL G 
+Sbjct  62   AKVLRYKFVRWDALLIIQFIDNIGVMENPTFYRNKSIELRSADFLSPMLNNTYIVPLNGG  121
+
+Query  108  VQLNTA  113
+            V++ + 
+Sbjct  122  VRVESP  127
+
+
+>4CW8_A Chain A, Structure of the carboxy-terminal domain of the turkey 
+type 3 siadenovirus fibre, virulent form
+Length=190
+
+ Score = 70.1 bits (170),  Expect = 5e-15, Method: Compositional matrix adjust.
+ Identities = 55/129 (43%), Positives = 75/129 (58%), Gaps = 18/129 (14%)
+
+Query  1    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVSY----------------SDGHF  44
+            GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS E  S                 ++G F
+Sbjct  2    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS-EFASIGPPTTMVTGTVSPGRATNGQF  60
+
+Query  45   LTKSGGVINFRKTRVTS-ITITILGNYGLRVVNGELQNTPLTFKGADFKSSTLKDELLIP  103
+            +TK+  V+ ++  R  + + I  + N G+       +N  +  + ADF S TL +  ++P
+Sbjct  61   VTKTAKVLRYKFVRWDALLIIQFIDNIGVIENPTFYRNKSIELRSADFLSPTLNNTYIVP  120
+
+Query  104  LEGAVQLNT  112
+            L G V++ +
+Sbjct  121  LNGGVRVES  129
+
+
+>3ZPE_A Chain A, Structure of the carboxy-terminal domain of the turkey 
+type 3 siadenovirus fibre
+Length=190
+
+ Score = 68.6 bits (166),  Expect = 2e-14, Method: Compositional matrix adjust.
+ Identities = 54/129 (42%), Positives = 74/129 (57%), Gaps = 18/129 (14%)
+
+Query  1    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVSY----------------SDGHF  44
+            GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS E  S                 ++G F
+Sbjct  2    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS-EFASIGPPTTMVTGTVSPGRATNGQF  60
+
+Query  45   LTKSGGVINFRKTRVTS-ITITILGNYGLRVVNGELQNTPLTFKGADFKSSTLKDELLIP  103
+            +TK+  V+ ++  R  + + I  + N G+       +N  +  + ADF S  L +  ++P
+Sbjct  61   VTKTAKVLRYKFVRWDALLIIQFIDNIGVMENPTFYRNKSIELRSADFLSPMLNNTYIVP  120
+
+Query  104  LEGAVQLNT  112
+            L G V++ +
+Sbjct  121  LNGGVRVES  129
+
+
+>3PID_A Chain A, The apo-form UDP-glucose 6-dehydrogenase with a C-terminal 
+six-histidine tag
+Length=432
+
+ Score = 52.0 bits (123),  Expect = 5e-08, Method: Compositional matrix adjust.
+ Identities = 48/103 (47%), Positives = 64/103 (62%), Gaps = 7/103 (7%)
+
+Query  1    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSG-EGVSYSDGHFLTKSGGVINFRKTRV  59
+            GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS    ++ S   ++  S GV+  +   V
+Sbjct  2    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSEFMKITISGTGYVGLSNGVLIAQNHEV  61
+
+Query  60   TSITIT-----ILGNYGLRVVNGELQNTPLTFKGADFKSSTLK  97
+             ++ I      +L      +V+ E+Q   L  K  +F+++T K
+Sbjct  62   VALDIVQAKVDMLNQKISPIVDKEIQEY-LAEKPLNFRATTDK  103
+
+
+>3PHL_A Chain A, The apo-form UDP-glucose 6-dehydrogenase
+ 3PJG_A Chain A, Crystal structure of UDP-glucose dehydrogenase from 
+Klebsiella pneumoniae complexed with product UDP-glucuronic 
+acid
+ 3PLN_A Chain A, Crystal structure of Klebsiella pneumoniae UDP-glucose 
+6-dehydrogenase complexed with UDP-glucose
+ 3PLR_A Chain A, Crystal structure of Klebsiella pneumoniae UDP-glucose 
+6-dehydrogenase complexed with NADH and UDP-glucose
+Length=424
+
+ Score = 52.0 bits (123),  Expect = 5e-08, Method: Compositional matrix adjust.
+ Identities = 48/103 (47%), Positives = 64/103 (62%), Gaps = 7/103 (7%)
+
+Query  1    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSG-EGVSYSDGHFLTKSGGVINFRKTRV  59
+            GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS    ++ S   ++  S GV+  +   V
+Sbjct  2    GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSEFMKITISGTGYVGLSNGVLIAQNHEV  61
+
+Query  60   TSITIT-----ILGNYGLRVVNGELQNTPLTFKGADFKSSTLK  97
+             ++ I      +L      +V+ E+Q   L  K  +F+++T K
+Sbjct  62   VALDIVQAKVDMLNQKISPIVDKEIQEY-LAEKPLNFRATTDK  103
+
+
+>4UMI_A Chain A, Crystal structure of the fiber head domain of the Atadenovirus 
+snake adenovirus 1, native, F23 crystal form
+Length=208
+
+ Score = 53.5 bits (127),  Expect = 8e-09, Method: Compositional matrix adjust.
+ Identities = 49/86 (57%), Positives = 56/86 (65%), Gaps = 13/86 (15%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVSYSDGHFLTKSGGVINFRKTRVT  60
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS E  SY           V ++     +
+Sbjct  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSLE--SYPLPPL------VWDY-----S  47
+
+Query  61  SITITILGNYGLRVVNGELQNTPLTF  86
+           S ++T+    GL VVNG+LQ    TF
+Sbjct  48  SKSLTLDIGPGLTVVNGKLQVIGATF  73
+
+
+>4E2A_A Chain A, Crystal Structure Of The Putative Acetyltransferase 
+From Streptococcus Mutans
+ 4E2A_B Chain B, Crystal Structure Of The Putative Acetyltransferase 
+From Streptococcus Mutans
+Length=207
+
+ Score = 52.0 bits (123),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 47/92 (51%), Positives = 52/92 (57%), Gaps = 9/92 (10%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVSY----SDGHFLTKSGGVINFRK  56
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS   V       D   L +   +  FR+
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMSQVEIRKVNQDELSLLQKIAIQTFRE  61
+
+Query  57  TRVTSITITILGN-----YGLRVVNGELQNTP  83
+           T     T   L N     Y L V+  EL +  
+Sbjct  62  TFAFDNTAEQLQNFFDEAYTLSVLKLELDDKE  93
+
+
+>5XTO_A Chain A, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H114A mutant)
+ 5XTO_B Chain B, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H114A mutant)
+ 5XTO_C Chain C, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H114A mutant)
+ 5XTO_D Chain D, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H114A mutant)
+Length=293
+
+ Score = 51.2 bits (121),  Expect = 9e-08, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 46/68 (68%), Gaps = 5/68 (7%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVS-----YSDGHFLTKSGGVINFR  55
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS   ++     Y D + L     +   R
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMIPLTPLFSRYKDSYLLYSFRLIDLLR  61
+
+Query  56  KTRVTSIT  63
+            ++ T +T
+Sbjct  62  ASKSTHLT  69
+
+
+>5XTP_A Chain A, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H227A mutant)
+ 5XTP_B Chain B, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H227A mutant)
+ 5XTP_C Chain C, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H227A mutant)
+ 5XTP_D Chain D, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H227A mutant)
+Length=293
+
+ Score = 51.2 bits (121),  Expect = 9e-08, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 46/68 (68%), Gaps = 5/68 (7%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVS-----YSDGHFLTKSGGVINFR  55
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS   ++     Y D + L     +   R
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMIPLTPLFSRYKDSYLLYSFRLIDLLR  61
+
+Query  56  KTRVTSIT  63
+            ++ T +T
+Sbjct  62  ASKSTHLT  69
+
+
+>5XTQ_A Chain A, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H227D mutant)
+ 5XTQ_B Chain B, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H227D mutant)
+ 5XTQ_C Chain C, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H227D mutant)
+ 5XTQ_D Chain D, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (H227D mutant)
+Length=293
+
+ Score = 51.2 bits (121),  Expect = 9e-08, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 46/68 (68%), Gaps = 5/68 (7%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVS-----YSDGHFLTKSGGVINFR  55
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS   ++     Y D + L     +   R
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMIPLTPLFSRYKDSYLLYSFRLIDLLR  61
+
+Query  56  KTRVTSIT  63
+            ++ T +T
+Sbjct  62  ASKSTHLT  69
+
+
+>5XTR_A Chain A, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (R127A, E183A mutant)
+ 5XTR_B Chain B, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (R127A, E183A mutant)
+ 5XTR_C Chain C, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (R127A, E183A mutant)
+ 5XTR_D Chain D, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (R127A, E183A mutant)
+Length=293
+
+ Score = 51.2 bits (121),  Expect = 9e-08, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 46/68 (68%), Gaps = 5/68 (7%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVS-----YSDGHFLTKSGGVINFR  55
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS   ++     Y D + L     +   R
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMIPLTPLFSRYKDSYLLYSFRLIDLLR  61
+
+Query  56  KTRVTSIT  63
+            ++ T +T
+Sbjct  62  ASKSTHLT  69
+
+
+>5XKI_A Chain A, Crystal structure of baculoviral sulfhydryl oxidase 
+AcP33 (wide type)
+ 5XKI_B Chain B, Crystal structure of baculoviral sulfhydryl oxidase 
+AcP33 (wide type)
+Length=293
+
+ Score = 51.2 bits (121),  Expect = 9e-08, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 46/68 (68%), Gaps = 5/68 (7%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVS-----YSDGHFLTKSGGVINFR  55
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS   ++     Y D + L     +   R
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMIPLTPLFSRYKDSYLLYSFRLIDLLR  61
+
+Query  56  KTRVTSIT  63
+            ++ T +T
+Sbjct  62  ASKSTHLT  69
+
+
+>5XTN_A Chain A, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (C155A, C158A mutant)
+ 5XTN_B Chain B, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (C155A, C158A mutant)
+ 5XTN_C Chain C, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (C155A, C158A mutant)
+ 5XTN_D Chain D, Crystal structure of baculoviral sulfhydryl oxidase 
+P33 (C155A, C158A mutant)
+Length=293
+
+ Score = 50.8 bits (120),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 46/68 (68%), Gaps = 5/68 (7%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVS-----YSDGHFLTKSGGVINFR  55
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS   ++     Y D + L     +   R
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMIPLTPLFSRYKDSYLLYSFRLIDLLR  61
+
+Query  56  KTRVTSIT  63
+            ++ T +T
+Sbjct  62  ASKSTHLT  69
+
+
+>3L7Y_A Chain A, The Crystal Structure Of Smu.1108c From Streptococcus 
+Mutans Ua159
+Length=304
+
+ Score = 51.2 bits (121),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 40/62 (65%), Positives = 43/62 (69%), Gaps = 3/62 (5%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEG---VSYSDGHFLTKSGGVINFRKT  57
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS       +  DG FL   G   + R  
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMSVKVIATDMDGTFLNSKGSYDHNRFQ  61
+
+Query  58  RV  59
+           R+
+Sbjct  62  RI  63
+
+
+>3L9D_A Chain A, The Crystal Structure of smu.1046c from Streptococcus 
+mutans UA159
+ 3L9D_B Chain B, The Crystal Structure of smu.1046c from Streptococcus 
+mutans UA159
+Length=255
+
+ Score = 52.8 bits (125),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 38/58 (66%), Positives = 40/58 (69%), Gaps = 0/58 (0%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVSYSDGHFLTKSGGVINFRKTR  58
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS     + D +        I FR  R
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMNWEEFLDPYIQAVGELKIKFRGIR  59
+
+
+>3VSF_A Chain A, Crystal Structure Of 1,3gal43a, An Exo-Beta-1,3-Galactanase 
+From Clostridium Thermocellum
+ 3VSF_B Chain B, Crystal Structure Of 1,3gal43a, An Exo-Beta-1,3-Galactanase 
+From Clostridium Thermocellum
+ 3VSF_C Chain C, Crystal Structure Of 1,3gal43a, An Exo-Beta-1,3-Galactanase 
+From Clostridium Thermocellum
+ 3VSF_D Chain D, Crystal Structure Of 1,3gal43a, An Exo-Beta-1,3-Galactanase 
+From Clostridium Thermocellum
+ 3VSF_E Chain E, Crystal Structure Of 1,3gal43a, An Exo-Beta-1,3-Galactanase 
+From Clostridium Thermocellum
+ 3VSF_F Chain F, Crystal Structure Of 1,3gal43a, An Exo-Beta-1,3-Galactanase 
+From Clostridium Thermocellum
+ 3VSZ_A Chain A, Crystal Structure Of Ct1,3gal43a In Complex With Galactan
+ 3VSZ_B Chain B, Crystal Structure Of Ct1,3gal43a In Complex With Galactan
+ 3VSZ_C Chain C, Crystal Structure Of Ct1,3gal43a In Complex With Galactan
+ 3VSZ_D Chain D, Crystal Structure Of Ct1,3gal43a In Complex With Galactan
+ 3VSZ_E Chain E, Crystal Structure Of Ct1,3gal43a In Complex With Galactan
+ 3VSZ_F Chain F, Crystal Structure Of Ct1,3gal43a In Complex With Galactan
+ 3VT0_A Chain A, Crystal Structure Of Ct1,3gal43a In Complex With Lactose
+ 3VT0_B Chain B, Crystal Structure Of Ct1,3gal43a In Complex With Lactose
+ 3VT0_C Chain C, Crystal Structure Of Ct1,3gal43a In Complex With Lactose
+ 3VT0_D Chain D, Crystal Structure Of Ct1,3gal43a In Complex With Lactose
+ 3VT0_E Chain E, Crystal Structure Of Ct1,3gal43a In Complex With Lactose
+ 3VT0_F Chain F, Crystal Structure Of Ct1,3gal43a In Complex With Lactose
+ 3VT1_B Chain B, Crystal Structure Of Ct1,3gal43a In Complex With Galactose
+ 3VT1_C Chain C, Crystal Structure Of Ct1,3gal43a In Complex With Galactose
+ 3VT1_D Chain D, Crystal Structure Of Ct1,3gal43a In Complex With Galactose
+ 3VT1_E Chain E, Crystal Structure Of Ct1,3gal43a In Complex With Galactose
+ 3VT1_F Chain F, Crystal Structure Of Ct1,3gal43a In Complex With Galactose
+ 3VT1_A Chain A, Crystal Structure Of Ct1,3gal43a In Complex With Galactose
+ 3VT2_A Chain A, Crystal Structure Of Ct1,3gal43a In Complex With Isopropy-Beta-D- 
+Thiogalactoside
+ 3VT2_B Chain B, Crystal Structure Of Ct1,3gal43a In Complex With Isopropy-Beta-D- 
+Thiogalactoside
+ 3VT2_C Chain C, Crystal Structure Of Ct1,3gal43a In Complex With Isopropy-Beta-D- 
+Thiogalactoside
+ 3VT2_D Chain D, Crystal Structure Of Ct1,3gal43a In Complex With Isopropy-Beta-D- 
+Thiogalactoside
+ 3VT2_E Chain E, Crystal Structure Of Ct1,3gal43a In Complex With Isopropy-Beta-D- 
+Thiogalactoside
+ 3VT2_F Chain F, Crystal Structure Of Ct1,3gal43a In Complex With Isopropy-Beta-D- 
+Thiogalactoside
+Length=526
+
+ Score = 57.8 bits (138),  Expect = 7e-10, Method: Composition-based stats.
+ Identities = 41/56 (73%), Positives = 43/56 (77%), Gaps = 3/56 (5%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS---GEGVSYSDGHFLTKSGGVIN  53
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS    EGV  +   F   SG VI+
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSEFAAEGVIVNGTQFKDTSGNVIH  57
+
+
+>3HS8_A Chain A, Intersectin 1-peptide-AP2 alpha ear complex
+Length=273
+
+ Score = 53.9 bits (128),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 38/54 (70%), Positives = 42/54 (78%), Gaps = 6/54 (11%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVSYSD--GHFLTKSGGVI  52
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS     + D    F+ K+ GV+
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS----EFEDNFARFVCKNNGVL  51
+
+
+>2Q7F_A Chain A, Crystal Structure Of Yrrb: A Tpr Protein With An Unusual 
+Peptide- Binding Site
+ 2Q7F_B Chain B, Crystal Structure Of Yrrb: A Tpr Protein With An Unusual 
+Peptide- Binding Site
+Length=243
+
+ Score = 50.8 bits (120),  Expect = 8e-08, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 37/48 (77%), Gaps = 0/48 (0%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVSYSDGHFLTKS  48
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS  G         TK+
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSEFGDYEKAAEAFTKA  49
+
+
+>2HGM_A Chain A, Nmr Structure Of The Second Qrrm Domain Of Human Hnrnp 
+F
+ 2KG0_A Chain A, Structure Of The Second Qrrm Domain Of Hnrnp F In Complex 
+With A Agggau G-Tract Rna
+Length=126
+
+ Score = 51.2 bits (121),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 36/42 (86%), Positives = 37/42 (88%), Gaps = 0/42 (0%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVSYSDG  42
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS    S +DG
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSNSADSANDG  43
+
+
+>4HBK_A Chain A, Structure Of The Aldose Reductase From Schistosoma Japonicum
+Length=344
+
+ Score = 52.8 bits (125),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 35/42 (83%), Positives = 38/42 (90%), Gaps = 0/42 (0%)
+
+Query  1   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSGEGVSYSDG  42
+           GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGS E +  ++G
+Sbjct  2   GSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSMEPLKMNNG  43
+
+
+  Database: PDB protein database
+    Posted date:  Feb 19, 2018  3:08 PM
+  Number of letters in database: 24,453,976
+  Number of sequences in database:  96,869
+
+Lambda      K        H
+   0.320    0.134    0.395 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 96869
+Number of Hits to DB: 150646
+Number of extensions: 1570
+Number of successful extensions: 1546
+Number of sequences better than 100: 1426
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 1488
+Number of HSP's successfully gapped: 1453
+Length of query: 174
+Length of database: 24453976
+Length adjustment: 95
+Effective length of query: 79
+Effective length of database: 15251421
+Effective search space: 1204862259
+Effective search space used: 1204862259
+T: 21
+A: 40
+X1: 16 (7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 39 (19.6 bits)
+S2: 50 (23.9 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+
+
